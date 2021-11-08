@@ -23,8 +23,12 @@ title: CV of Dr Richard Matthews
 	</table>
 	
 	<div id="container" style="min-width: 300px; height: 300px; margin: 1em"></div>
-	
+	<script>
 	$('#container').highcharts({
+	chart: {
+        	renderTo: 'container',
+        	type: 'bar'
+    		},
 	xAxis: {
 		categories: ["2021", "2020", "2019", "2018", "2017"]
 		},
@@ -32,6 +36,7 @@ title: CV of Dr Richard Matthews
 		data: [6, 5, 9, 4, 3]
 		}]
 	});
+	</script>
 	
 	<h3>Journals </h3>
 	<ul>
