@@ -50,4 +50,5 @@ img {
   border-radius: 50%;
 }
 
-obfuscate {unicode-bidi: bidi-override; direction: rtl; }
+/* E-Mail */
+.obfuscate { unicode-bidi: bidi-override; direction: rtl; }
