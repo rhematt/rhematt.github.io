@@ -52,3 +52,5 @@ ul.posts li {
 img {
   border-radius: 50%;
 }
+
+obfuscate { unicode-bidi: bidi-override; direction: rtl; }
