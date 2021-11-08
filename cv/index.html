@@ -29,7 +29,7 @@ title: CV of Dr Richard Matthews
                 		text: ''
             		},
     			xAxis: {
-     	 			categories: ["2021", "2020", "2019", "2018", "2017"]
+     	 			categories: ["2017", "2018", "2019", "2020", "20121"]
     			},
 			yAxis: {
 				title: {
@@ -38,11 +38,48 @@ title: CV of Dr Richard Matthews
 			},
     			series: [{
 				name: '',
-      				data: [6, 5, 9, 4, 3]
+      				data: [ 3, 4, 9, 5, 6]
     			}]
   		});
 	});
 	</script>
+	
+	<h3>Citations</h3>
+	
+	<p>Citations 24</p>
+	<p>H-index 3</p>
+	<p>M-index 8.0</p>
+	
+	<div id="citationssgraph" style="width:100%; height:400px;"></div>
+	<script> 
+	document.addEventListener('DOMContentLoaded', function() {
+  		const chart = Highcharts.chart('citationsgraph', {
+			chart: {
+   			   type: 'column'
+		    	},
+			legend:{
+				enabled: false,
+			},
+	  		title: {
+                		text: ''
+            		},
+    			xAxis: {
+     	 			categories: ["2017", "2018", "2019", "2020", "2021"]
+    			},
+			yAxis: {
+				title: {
+                    			text: ''
+                		}
+			},
+    			series: [{
+				name: '',
+      				data: [ 0, 2, 6, 10, 6]
+    			}]
+  		});
+	});
+	</script>
+	<p>Data obtained from Google Scholar.</p>
+	
 	
 	<h3>Journals </h3>
 	<ul>
