@@ -22,10 +22,13 @@ title: CV of Dr Richard Matthews
 		<tr><td>2017</td><td>3</td></tr>
 	</table>
 	
-	<script src="http://code.highcharts.com/highcharts.js"></script>
 	<div id="container" style="min-width: 300px; height: 300px; margin: 1em"></div>
 	
 	$('#container').highcharts({
+	chart: {
+        	renderTo: 'container',
+        	type: 'bar'
+    		},
 	xAxis: {
 		categories: ["2021", "2020", "2019", "2018", "2017"]
 		},
