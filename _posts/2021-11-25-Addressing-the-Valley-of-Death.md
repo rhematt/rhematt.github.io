@@ -15,7 +15,7 @@ The policy is clearly aimed at addressing what entrepreneurial researchers and s
 The valley of death refers to the gap between approximately levels 4 and 7 in development of technology on the Technology Readiness Levels framework first introduced by the National Aeronautics and Space Administration. The gap is linked to the lack of resources as the development focus changes from research being conducted at an academic institution to work fufilled by industry. 
 
 
-![The Valley of Death as seen in Barr et al.](https://github.com/rhematt/rhematt.github.io/blob/main/_posts/images/ValleyofDeath.jpg?raw=true)
+![The Valley of Death as seen in Barr et al.](https://github.com/rhematt/rhematt.github.io/blob/main/_posts/images/ValleyofDeath.jpg)
 <p><div align="center">*The Valley of Death as seen in Barr et al.*</div>
 </p>
 
