@@ -16,7 +16,9 @@ The valley of death refers to the gap between approximately levels 4 and 7 in de
 
 
 <img src="/img/ValleyofDeath.jpg" alt="The Valley of Death as seen in Barr et al." width="100%">
-<p><div align="center">*The Valley of Death as seen in Barr et al.*</div>
+<p><div align="center">
+  <i>The Valley of Death as seen in Barr et al.</i>
+</div>
 </p>
 
 The critical enabler causing the gap is often the lack of a risk appetite by small businesses and start ups who wish to adopt unproven and new technology out of universities. The gap arises as Universities can only push a piece of technology so far before industry has to take it the rest of the way. Universities simply do not have the physical resources to manufacture prototypes on a large scale needed to prove technology beyond the proof of concept stage. They are not well suited to the commercial and capitalist models of making and selling products. This is why we have businesses. Its basic economics. Focus on doing one thing, and one thing well. 
