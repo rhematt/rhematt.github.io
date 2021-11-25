@@ -4,6 +4,9 @@ title: Addressing the Valley of Death
 Published: 25 November 2021
 ---
 
+# Addressing the Valley of Death
+
+
 Academics will never be entrepreneurial. Giving them $242.7M to commercialise research is a waste of money better invested in start ups and SMEs. 
 
 Let me explain. 
