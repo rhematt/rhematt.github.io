@@ -152,10 +152,10 @@ Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most rea
 ## Teaching Experience
 
 ## Academic Service
-- Member Advisory Board. 2021- * . Forensic Science International: Digital Investigation. Elsevier. (To be announced).
-- Technology Chair. 2021 - * . DFRWS-APAC22
-- Peer Reviewer. 2020 - * . Forensic Science International: Digital Investigation. Elsevier.
-- Peer Reviewer. 2020 - * . IEEE Access.
+- Member Advisory Board. 2021- current. Forensic Science International: Digital Investigation. Elsevier. (To be announced).
+- Technology Chair. 2021 - current. DFRWS-APAC22
+- Peer Reviewer. 2020 - current. Forensic Science International: Digital Investigation. Elsevier.
+- Peer Reviewer. 2020 - current. IEEE Access.
 - Technology Chair. 2019-2021. DFRWS-APAC21. 
 - TPC Co-Chair. 2019-2021. DFRWS-APAC21.
 - Member of Governing Council. 2017-2020. University of Adelaide.
@@ -165,8 +165,8 @@ Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most rea
 To see my peer review record please visit me on [Publons.](https://publons.com/researcher/3744919/richard-matthews/) 
 
 ## Expert Memberships
-- 2021 - * , INTERPOL Digital Forensic Experts Group.
-- 2020 - * , UK Forensic Capability Network 3D Experts Group
+- 2021 - current. INTERPOL Digital Forensic Experts Group.
+- 2020 - current. UK Forensic Capability Network 3D Experts Group
 
 ## Continued Training
 - Fundamentals of University Governance. Australian Institute of Company Directors. 2019. 
