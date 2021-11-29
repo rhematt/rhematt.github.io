@@ -16,10 +16,12 @@ To download this CV, simply print to PDF using your browser.
 </address>
 
 ___
+
 **Developer Note**
 
 *2021-11-29*: This page is currently being updated and is not fully reflective of all experience. Information is current, but not exhaustive. 
 ___
+
 
 ## Education
 
