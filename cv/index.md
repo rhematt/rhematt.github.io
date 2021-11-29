@@ -1,6 +1,7 @@
 ---
 layout: default
 title: CV of Dr Richard Matthews
+permalink:/cv/
 ---
   
 <div class="cv">
