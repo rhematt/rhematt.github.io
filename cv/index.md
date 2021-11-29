@@ -13,20 +13,22 @@ permalink:/cv/
 ## Education
 
 **Doctor of Philosophy, 2019, University of Adelaide.**
-2015 - 2019
+2017 - 2019
 **Supervisors:** 
-- Dr Matthew Sorell        (Primary)
-- AProf. Nickolas Faulkner (Co-Supervisor)
+- [Dr Matthew Sorell](https://researchers.adelaide.edu.au/profile/matthew.sorell)        (Primary)
+- [Associate Professor Nickolas Falkner](https://researchers.adelaide.edu.au/profile/nickolas.falkner) (Co-Supervisor)
 
 **Topic:** [Towards a unified thoery of sensor pattern noise: An analysis of dark current, lens effects and temperature bias in CMOS image sensors.](/files/thesis.pdf")
 
 	
 **Masters of Business Administration, 2023(est), University of Adelaide.**
+
 Electives:
 - Systems Thinking
 	
 **Bachelor of Engineering with Honours (Electrical and Electronic), 2015, University of Adelaide.**
 Honours Thesis: Generic Systems Engineering Training System.
+
 Electives:
 - Business Management Systems
 - Systems Engineering
@@ -37,6 +39,7 @@ Electives:
 **Postdoctoral Research Fellow in Cyber Intelligence**
 RHEM Labs
 2020 - 2021
+
 Working as a subcontractor for the NATO Cooperative Cyber Defence Centre of Excellence this research position would normally have been undertaken as a postdoctoral research position based at the centre. However due to travel restriction impossed due to the global COVID 19 pandemic the research was undertaken as a subcontractor in my home nation. Through this collaboration I developed a framework to assess the relevant technological risk possed by generative adversarial networks to an emerging intelligence field known as cyber intelligence. In this work we assisted in defining what cyber intelligence is, investigated different applications of generative advesarial networks within cyber intelligence domain and determined the framework to assess them. The work was published on the CCDCOE's internal library and is avaliable at the following link. [Generative Adversarial Networks from a Cyber Intelligence Perspective](https://ccdcoe.org/library/publications/generative-adversarial-networks-from-a-cyber-intelligence-perspective/).
 
 **Casual Postdoctoral Researcher in Image Forensics**
@@ -67,13 +70,29 @@ Key responsibilities:
 - PCB Soldering
 - 3D Modelling
 - 3D Printing and manufacturing including 
+- High Performance Computing
 
 ### Computer Languages/Software Tools
 - Matlab
 - Python 3.0
 - Fusion360
-- 
+- Markdown
+- Javascript
+- Java
+- HTML
+
+
 ## Awards and Prizes
+
+- 2020 Netflix Security Researcher Hall of Fame Inductee.
+- 2020 Snapchat Security Researcher Thanks.
+- 2019 Excellence in Teaching, Engineering, Computer and Mathematical Sciences Faculty Teaching award.
+- 2019 Adelaide MBA Community Achievement Scholarship.
+- 2018 Second Place South Australia, Missing Persons Hackathon - Team Leader.
+- 2018 Semi-Finalist Channel 7 Young Acheiver of the Year University of Adelaide STEM Award
+- 2018 First Place Exercise Neptune, International Maritime Cyber Security Event, Tallinn Estonia.
+- 2018 Simon Rockcliff Travel Award for Research Supervision and Mentorship
+- 2017 First Place International Open Source Intelligence Cyber Security Event, Tallinn Estonia.
 
 ## Publications
 Last updated: 2021-11-08
@@ -89,14 +108,11 @@ To see my publication activity including citations as a graph please [click here
 - Matthews, R., Sorell, M., & Falkner, N. 2020. Reverse Engineering the Raspberry Pi Camera V2: A study of Pixel Non-Uniformity using a Scanning Electron Microscope. Digital Investigation, 32 (March 2020), 200900. DOI: [10.1016/j.fsidi.2019.200900](https://doi.org/10.1016/j.fsidi.2019.200900)
 - Matthews, R., Sorell, M., & Falkner, N. 2019. An analysis of optical contributions to a photo-sensor's ballistic fingerprints. Digital Investigation, 28 (March 2019), 139-145. DOI: [10.1016/j.diin.2019.02.002](https://doi.org/10.1016/j.diin.2019.02.002)
 - Matthews, R., Sorell, M., & Falkner, N. 2019. Isolating lens effects from source camera identification using sensor pattern noise. Australian Journal of Forensic Sciences, 51(Sup 1), S132-S135. DOI: [10.1080/00450618.2021.189218](https://doi.org/10.1080/00450618.2021.1892186)
-
-
 	
 ### Technical and Policy Reports	
 - Matthews, R., Phillips, B., and Sorell, M. 2019. Space Cyber: Understanding Cyber Vulnerabilities of Small Form Factor Satellites. The University of Adelaide. Adelaide 2019.
 - Matthews, R. 2017. OSINT- SNAFU Facebook Page: A preliminary report prepared for The Hon. Dan Tehan MP  Minister Assisting the Prime Minister for Cyber Security. Adelaide 2017.
 - Matthews, R. 2017. The Byethorne duck - an image provenance investigation technical report. Technical report, The University of Adelaide. Adelaide 2017.
-
 
 ### Popular Sources
 Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most read authors on [The Conversation](https://theconversation.com/profiles/richard-matthews-158213/articles).  Demonstrating the reach of his work, he has been translated into numerous languages include German, Indonesian and Arabic and  amassed a following of over 1,000,000 readers.
@@ -104,6 +120,7 @@ Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most rea
 ## Funding 
 
 ### Grants
+- Matthews, R. 2020. "Applications of GAN from Cyber Intelligence Perspective". NATO CCDCoE. EURO 1,500.
 - Matthews, R., Phillips, B. and Sorell, M. 2019. "Space Cyber Security". Defence Science Technology Group. AUD 48,000 (component funding).
 - Matthews, R and Sorell M. 2018. "3D Scanning and Forensic Digital Reconstruction Methods". National Institute of Forensic Science Australian and New Zealand Policing Advisory Association. AUD 15,000.
 - Matthews, R. Walter Dorothy Duncan Trust. AUD 1,000.
@@ -112,7 +129,6 @@ Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most rea
 
 ### Bug Bounties	
 - Matthews, R. 2020. CreatorID leaked from public content posted to SnapMaps. Online 2020. hackerone. Avalaible: [https://hackerone.com/reports/867521](https://hackerone.com/reports/867521). USD 1,000.
-
 
 ## Conference Proceedings and Abstracts
 - Matthews, R. H., & Sorell, M. 2021. Forensic Applications of 3D Sampling. In Interpol Digital Forensic Experts Group 2021. Online 2021. Avaliable: by request.
@@ -136,8 +152,26 @@ Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most rea
 ## Teaching Experience
 
 ## Academic Service
+- Member Advisory Board. 2021- * . Forensic Science International: Digital Investigation. Elsevier. (To be announced).
+- Technology Chair. 2021 - * . DFRWS-APAC22
+- Peer Reviewer. 2020 - * . Forensic Science International: Digital Investigation. Elsevier.
+- Peer Reviewer. 2020 - * . IEEE Access.
+- Technology Chair. 2019-2021. DFRWS-APAC21. 
+- TPC Co-Chair. 2019-2021. DFRWS-APAC21.
+- Member of Governing Council. 2017-2020. University of Adelaide.
+- Peer Reviewer. 2019 - 2020 Digital Investigation. Elsevier.
+- Member of Academic Board. 2016. University of Adelaide.
+
+To see my peer review record please visit me on [Publons.](https://publons.com/researcher/3744919/richard-matthews/). 
+
+## Expert Memberships
+- 2021 - * , INTERPOL Digital Forensic Experts Group.
+- 2020 - * , UK Forensic Capability Network 3D Experts Group
 
 ## Continued Training
+- Fundamentals of University Governance. Australian Institute of Company Directors. 2019. 
+- Maritime Cyber Operations and Policy. Tallinn Maritime Academy. 2018.
+- Open Source Intelligence and Policy. Tallinn University of Technology. 2017.
 
 ## References
 A list of references are avaliable upon request. The following letters have been provided:
