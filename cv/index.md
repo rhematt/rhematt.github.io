@@ -5,12 +5,12 @@ title: CV of Dr Richard Matthews
   
 <div class="cv">
 	<a href="#" class="download" title="Download CV as PDF">Download CV</a>
-	<h1>Dr Richard Matthews</h1>
+# Dr Richard Matthews 
 	<address>
 	<span class="obfuscate">moc.liamg@swehttamehr</span>
 	</address>
 
-<h2>Education</h2>
+## Education
 
 	<p><b>Doctor of Philosophy, 2019, University of Adelaide.</b></p>
 	<p> 2015 - 2019 </p>
@@ -31,22 +31,22 @@ title: CV of Dr Richard Matthews
 		<p> - Coding and Cryptography </p>
 		<p> - Telecomunications Systems </p>
 
-<h2>Research Employment</h2>
-		<h3><p>Postdoctoral Research Fellow in Cyber Intelligence, </h3></p>
+## Research Employment
+### Postdoctoral Research Fellow in Cyber Intelligence
 		<p>RHEM Labs</p>
 		<p>2020 - 2021</p>
 		<p>Working as a subcontractor for the NATO Cooperative Cyber Defence Centre of Excellence this research position would normally have been undertaken as a postdoctoral research position based at the centre. However due to travel restriction impossed due to the global COVID 19 pandemic the research was undertaken as a subcontractor in my home nation.  
 		Through this collaboration I developed a framework to assess the relevant technological risk possed by generative adversarial networks to an emerging intelligence field known as cyber intelligence. In this work we assisted in defining what cyber intelligence is, investigated different applications of generative advesarial networks within cyber intelligence domain and determined the framework to assess them.
 		The work was published on the CCDCOE's internal library and is avaliable at the following link. <a href="https://ccdcoe.org/library/publications/generative-adversarial-networks-from-a-cyber-intelligence-perspective/"> Generative Adversarial Networks from a Cyber Intelligence Perspective</a>.</P>
 
-		<h3><p> Casual Postdoctoral Researcher in Image Forensics </h3>
+### Casual Postdoctoral Researcher in Image Forensics </h3>
 		<p> University of Adelaide</P>
 		<p> 2020-2021 </p>
 
 		Key responsibilities:
 		- Supervision of honours research students.
 
-		<h3><p> Postdoctoral Researcher in Digital Forensics </h3>
+### Postdoctoral Researcher in Digital Forensics </h3>
 		<p> University of Adelaide</P>
 		<p> 2019-2020 </p>
 
@@ -54,14 +54,14 @@ title: CV of Dr Richard Matthews
 		- Supervision of honours research students.
 	
 
-<h2>Technical Skills</h2>
+## Technical Skills
 
-<h2>Awards and Prizes</h2>
+## Awards and Prizes
 
-	<h2>Publications</h2>
-	<p>Last updated: 2021-11-08</p>
+## Publications
+Last updated: 2021-11-08
 	
-	<h3>Publication Activity</h3>
+### Publication Activity
 	<script src="https://code.highcharts.com/highcharts.js"></script>
 	<div id="publicationsgraph" style="width:100%; height:400px;"></div>
 	<script> 
@@ -92,7 +92,7 @@ title: CV of Dr Richard Matthews
 	});
 	</script>
 	
-	<h3>Citations</h3>
+### Citations
 	
 	<p>Citations 24</p>
 	<p>H-index 3</p>
@@ -129,7 +129,7 @@ title: CV of Dr Richard Matthews
 	<p>Data obtained from Google Scholar.</p>
 	
 	
-	<h3>Journals </h3>
+### Journals 
 	<ul>
 		<li>Matthews, R. H., Falkner, N. & Sorell, M. 2021. Determining Image Sensor Temperature Using Dark Current. Australian Journal of Forensic Sciences. DOI: <a href="http://doi.org/10.1080/00450618.2021.1892186">10.1080/00450618.2021.1892186</a></li>
 		<li>Matthews, R. H., Lovell, K. & Sorell, M. 2021 Ghost Protocol – Snapchat as a method of surveillance. Forensic Science International - Digital Investigation. 36 (April 2021), DOI: <a href="http://doi.org/10.1016/j.fsidi.2021.301112">10.1016/j.fsidi.2021.301112</a></li>
@@ -140,7 +140,7 @@ title: CV of Dr Richard Matthews
 	</ul>
 
 	
-	<h3>Technical and Policy Reports</h3>
+### Technical and Policy Reports
 	
 	<ul>
 		<li>Matthews, R., Phillips, B., and Sorell, M. 2019. Space Cyber: Understanding Cyber Vulnerabilities of Small Form Factor Satellites. The University of Adelaide. Adelaide 2019. </li>
@@ -148,13 +148,13 @@ title: CV of Dr Richard Matthews
 		<li>Matthews, R. 2017. The Byethorne duck - an image provenance investigation technical report. Technical report, The University of Adelaide. Adelaide 2017.</li>
 	</ul>
 
-	<h3>Popular Sources</h3>
+### Popular Sources
 	
 	<p>Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most read authors on <a href="https://theconversation.com/profiles/richard-matthews-158213/articles">The Conversation</a>.  Demonstrating the reach of his work, he has been translated into numerous languages include German, Indonesian and Arabic and  amassed a following of over 1,000,000 readers.</p>
 	
 
 
-<h2> Funding </h2>
+## Funding 
 	
 	<h3> Bug Bounties</h3>
 	
@@ -162,7 +162,7 @@ title: CV of Dr Richard Matthews
 		<li>Matthews, R. 2020. CreatorID leaked from public content posted to SnapMaps. Online 2020. hackerone. Avalaible: <a href="https://hackerone.com/reports/867521">https://hackerone.com/reports/867521</a></li>
 	</ul>
 
-<h2>Conference Proceedings and Abstracts</h2>
+## Conference Proceedings and Abstracts
 	
 	<ul>
 		<li>Matthews, R. H., & Sorell, M. 2021. Forensic Applications of 3D Sampling. In Interpol Digital Forensic Experts Group 2021. Online 2021. Avaliable: by request</li>
@@ -184,13 +184,13 @@ title: CV of Dr Richard Matthews
 		<li>Matthews, R., Sorell, M., & Falkner, N. 2017. Isolating Lens Aberrations within Fixed Pattern Noise. In  Proceedings of the 3rd Interdisciplinary Cyber Research Workshop 2017 (pp. 21-24). Tallinn  University of Technology. Avaliable: <a href="https://haldus.taltech.ee/sites/default/files/2021-04/ICR2017_proceedings_0.pdf">https://haldus.taltech.ee/sites/default/files/2021-04/ICR2017_proceedings_0.pdf</a></li>
 	</ul>
 	
-<h2> Teaching Experience </h2>
+## Teaching Experience
 
-<h2> Academic Service </h2>
+## Academic Service
 
-<h2> Continued Training</h2>
+## Continued Training
 
-<h2>References</h2>
+## References
 	<p> A list of references are avaliable upon request. The following letters have been provided:</p>
 		<p><a href="/files/ScarceFeakinReferencePersonal180718.pdf">Letter from the Honourable Kevin Scarce AC CSC RAN(Rtd) to His Excellency, Dr Tobias Feakin Australian Ambassador for Cyber Affairs 18 July 2018</a></p>
 </div>
