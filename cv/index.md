@@ -4,7 +4,8 @@ title: CV of Dr Richard Matthews
 permalink:/cv/
 ---
   
-<a href="#" class="download" title="Download CV as PDF">Download CV</a>
+To download this CV, simply print to PDF using your browser.
+
 # Dr Richard Matthews 
 <address>
 <span class="obfuscate">moc.liamg@swehttamehr</span>
