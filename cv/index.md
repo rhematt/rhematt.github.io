@@ -8,13 +8,15 @@ To download this CV, simply print to PDF using your browser.
 
 # Dr Richard Matthews 
 <address>
+Adelaide, Australia.
 <span class="obfuscate">moc.liamg@swehttamehr</span>
+<span class="obfuscate">075 572 414 16+</span>
 </address>
 
 ## Education
 
-**Doctor of Philosophy, 2019, University of Adelaide.**
-
+### Doctor of Philosophy
+University of Adelaide\
 2017 - 2019
 
 **Supervisors:** 
@@ -24,12 +26,17 @@ To download this CV, simply print to PDF using your browser.
 **Topic:** [Towards a unified thoery of sensor pattern noise: An analysis of dark current, lens effects and temperature bias in CMOS image sensors.](/files/thesis.pdf")
 
 	
-**Masters of Business Administration, 2023(est), University of Adelaide.**
+### Masters of Business Administration
+University of Adelaide\
+2020 - 2023 est.
 
 Electives:
 - Systems Thinking
 	
-**Bachelor of Engineering with Honours (Electrical and Electronic), 2015, University of Adelaide.**
+### Bachelor of Engineering with Honours (Electrical and Electronic)
+University of Adelaide\
+2008 - 2015
+
 Honours Thesis: Generic Systems Engineering Training System.
 
 Electives:
@@ -39,39 +46,30 @@ Electives:
 - Telecomunications Systems
 
 ## Research Employment
-
-**Postdoctoral Research Fellow in Cyber Intelligence**
-
-RHEM Labs
-
-2020 - 2021
+### Postdoctoral Research Fellow in Cyber Intelligence
+RHEM Labs\
+2020 - 2021\
 
 Working as a subcontractor for the NATO Cooperative Cyber Defence Centre of Excellence this research position would normally have been undertaken as a postdoctoral research position based at the centre. However due to travel restriction impossed due to the global COVID 19 pandemic the research was undertaken as a subcontractor in my home nation. Through this collaboration I developed a framework to assess the relevant technological risk possed by generative adversarial networks to an emerging intelligence field known as cyber intelligence. In this work we assisted in defining what cyber intelligence is, investigated different applications of generative advesarial networks within cyber intelligence domain and determined the framework to assess them. The work was published on the CCDCOE's internal library and is avaliable at the following link. [Generative Adversarial Networks from a Cyber Intelligence Perspective](https://ccdcoe.org/library/publications/generative-adversarial-networks-from-a-cyber-intelligence-perspective/).
 
-**Postdoctoral Researcher in Image Forensics**
-
-University of Adelaide
-
-2020-2021
+### Postdoctoral Researcher in Image Forensics
+University of Adelaide\
+2020-2021\
 
 Key responsibilities:
 - Supervision of honours research students.
 
 
-**Postdoctoral Researcher in Digital Forensics**
-
-University of Adelaide
-
-2019-2020
+### Postdoctoral Researcher in Digital Forensics
+University of Adelaide\
+2019-2020\
 
 Key responsibilities:
 - Supervision of honours research students.
 
-**Postdoctoral Researcher in Cybesrsecurity**
-
-University of Adelaide
-
-2018-2019
+### Postdoctoral Researcher in Cybesrsecurity
+University of Adelaide\
+2018-2019\
 
 Key responsibilities:
 - Supervision of honours research students.
@@ -96,21 +94,22 @@ Key responsibilities:
 
 ## Awards and Prizes
 
-- 2020 Netflix Security Researcher Hall of Fame Inductee.
-- 2020 Snapchat Security Researcher Thanks.
-- 2019 Excellence in Teaching, Engineering, Computer and Mathematical Sciences Faculty Teaching award.
+- 2020 Netflix Security Researcher Hall of Fame Inductee. 
+	- Awarded to those who discover security related issues with the Netflix platform and engage in responsible and ethical disclosure.
+- 2020 Snapchat Security Researcher Thanks. 
+	- Awarded to those who discover security related issues with the Snapchat platform and engage in responsible and ethical disclosure.
+- 2019 Excellence in Teaching, Engineering, Computer and Mathematical Sciences Faculty Teaching award. 
 - 2019 Adelaide MBA Community Achievement Scholarship.
 - 2018 Second Place South Australia, Missing Persons Hackathon - Team Leader.
-- 2018 Semi-Finalist Channel 7 Young Acheiver of the Year University of Adelaide STEM Award
-- 2018 First Place Exercise Neptune, International Maritime Cyber Security Event, Tallinn Estonia.
-- 2018 Simon Rockcliff Travel Award for Research Supervision and Mentorship
+- 2018 Semi-Finalist Channel 7 Young Acheiver of the Year University of Adelaide STEM Award.
+- 2018 First Place Exercise Neptune, International Maritime Cyber Security Event, Tallinn Estonia. Team Leader.
+- 2018 Simon Rockcliff Travel Award for Research Supervision and Mentorship.
 - 2017 First Place International Open Source Intelligence Cyber Security Event, Tallinn Estonia.
 
 ## Publications
 Last updated: 2021-11-08
 	
-### Publication Activity
-
+### Activity
 To see my publication activity including citations as a graph please [click here](activity.html).
 	
 ### Journals 
@@ -163,6 +162,31 @@ Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most rea
 	
 ## Teaching Experience
 
+- Design and innovation
+- 3D Print Prototyping
+- Electrical and Electronic Engineering IB
+- Analog Electronics
+- Digital Electronics
+- 
+
+
+## Course Development
+Dr Matthews has been involved in the design or redesign of the following courses:
+
+- Design and innovation
+	- This core course for between 60 to 120 students introduced the engineering processes of planning, design and innovation, including ethical, social and environmental responsibilities of professional engineers to undergraduates in the electrical and electronic bachelor suite of programs. Topics include; The work of engineers and their outputs; systems engineering concepts; the life cycle of systems; risk, safety and sustainability; the engineering method; design thinking; innovation and creation; managing engineering projects; engineering and business; engineering and society; regulations and social constraints; ethics; working in teams; professional competencies.
+
+- Engineering Technology and Digital Design
+	- This core course for 12 to 25 students was designed for the undergraduate level. It provided an introduction to the role of an engineering technologist. It started with the development of technical and professional attributes essential to perform this role effectively. Through participation in the learning activities, students developed interpersonal communication and professional skills. Hands on experience with a modern digital design software suite commensurate with defence industry practices was also included. This course was delivered in a mixed mode, with intensive lectures complemented by workshops throughout the semester. Assessments were a mixture of assignments, presentations and lab exercises. Half way through this course the teaching was converted to online only due to the covid 19 pandemic.
+
+- 3D Print Prototyping
+	- This course for 15 to 30 students was taught at an undergraduate and postgraduate level. It was designed to introduce students to a basic overview of additive manufacturing technologies and the prototyping options available to them. This course gave students a firm grasp of modelling in 3D as well as providing the basis for the moral, ethical and legal arguments that are currently facing the 3D printing world. Finally, students were introduced to the advances that are to be expected in the next five to ten years and the opportunities that await in the areas of bioprinting.
+
+- Introduction to Programming for IT Professionals
+	- This course was designed for students with no prior programming experience, who are enrolled in the Bachelor of Information Technology. Each cohort was between 60 to 120 students. The course introduced the fundamental concepts of procedural programming, with a focus on approaches to programming relevant for IT, including scripting languages. Topics included algorithms and problem solving, data types, control structures, functions, arrays, files, and the mechanics of running, testing, and debugging. The course also offers an introduction to the ethical, historical and social context of computing.
+
+### Research supervision
+
 ## Academic Service
 - Member Advisory Board. 2022 - current. Forensic Science International: Digital Investigation. Elsevier. (To be announced).
 - Technology Chair. 2021 - current. DFRWS-APAC22
@@ -183,7 +207,14 @@ To see my peer review record please visit me on [Publons.](https://publons.com/r
 ## Continued Training
 - Fundamentals of University Governance. Australian Institute of Company Directors. 2019. 
 - Maritime Cyber Operations and Policy. Tallinn Maritime Academy. 2018.
-- Open Source Intelligence and Policy. Tallinn University of Technology. 2017.
+- Open Source Intelligence and Policy. Tallinn University of Technology. 2017
+
+## Member Bodies
+Dr Matthews has made a commitment to the profession as a member of the following bodies:
+- Australian and New Zealand Forensic Science Society.
+- Institute of Engineers Australia.
+- Australian Institute of Company Directors.
+- Institute of Electrical and Electronic Engineers.
 
 ## References
 A list of references are avaliable upon request. The following letters have been provided:
