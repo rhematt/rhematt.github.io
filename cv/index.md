@@ -12,34 +12,40 @@ title: CV of Dr Richard Matthews
 
 ## Education
 
-	<p><b>Doctor of Philosophy, 2019, University of Adelaide.</b></p>
-	<p> 2015 - 2019 </p>
-	<p> Supervisors: Dr Matthew Sorell        (Primary)</p>
-	<p>              AProf. Nickolas Faulkner (Co-Supervisor)</P>
-        <p> Topic: <a href="/files/thesis.pdf">Towards a unified thoery of sensor pattern noise: An analysis of dark current, lens effects and temperature bias in CMOS image sensors.</a></p>
+** Doctor of Philosophy, 2019, University of Adelaide. **
+2015 - 2019
+**Supervisors:** 
+	<ul>
+		<li>Dr Matthew Sorell        (Primary)</li>
+		<li>AProf. Nickolas Faulkner (Co-Supervisor)</li>
+	</ul>
+**Topic:** <a href="/files/thesis.pdf">Towards a unified thoery of sensor pattern noise: An analysis of dark current, lens effects and temperature bias in CMOS image sensors.</a>
 
 	
-	<p><b>Masters of Business Administration, 2023(est), University of Adelaide.</b></p>
-		<p> Electives: </P>
-		<p> - Systems Thinking </p>
+**Masters of Business Administration, 2023(est), University of Adelaide.**
+Electives:
+	<ul>
+	<li>Systems Thinking</li>
+	</ul>
 	
-	<p><b>Bachelor of Engineering with Honours (Electrical and Electronic), 2015, University of Adelaide.</b></p>
-		<p> Honours Thesis: Generic Systems Engineering Training System </p>
-		<p> Electives: </p>
-		<p> - Business Management Systems </p>
-		<p> - Systems Engineering </p>
-		<p> - Coding and Cryptography </p>
-		<p> - Telecomunications Systems </p>
+	
+**Bachelor of Engineering with Honours (Electrical and Electronic), 2015, University of Adelaide.**
+Honours Thesis: Generic Systems Engineering Training System.
+Electives:
+	<ul>
+		<li>Business Management Systems</li>
+		<li>Systems Engineering</li>
+		<li>Coding and Cryptography</li>
+		<li>Telecomunications Systems</li>
+	</ul>
 
 ## Research Employment
-### Postdoctoral Research Fellow in Cyber Intelligence
-		<p>RHEM Labs</p>
-		<p>2020 - 2021</p>
-		<p>Working as a subcontractor for the NATO Cooperative Cyber Defence Centre of Excellence this research position would normally have been undertaken as a postdoctoral research position based at the centre. However due to travel restriction impossed due to the global COVID 19 pandemic the research was undertaken as a subcontractor in my home nation.  
-		Through this collaboration I developed a framework to assess the relevant technological risk possed by generative adversarial networks to an emerging intelligence field known as cyber intelligence. In this work we assisted in defining what cyber intelligence is, investigated different applications of generative advesarial networks within cyber intelligence domain and determined the framework to assess them.
-		The work was published on the CCDCOE's internal library and is avaliable at the following link. <a href="https://ccdcoe.org/library/publications/generative-adversarial-networks-from-a-cyber-intelligence-perspective/"> Generative Adversarial Networks from a Cyber Intelligence Perspective</a>.</P>
+**Postdoctoral Research Fellow in Cyber Intelligence**
+RHEM Labs
+2020 - 2021
+Working as a subcontractor for the NATO Cooperative Cyber Defence Centre of Excellence this research position would normally have been undertaken as a postdoctoral research position based at the centre. However due to travel restriction impossed due to the global COVID 19 pandemic the research was undertaken as a subcontractor in my home nation. Through this collaboration I developed a framework to assess the relevant technological risk possed by generative adversarial networks to an emerging intelligence field known as cyber intelligence. In this work we assisted in defining what cyber intelligence is, investigated different applications of generative advesarial networks within cyber intelligence domain and determined the framework to assess them. The work was published on the CCDCOE's internal library and is avaliable at the following link. <a href="https://ccdcoe.org/library/publications/generative-adversarial-networks-from-a-cyber-intelligence-perspective/"> Generative Adversarial Networks from a Cyber Intelligence Perspective</
 
-### Casual Postdoctoral Researcher in Image Forensics </h3>
+**Casual Postdoctoral Researcher in Image Forensics**
 		<p> University of Adelaide</P>
 		<p> 2020-2021 </p>
 
