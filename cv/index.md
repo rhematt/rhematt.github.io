@@ -13,7 +13,9 @@ permalink:/cv/
 ## Education
 
 **Doctor of Philosophy, 2019, University of Adelaide.**
+
 2017 - 2019
+
 **Supervisors:** 
 - [Dr Matthew Sorell](https://researchers.adelaide.edu.au/profile/matthew.sorell)        (Primary)
 - [Associate Professor Nickolas Falkner](https://researchers.adelaide.edu.au/profile/nickolas.falkner) (Co-Supervisor)
@@ -36,14 +38,19 @@ Electives:
 - Telecomunications Systems
 
 ## Research Employment
+
 **Postdoctoral Research Fellow in Cyber Intelligence**
+
 RHEM Labs
+
 2020 - 2021
 
 Working as a subcontractor for the NATO Cooperative Cyber Defence Centre of Excellence this research position would normally have been undertaken as a postdoctoral research position based at the centre. However due to travel restriction impossed due to the global COVID 19 pandemic the research was undertaken as a subcontractor in my home nation. Through this collaboration I developed a framework to assess the relevant technological risk possed by generative adversarial networks to an emerging intelligence field known as cyber intelligence. In this work we assisted in defining what cyber intelligence is, investigated different applications of generative advesarial networks within cyber intelligence domain and determined the framework to assess them. The work was published on the CCDCOE's internal library and is avaliable at the following link. [Generative Adversarial Networks from a Cyber Intelligence Perspective](https://ccdcoe.org/library/publications/generative-adversarial-networks-from-a-cyber-intelligence-perspective/).
 
-**Casual Postdoctoral Researcher in Image Forensics**
+**Postdoctoral Researcher in Image Forensics**
+
 University of Adelaide
+
 2020-2021
 
 Key responsibilities:
@@ -51,14 +58,18 @@ Key responsibilities:
 
 
 **Postdoctoral Researcher in Digital Forensics**
+
 University of Adelaide
+
 2019-2020
 
 Key responsibilities:
 - Supervision of honours research students.
 
 **Postdoctoral Researcher in Cybesrsecurity**
+
 University of Adelaide
+
 2018-2019
 
 Key responsibilities:
