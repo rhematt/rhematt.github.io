@@ -79,74 +79,8 @@ Key responsibilities:
 Last updated: 2021-11-08
 	
 ### Publication Activity
-	<script src="https://code.highcharts.com/highcharts.js"></script>
-	<div id="publicationsgraph" style="width:100%; height:400px;"></div>
-	<script> 
-	document.addEventListener('DOMContentLoaded', function() {
-  		const chart = Highcharts.chart('publicationsgraph', {
-			chart: {
-   			   type: 'column'
-		    	},
-			legend:{
-				enabled: false,
-			},
-	  		title: {
-                		text: ''
-            		},
-    			xAxis: {
-     	 			categories: ["2017", "2018", "2019", "2020", "2021"]
-    			},
-			yAxis: {
-				title: {
-                    			text: ''
-                		}
-			},
-    			series: [{
-				name: '',
-      				data: [ 3, 4, 9, 5, 6]
-    			}]
-  		});
-	});
-	</script>
-	
-### Citations
-	
-Citations 24
 
-H-index 3
-
-M-index 1.0
-	
-	<div id="citationsgraph" style="width:100%; height:400px;"></div>
-	<script> 
-	document.addEventListener('DOMContentLoaded', function() {
-  		const chart = Highcharts.chart('citationsgraph', {
-			chart: {
-   			   type: 'column'
-		    	},
-			legend:{
-				enabled: false,
-			},
-	  		title: {
-                		text: ''
-            		},
-    			xAxis: {
-     	 			categories: ["2017", "2018", "2019", "2020", "2021"]
-    			},
-			yAxis: {
-				title: {
-                    			text: ''
-                		}
-			},
-    			series: [{
-				name: '',
-      				data: [ 0, 2, 6, 10, 6]
-    			}]
-  		});
-	});
-	</script>
-	<p>Data obtained from Google Scholar.</p>
-	
+To see my publication activity including citations as a graph please [click here](activity.html).
 	
 ### Journals 
 - Matthews, R. H., Falkner, N. & Sorell, M. 2021. Determining Image Sensor Temperature Using Dark Current. Australian Journal of Forensic Sciences. DOI: [10.1080/00450618.2021.1892186](http://doi.org/10.1080/00450618.2021.1892186)
