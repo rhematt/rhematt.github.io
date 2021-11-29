@@ -162,7 +162,7 @@ Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most rea
 - Peer Reviewer. 2019 - 2020 Digital Investigation. Elsevier.
 - Member of Academic Board. 2016. University of Adelaide.
 
-To see my peer review record please visit me on [Publons.](https://publons.com/researcher/3744919/richard-matthews/). 
+To see my peer review record please visit me on [Publons.](https://publons.com/researcher/3744919/richard-matthews/) 
 
 ## Expert Memberships
 - 2021 - * , INTERPOL Digital Forensic Experts Group.
