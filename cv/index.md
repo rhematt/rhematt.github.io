@@ -10,9 +10,9 @@ To download this CV, simply print to PDF using your browser.
 
 # Dr Richard Matthews 
 <address>
-Adelaide, Australia.
-<span class="obfuscate">moc.liamg@swehttamehr</span>
-<span class="obfuscate">075 572 414 16+</span>
+Adelaide, Australia./
+<span class="obfuscate">moc.liamg@swehttamehr</span>/
+<span class="obfuscate">075 572 414 16+</span>/
 </address>
 
 ___
