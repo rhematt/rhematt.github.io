@@ -56,6 +56,8 @@ Electives:
 - Coding and Cryptography
 - Telecomunications Systems
 
+___
+
 ## Research Employment
 ### Postdoctoral Research Fellow in Cyber Intelligence
 RHEM Labs\
@@ -85,6 +87,8 @@ University of Adelaide\
 Key responsibilities:
 - Supervision of honours research students.
 
+___
+
 ## Technical Skills
 
 ### Lab Skills
@@ -102,6 +106,7 @@ Key responsibilities:
 - Java
 - HTML
 
+___
 
 ## Awards and Prizes
 
@@ -116,6 +121,8 @@ Key responsibilities:
 - 2018 First Place Exercise Neptune, International Maritime Cyber Security Event, Tallinn Estonia. Team Leader.
 - 2018 Simon Rockcliff Travel Award for Research Supervision and Mentorship.
 - 2017 First Place International Open Source Intelligence Cyber Security Event, Tallinn Estonia.
+
+___
 
 ## Publications
 Last updated: 2021-11-08
@@ -138,7 +145,9 @@ To see my publication activity including citations as a graph please [click here
 
 ### Popular Sources
 Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most read authors on [The Conversation](https://theconversation.com/profiles/richard-matthews-158213/articles).  Demonstrating the reach of his work, he has been translated into numerous languages include German, Indonesian and Arabic and  amassed a following of over 1,000,000 readers.
-	
+
+___
+
 ## Funding 
 
 ### Grants
@@ -151,6 +160,8 @@ Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most rea
 
 ### Bug Bounties	
 - Matthews, R. 2020. CreatorID leaked from public content posted to SnapMaps. Online 2020. hackerone. Avalaible: [https://hackerone.com/reports/867521](https://hackerone.com/reports/867521). USD 1,000.
+
+___
 
 ## Conference Proceedings and Abstracts
 - Matthews, R. H., & Sorell, M. 2021. Forensic Applications of 3D Sampling. In Interpol Digital Forensic Experts Group 2021. Online 2021. Avaliable: by request.
@@ -170,7 +181,9 @@ Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most rea
 - Castignani, G., Shanmuganathan, N., Sharifi, N., Sorell, M., & Matthews, R. H. 2018. Security Framework for  Children’s Safety Watches. In Proceedings of the 4th Interdisciplinary Cyber Research Workshop 2018 (pp. 54- 56). Tallinn University of Technology. Avaliable: [https://haldus.taltech.ee/sites/default/files/2021-04/ICR2018_proceedings.pdf](https://haldus.taltech.ee/sites/default/files/2021-04/ICR2018_proceedings.pdf).
 - Jennings, L., Singh, I., Sorell, M., Matthews, R. H., Eggendorfer, T., & Hovhannisyan, K. 2018. Improving the  technical functionality of children’s tracking watches. In Proceedings of the 4th Interdisciplinary Cyber Research  Workshop 2018. Tallinn University of Technology. Avaliable: [https://haldus.taltech.ee/sites/default/files/2021-04/ICR2018_proceedings.pdf](https://haldus.taltech.ee/sites/default/files/2021-04/ICR2018_proceedings.pdf).
 - Matthews, R., Sorell, M., & Falkner, N. 2017. Isolating Lens Aberrations within Fixed Pattern Noise. In  Proceedings of the 3rd Interdisciplinary Cyber Research Workshop 2017 (pp. 21-24). Tallinn  University of Technology. Avaliable: [https://haldus.taltech.ee/sites/default/files/2021-04/ICR2017_proceedings_0.pdf](https://haldus.taltech.ee/sites/default/files/2021-04/ICR2017_proceedings_0.pdf).
-	
+
+___
+
 ## Teaching Experience
 
 ### Academic Appointments
@@ -228,6 +241,8 @@ Tallinn University of Technology
 - Group project supervision
 - Syllubus design
 
+___
+
 ## Academic Service
 - Member Advisory Board. 2022 - current. Forensic Science International: Digital Investigation. Elsevier. (To be announced).
 - Technology Chair. 2021 - current. DFRWS-APAC22
@@ -241,14 +256,20 @@ Tallinn University of Technology
 
 To see my peer review record please visit me on [Publons.](https://publons.com/researcher/3744919/richard-matthews/) 
 
+___
+
 ## Expert Memberships
 - 2021 - current. INTERPOL Digital Forensic Experts Group.
 - 2020 - current. UK Forensic Capability Network 3D Experts Group
+
+___
 
 ## Continued Training
 - Fundamentals of University Governance. Australian Institute of Company Directors. 2019. 
 - Maritime Cyber Operations and Policy. Tallinn Maritime Academy. 2018.
 - Open Source Intelligence and Policy. Tallinn University of Technology. 2017
+
+___
 
 ## Member Bodies
 Dr Matthews has made a commitment to the profession as a member of the following bodies:
@@ -256,6 +277,8 @@ Dr Matthews has made a commitment to the profession as a member of the following
 - Institute of Engineers Australia.
 - Australian Institute of Company Directors.
 - Institute of Electrical and Electronic Engineers.
+
+___
 
 ## References
 A list of references are avaliable upon request. The following letters have been provided:
