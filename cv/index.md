@@ -229,18 +229,6 @@ ___
 
 Working under Dr Matthew Sorell, I was responsible for the course co-ordination and teaching of 60 students completing Design and Innovation. This course looks to teach students further professional practice skills including writing, presentation and consulting skills needed for job ready graduates. Assessment includes the use of two essays, a semester long group project and an innovative peer assessment which enabled the full participation of all students in group work. This caused the assessment of previous years to change from weighted HD and Ds to Ds and Cs reflecting a better practice in line with school expectations. This course was revised to be taught in a blended mode this year due to COVID 19. I was responsible for teaching the online lectures and workshops while the teaching load was shared with a fellow member of the teaching staff who taught an additional workshop person.
 
-**2018 - current, honours supervisor (volunteer), University of Adelaide.**
-
-I have supervised 12 honours students since 2017 as part of a supervison group with Dr Matthew Sorell. 
-
-In 2021, I was primary supervisor for a team of three students completing their honours engineering project of my design. The project involved a further look at the Snap Scraper I developed and the integration of machine learning techniques using a systems engineering approach to create a system capable of scraping content from Snapchat, automatically classify and then store in a database which would meet the requirements of a forensic workflow.
-
-In 2019, I was primary supervisor for a team of two students exploring the forensic applications of 3D imaging through a grant obtained from the National Institute of Forensic Sciences. This work has gone on to form part of my ongoing work in 3D imaging which has been presented internationally as part of the INTERPOL digital experts group and the UK's Forensic Capability Network's 3D Experts group. In each case my students have been given credit for the work they have performed. 
-
-In 2018, I was co-supervisor to seven students across three teams each exploring different applications of cybersecurity as it related to children's safety watches. This work led to the Australian recall of certain devices for not meeting standards. 
-
-Each year, excluding 2020 and 2021, As part of the honours supervision process I was responsible for teaching 20 students from Germany, Estonia and The University of Adelaide the basics in research methods including how to reference, use LaTeX, BibTex, and Microsoft Word to write scholarship, present 3-minute thesis and prepare research abstracts. This program was aimed at commencing honours, masters and doctoral students. The honours supervision lasted all year and included the assessment of honours thesis, group seminar presentations, and assisting students in drafting publications for conferences. While this was disrupted by the global pandemic the intent of the program has remained. 
-
 **2020 - 2021, Lecturer (fixed term), University of Adelaide.**
 
 During first semester of 2020 I was given a fixed term position. Working with Dr’s Bree Bennett, David Harvey and Brian Ng I was responsible for the design and teaching of a new first year course covering the introduction of engineering drawing, CAD and technical design to Engineering Technologists as part of the course Engineering Technology and Digital Design. Students in this class were required to complete a variety of assessment including the design of 3D models, engineering drawings and online quizzes. This course was designed to be taught primarily online due to COVID 19.
@@ -308,8 +296,21 @@ Dr Matthews has been involved in the development of courses for small and large 
 
 ### Research supervision
 
-University of Adelaide
-Tallinn University of Technology
+**2020 - current, masters supervisor (volunteer), Tallin University of Technology.**
+
+I have assisted in the supervision and peer review of masters students at the Tallin University of Technology as an external co-supervisor since 2020. These students undertake a traditional thesis and viva. I have been involved in the review and marking of viva and thesis. 
+
+**2018 - current, honours supervisor (volunteer), University of Adelaide.**
+
+I have supervised 12 honours students since 2017 as part of a supervison group with Dr Matthew Sorell. 
+
+In 2021, I was primary supervisor for a team of three students completing their honours engineering project of my design. The project involved a further look at the Snap Scraper I developed and the integration of machine learning techniques using a systems engineering approach to create a system capable of scraping content from Snapchat, automatically classify and then store in a database which would meet the requirements of a forensic workflow.
+
+In 2019, I was primary supervisor for a team of two students exploring the forensic applications of 3D imaging through a grant obtained from the National Institute of Forensic Sciences. This work has gone on to form part of my ongoing work in 3D imaging which has been presented internationally as part of the INTERPOL digital experts group and the UK's Forensic Capability Network's 3D Experts group. In each case my students have been given credit for the work they have performed. 
+
+In 2018, I was co-supervisor to seven students across three teams each exploring different applications of cybersecurity as it related to children's safety watches. This work led to the Australian recall of certain devices for not meeting standards. 
+
+Each year, excluding 2020 and 2021, As part of the honours supervision process I was responsible for teaching 20 students from Germany, Estonia and The University of Adelaide the basics in research methods including how to reference, use LaTeX, BibTex, and Microsoft Word to write scholarship, present 3-minute thesis and prepare research abstracts. This program was aimed at commencing honours, masters and doctoral students. The honours supervision lasted all year and included the assessment of honours thesis, group seminar presentations, and assisting students in drafting publications for conferences. While this was disrupted by the global pandemic the intent of the program has remained. 
 
 ### Teaching Skills
 - Lab demonstration
