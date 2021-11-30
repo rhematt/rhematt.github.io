@@ -97,7 +97,7 @@ ___
 ### Lab Skills
 - PCB Soldering
 - 3D Modelling
-- 3D Printing and manufacturing including 
+- 3D Printing and manufacturing 
 - High Performance Computing
 
 ### Computer Languages/Software Tools
