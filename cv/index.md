@@ -8,7 +8,7 @@ To download this CV, simply print to PDF using your browser.
 
 
 # Dr Richard Matthews 
-BE(Hons) PhD MIEAust MAICD
+_BE(Hons) PhD MIEAust MAICD_
 
 <address>
 	<p>Adelaide, Australia.</p>
