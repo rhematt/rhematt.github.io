@@ -360,6 +360,14 @@ ___
 
 ___
 
+## Expert Witness
+As a prominent forensic scientist, Dr Matthews is sometimes called to act as an expert witness in matters of digital forensics. He has given evidence and assisted in the following cases:
+
+- R v Catalano [2020] SADC 61 (22 May 2020).
+	- Acted on behalf of the defence regarding matters of digital evidence pertaining to the application Snapchat. 
+	- Outcome, Held: The prosecution has not proved beyond reasonable doubt that the acts occurred. The accused is not guilty of all four counts.
+___
+
 ## Continued Training
 - Fundamentals of University Governance. Australian Institute of Company Directors. 2019. 
 - Maritime Cyber Operations and Policy. Tallinn Maritime Academy. 2018.
