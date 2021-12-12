@@ -7,7 +7,7 @@ permalink:/cv/
 To download this CV, simply print to PDF using your browser.
 
 
-# Dr Richard Matthews 
+<a name="Dr Richard Matthews"></a># Dr Richard Matthews 
 _BE(Hons) PhD MIEAust MAICD_
 
 <address>
@@ -18,7 +18,7 @@ _BE(Hons) PhD MIEAust MAICD_
 
 ___
 
-## Education
+## <a name="Education"></a> Education
 
 ### Doctor of Philosophy
 University of Adelaide\
@@ -52,7 +52,7 @@ Electives:
 
 ___
 
-## Research Employment
+## <a name="Research Employment"></a> Research Employment
 
 ### Researcher in Digital Forensics (Casual)
 University of Adelaide\
@@ -94,15 +94,15 @@ Publications generated:
 
 ___
 
-## Technical Skills
+## <a name="Technical Skills"></a> Technical Skills
 
-### Lab Skills
+### <a name="LabSkills"></a>Lab Skills
 - PCB Soldering
 - 3D Modelling
 - 3D Printing and manufacturing 
 - High Performance Computing
 
-### Computer Languages/Software Tools
+### <a name="ComputerTools"></a>Computer Languages/Software Tools
 - Matlab
 - Python 3.0
 - Fusion360
@@ -113,7 +113,7 @@ ___
 
 ___
 
-## Awards and Prizes
+## <a name="AwardsPrizes"></a> Awards and Prizes
 
 - 2020 Netflix Security Researcher Hall of Fame Inductee. 
 	- Awarded to those who discover security related issues with the Netflix platform and engage in responsible and ethical disclosure.
@@ -129,7 +129,7 @@ ___
 
 ___
 
-## Research Motivation
+## <a name="ResearchMotivation"></a> Research Motivation
 
 During my MBA at the Unviersity of Adelaide I was opened up to the concept of ensuring our skill sets were being used to solve the right problems faced within our modern world. Pedophilia, human trafficking and abuse inflicted against children are some of the most abhorrent crimes known to our modern society. The technological revolution that was ushered in with the internet disrupted all industries, including our ability to combat these vile crimes. In my work I continue building towards systems that will automatically detect, filter and disrupt online abuse in all its forms. 
 
@@ -139,26 +139,26 @@ I acknowldege that my own work is not enough to solve the issues recognised by t
 
 ___
 
-## Publications
+## <a name="Publications"></a> Publications
 Last updated: 2021-11-08
 	
-### Activity
+### <a name="Activity"></a>Activity
 To see my publication activity including citations as a graph please [click here](activity.html).
 	
-### Journals 
+### <a name="Journals"></a>Journals 
 - Matthews, R. H., Falkner, N. & Sorell, M. 2021. Determining Image Sensor Temperature Using Dark Current. Australian Journal of Forensic Sciences. DOI: [10.1080/00450618.2021.1892186](http://doi.org/10.1080/00450618.2021.1892186)
 - Matthews, R. H., Lovell, K. & Sorell, M. 2021 Ghost Protocol – Snapchat as a method of surveillance. Forensic Science International - Digital Investigation. 36 (April 2021), DOI: [10.1016/j.fsidi.2021.301112](http://doi.org/10.1016/j.fsidi.2021.301112)
 - Matthews, R., Sorell, M., & Falkner, N. 2020. Reverse Engineering the Raspberry Pi Camera V2: A study of Pixel Non-Uniformity using a Scanning Electron Microscope. Digital Investigation, 32 (March 2020), 200900. DOI: [10.1016/j.fsidi.2019.200900](https://doi.org/10.1016/j.fsidi.2019.200900)
 - Matthews, R., Sorell, M., & Falkner, N. 2019. An analysis of optical contributions to a photo-sensor's ballistic fingerprints. Digital Investigation, 28 (March 2019), 139-145. DOI: [10.1016/j.diin.2019.02.002](https://doi.org/10.1016/j.diin.2019.02.002)
 - Matthews, R., Sorell, M., & Falkner, N. 2019. Isolating lens effects from source camera identification using sensor pattern noise. Australian Journal of Forensic Sciences, 51(Sup 1), S132-S135. DOI: [10.1080/00450618.2021.189218](https://doi.org/10.1080/00450618.2021.1892186)
 	
-### Technical and Policy Reports	
+### <a name="Technical"></a>Technical and Policy Reports	
 - Biondi, F., Buonocore, G., & Matthews, R. 2021. Generative Adversarial Networks from a Cyber Intelligence perspective. Library of The NATO Cooperative Cyber Defence Centre of Excellence. Available: [https://ccdcoe.org/library/publications/generative-adversarial-networks-from-a-cyber-intelligence-perspective/](https://ccdcoe.org/library/publications/generative-adversarial-networks-from-a-cyber-intelligence-perspective/)
 - Matthews, R., Phillips, B., and Sorell, M. 2019. Space Cyber: Understanding Cyber Vulnerabilities of Small Form Factor Satellites. The University of Adelaide. Adelaide 2019.
 - Matthews, R. 2017. OSINT- SNAFU Facebook Page: A preliminary report prepared for The Hon. Dan Tehan MP  Minister Assisting the Prime Minister for Cyber Security. Adelaide 2017.
 - Matthews, R. 2017. The Byethorne duck - an image provenance investigation technical report. Technical report, The University of Adelaide. Adelaide 2017.
 
-### Popular Sources
+### <a name="PopularSources"></a>Popular Sources
 Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most read authors on [The Conversation](https://theconversation.com/profiles/richard-matthews-158213/articles).  Demonstrating the reach of his work, he has been translated into numerous languages include German, Indonesian and Arabic and  amassed a following of over 1,000,000 readers.
 
 - Molloy, S. (2020). ‘Modern warfare has changed’: Cyber attack threat rising in Australia. News.com.au (Interview). Available:[https://www.news.com.au/technology/online/security/modern-warfare-has-changed-cyber-attack-threat-rising-in-australia/news-story/2e642eba95c2e9f22dce801536cf6534](https://www.news.com.au/technology/online/security/modern-warfare-has-changed-cyber-attack-threat-rising-in-australia/news-story/2e642eba95c2e9f22dce801536cf6534)
@@ -188,7 +188,7 @@ Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most rea
 
 ___
 
-## Patents and Open Source Deployments
+## <a name="Patents"></a> Patents and Open Source Deployments
 - Snap Scraper. 31 May 2020. [https://rhematt.github.io/Snap-Scraper/](https://rhematt.github.io/Snap-Scraper/)
 	- SnapScraper is an open source intelligence tool which enables users to download media uploaded to Snapchat’s Snap Map using a set of latitude and longitiude co-ordinates.
 	- I developed this application in Swift in 2020.
@@ -197,9 +197,9 @@ ___
 
 ___
 
-## Funding 
+<a name="Funding"></a>## Funding 
 
-### Grants
+### <a name="Grants"></a>Grants
 - Matthews, R. 2020. "Applications of GAN from Cyber Intelligence Perspective". NATO CCDCoE. EURO 1,500.
 - Matthews, R., Phillips, B. and Sorell, M. 2019. "Space Cyber Security". Defence Science Technology Group. AUD 48,000 (component funding).
 - Matthews, R and Sorell M. 2018. "3D Scanning and Forensic Digital Reconstruction Methods". National Institute of Forensic Science Australian and New Zealand Policing Advisory Association. AUD 15,000.
@@ -207,12 +207,12 @@ ___
 - Matthews, R. Travel to collaborate with NATO CCDCoE, ENFSI-EKEI and industry partners in Tallin Estonia. Simon Rockcliff Grant. AUD 4,000.
 - Matthews, R. 2015-2019. Australian Postgraduate Award. Australian Government. AUD 98,485.
 
-### Bug Bounties	
+### <a name="BugBounties"></a>Bug Bounties	
 - Matthews, R. 2020. CreatorID leaked from public content posted to SnapMaps. Online 2020. hackerone. Avalaible: [https://hackerone.com/reports/867521](https://hackerone.com/reports/867521). USD 1,000.
 
 ___
 
-## Conference Proceedings and Abstracts
+## <a name="ConferenceProceedings"></a> Conference Proceedings and Abstracts
 - Matthews, R. H., & Sorell, M. 2021. Forensic Applications of 3D Sampling. In Interpol Digital Forensic Experts Group 2021. Online 2021. Available: by request.
 - Matthews, R. H., & Sorell, M. 2021. Forensic Applications of 3D Scanning. In FCN Science Fest 2021. Online 2021. Available: [https://www.fcn.police.uk/publications/session-8-dr-richard-matthews](https://www.fcn.police.uk/publications/session-8-dr-richard-matthews).
 - Matthews, R. H., Falkner, N. & Sorell, M. 2021. Determining Image Sensor Temperature Using Dark Current. In DFRWS APAC 2021. Online 2021. Available: [https://youtu.be/4B9wB3njbcc](https://youtu.be/4B9wB3njbcc).
@@ -233,9 +233,9 @@ ___
 
 ___
 
-## Teaching Experience
+## <a name="TeachingExperience"></a> Teaching Experience
 
-### Academic Appointments 
+### <a name="AcademicAppointments"></a>Academic Appointments 
 
 **2021 - current, Lecturer (Casual), University of Adelaide.**
 
@@ -267,7 +267,7 @@ Reporting to Dr Hong Gunn Chew, I was responsible for the primary supervision an
 
 Reporting to Dr Matthew Sorell, I conducted tutorials for the first year electrical and electronic engineering subject EEIB. In addition to the tutorials I also supervised mid semester quizzes, did marking and also supervised a replacement exam.
 
-### Course Development
+### <a name="CourseDevelopment"></a>Course Development
 Dr Matthews has been involved in the development of courses for small and large cohorts including those aimed at introductory, intermediate and advance levels. This includes the design or redesign of the following courses at the University of Adelaide:
 
 **Design and innovation**
@@ -306,7 +306,7 @@ Dr Matthews has been involved in the development of courses for small and large 
 - Topics included algorithms and problem solving, data types, control structures, functions, arrays, files, and the mechanics of running, testing, and debugging. 
 - The course also offers an introduction to the ethical, historical and social context of computing.
 
-### Research supervision
+### <a name="ResearchSupervision"></a> Research supervision
 
 **2020 - current, masters supervisor (volunteer), Tallin University of Technology.**
 
@@ -324,7 +324,7 @@ In 2018, I was co-supervisor to seven students across three teams each exploring
 
 Each year, excluding 2020 and 2021, As part of the honours supervision process I was responsible for teaching 20 students from Germany, Estonia and The University of Adelaide the basics in research methods including how to reference, use LaTeX, BibTex, and Microsoft Word to write scholarship, present 3-minute thesis and prepare research abstracts. This program was aimed at commencing honours, masters and doctoral students. The honours supervision lasted all year and included the assessment of honours thesis, group seminar presentations, and assisting students in drafting publications for conferences. While this was disrupted by the global pandemic the intent of the program has remained. 
 
-### Teaching Skills
+### <a name="TeachingSkills"></a>Teaching Skills
 - Lab demonstration
 - Tutorial demonstration
 - Lecturing
@@ -348,7 +348,7 @@ Each year, excluding 2020 and 2021, As part of the honours supervision process I
 
 ___
 
-## Academic Service
+## <a name="AcademicService"></a> Academic Service
 - Member Advisory Board. 2022 - current. Forensic Science International: Digital Investigation. Elsevier. (To be announced).
 - Technology Chair. 2021 - current. DFRWS-APAC22.
 - Peer Reviewer. 2021 - current. Australian Institute of Criminology. 
@@ -364,13 +364,13 @@ To see my disclosed peer review record please visit me on [Publons.](https://pub
 
 ___
 
-## Expert Memberships
+## <a name="ExpertMemberships"></a> Expert Memberships
 - 2021 - current. INTERPOL Digital Forensic Experts Group.
 - 2020 - current. UK Forensic Capability Network 3D Experts Group
 
 ___
 
-## Expert Witness
+## <a name="ExpertWitness"></a> Expert Witness
 As a prominent forensic scientist, Dr Matthews is sometimes called to act as an expert witness in matters of digital forensics. He has given evidence and assisted in the following cases:
 
 - R v Catalano [2020] SADC 61 (22 May 2020).
@@ -379,14 +379,14 @@ As a prominent forensic scientist, Dr Matthews is sometimes called to act as an 
 
 ___
 
-## Continued Training
+## <a name="ContinuedTraining"></a>Continued Training
 - Fundamentals of University Governance. Australian Institute of Company Directors. 2019. 
 - Maritime Cyber Operations and Policy. Tallinn Maritime Academy. 2018.
 - Open Source Intelligence and Policy. Tallinn University of Technology. 2017
 
 ___
 
-## Member Bodies
+## <a name="MemberBodies"></a>Member Bodies
 Dr Matthews has made a commitment to the profession as a member of the following bodies:
 - Australian and New Zealand Forensic Science Society.
 - Institute of Engineers Australia.
@@ -395,7 +395,7 @@ Dr Matthews has made a commitment to the profession as a member of the following
 
 ___
 
-## References
+## <a name="References"></a>References
 A list of references are available upon request. 
 
 
