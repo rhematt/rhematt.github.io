@@ -7,7 +7,7 @@ permalink:/cv/
 To download this CV, simply print to PDF using your browser.
 
 
-<a name="Dr Richard Matthews"></a># Dr Richard Matthews 
+# Dr Richard Matthews 
 _BE(Hons) PhD MIEAust MAICD_
 
 <address>
@@ -17,6 +17,40 @@ _BE(Hons) PhD MIEAust MAICD_
 </address>
 
 ___
+## Contents
+
+- [Education](#Education)
+- [Research Employment](#ResearchEmployment)
+- [TechnicalSkills](#TechnicalSkills)
+	- [Lab Skills](#LabSkills)
+	- [Computer languages/ Software Tools](#ComputerTools) 
+- [Awards and Prizes](#AwardsPrizes)
+- [Research Motivation](#ResearchMotivation)
+- [Publications](#Publications)
+	- [Activity](#Activity)
+	- [Journals](#Journals)
+	- [Technical and Policy Reports](#Technical)
+	- [Popular Scources](#Popular)	
+- [Patents and Open Source Deployments](#Patents)
+- [Funding](#Funding)
+	- [Grants](#Grants)
+	- [Bug Bounties](#BugBounties) 
+- [Conference Proceedings and Abstracts](#ConferenceProceedings)
+- [Teaching Experience](#TeachingExperience)
+	- [Academic Appointments](#AcademicAppointments) 
+	- [Course Development](#CourseDevelopment)
+	- [Research Supervision](#ResearchSupervision)
+	- [Teaching Skills](#TeachingSkills)
+- [Academic Service](#AcademicService)
+- [Expert Memberships](#ExpertMemberships)
+- [Expert Witness](#ExpertWitness)
+- [Continued Training](#ContinuedTraining)
+- [Member Bodies](#MemberBodies)
+- [References](#References)
+
+___
+
+
 
 ## <a name="Education"></a> Education
 
@@ -52,7 +86,7 @@ Electives:
 
 ___
 
-## <a name="Research Employment"></a> Research Employment
+## <a name="ResearchEmployment"></a> Research Employment
 
 ### Researcher in Digital Forensics (Casual)
 University of Adelaide\
@@ -94,7 +128,7 @@ Publications generated:
 
 ___
 
-## <a name="Technical Skills"></a> Technical Skills
+## <a name="TechnicalSkills"></a> Technical Skills
 
 ### <a name="LabSkills"></a>Lab Skills
 - PCB Soldering
@@ -323,6 +357,14 @@ In 2019, I was primary supervisor for a team of two students exploring the foren
 In 2018, I was co-supervisor to seven students across three teams each exploring different applications of cybersecurity as it related to children's safety watches. This work led to the Australian recall of certain devices for not meeting standards. 
 
 Each year, excluding 2020 and 2021, As part of the honours supervision process I was responsible for teaching 20 students from Germany, Estonia and The University of Adelaide the basics in research methods including how to reference, use LaTeX, BibTex, and Microsoft Word to write scholarship, present 3-minute thesis and prepare research abstracts. This program was aimed at commencing honours, masters and doctoral students. The honours supervision lasted all year and included the assessment of honours thesis, group seminar presentations, and assisting students in drafting publications for conferences. While this was disrupted by the global pandemic the intent of the program has remained. 
+
+**2020 - 2020, Summer Research Scholarship Supervisor (volunteer), University of Adelaide.**
+
+During Semester 2 of 2020 I supervised a summer research scholarship holder who completed a program of enquiry into the automatic categorisation and moderation of short form videos. 10 second videos were obtained from Snapchat and provided to several different machine learning engines to detect videos taken while behind the the seat of a steering wheel. The motivation was to detect people using their camera phone while driving. 
+
+**2019 - 2020, Summer Space Program Supervisor (volunteer), University of Adelaide.**
+
+
 
 ### <a name="TeachingSkills"></a>Teaching Skills
 - Lab demonstration
