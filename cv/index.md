@@ -21,7 +21,7 @@ ___
 
 - [Education](#Education)
 - [Research Employment](#ResearchEmployment)
-- [TechnicalSkills](#TechnicalSkills)
+- [Technical Skills](#TechnicalSkills)
 	- [Lab Skills](#LabSkills)
 	- [Computer languages/ Software Tools](#ComputerTools) 
 - [Awards and Prizes](#AwardsPrizes)
