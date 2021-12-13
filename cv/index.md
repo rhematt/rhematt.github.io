@@ -238,7 +238,7 @@ ___
 <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
-<a name="Funding"></a>## Funding 
+## <a name="Funding"></a> Funding 
 
 ### <a name="Grants"></a>Grants
 - Matthews, R. 2020. "Applications of GAN from Cyber Intelligence Perspective". NATO CCDCoE. EURO 1,500.
