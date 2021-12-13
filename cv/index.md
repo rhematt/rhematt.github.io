@@ -84,8 +84,7 @@ Electives:
 - Coding and Cryptography
 - Telecomunications Systems
 
-
-<p align="right"> <a href="#Contents">Back to Contents</a> [Back to Contents](#Contents) </p>
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
 ## <a name="ResearchEmployment"></a> Research Employment
@@ -128,6 +127,7 @@ Publications generated:
 - Matthews, R. H., Phillips, B., & Sorell, M. 2019. How security ready is the Australian Space Industry? The challenges of digital security in space. In ASRC19. Adelaide 2019. Available [http://www.nssa.com.au/19asrc/resources/19ASRC_Program_Abstracts.pdf](http://www.nssa.com.au/19asrc/resources/19ASRC_Program_Abstracts.pdf).
 - Matthews, R., Phillips, B., and Sorell, M. 2019. Space Cyber: Understanding Cyber Vulnerabilities of Small Form Factor Satellites. The University of Adelaide. Adelaide 2019.
 
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
 ## <a name="TechnicalSkills"></a> Technical Skills
@@ -147,6 +147,7 @@ ___
 - Java
 - HTML
 
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
 ## <a name="AwardsPrizes"></a> Awards and Prizes
@@ -163,6 +164,7 @@ ___
 - 2018 Simon Rockcliff Travel Award for Research Supervision and Mentorship.
 - 2017 First Place International Open Source Intelligence Cyber Security Event, Tallinn Estonia.
 
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
 ## <a name="ResearchMotivation"></a> Research Motivation
@@ -173,6 +175,7 @@ My take on this work is unique due to the integration of systems thinking. I ens
 
 I acknowldege that my own work is not enough to solve the issues recognised by the systems level analysis of the problem. Recognising the limitations technology has, through international and interdisciplinary collaborations the human, psychological and criminological elements of these challenges become clear leading to victimcentric reforms, educational programs and cultural changes to eliminate the socioeconomic factors leading to environments which cater to online abuse.
 
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
 ## <a name="Publications"></a> Publications
@@ -222,6 +225,7 @@ Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most rea
 - Grace. L, (2017), Fake photos and how forensic digital image provenance can prove they aren’t or are real. The Advertiser. (interview). Available:[https://www.adelaidenow.com.au/news/south-australia/fake-photos-and-how-forensic-digital-image-provenance-can-prove-they-arent-or-are-real/news-story/9d2086b6357f681d1144310a94f60ce4](https://www.adelaidenow.com.au/news/south-australia/fake-photos-and-how-forensic-digital-image-provenance-can-prove-they-arent-or-are-real/news-story/9d2086b6357f681d1144310a94f60ce4)
 - Matthews, R. (2105) The playboy centrefold at the centre of computer science. The Conversation, 2015. Available:[https://theconversation.com/the-playboy-centrefold-at-the-centre-of-computer-science-41457](https://theconversation.com/the-playboy-centrefold-at-the-centre-of-computer-science-41457)
 
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
 ## <a name="Patents"></a> Patents and Open Source Deployments
@@ -231,6 +235,7 @@ ___
 	-  This project led to a honours project for 3 students in 2021 at the University of Adelaide to expand upon the functionality for automatically moderating the content uploaded to social media networks using convolutional networks. 
 	-  A decision was made to release this innovation under an MIT licence rather than pursue a patent due to the application space for the law enforcement and intelligence community at large.
 
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
 <a name="Funding"></a>## Funding 
@@ -246,6 +251,7 @@ ___
 ### <a name="BugBounties"></a>Bug Bounties	
 - Matthews, R. 2020. CreatorID leaked from public content posted to SnapMaps. Online 2020. hackerone. Avalaible: [https://hackerone.com/reports/867521](https://hackerone.com/reports/867521). USD 1,000.
 
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
 ## <a name="ConferenceProceedings"></a> Conference Proceedings and Abstracts
@@ -267,6 +273,7 @@ ___
 - Jennings, L., Singh, I., Sorell, M., Matthews, R. H., Eggendorfer, T., & Hovhannisyan, K. 2018. Improving the  technical functionality of children’s tracking watches. In Proceedings of the 4th Interdisciplinary Cyber Research  Workshop 2018. Tallinn University of Technology. Available: [https://haldus.taltech.ee/sites/default/files/2021-04/ICR2018_proceedings.pdf](https://haldus.taltech.ee/sites/default/files/2021-04/ICR2018_proceedings.pdf).
 - Matthews, R., Sorell, M., & Falkner, N. 2017. Isolating Lens Aberrations within Fixed Pattern Noise. In  Proceedings of the 3rd Interdisciplinary Cyber Research Workshop 2017 (pp. 21-24). Tallinn  University of Technology. Available: [https://haldus.taltech.ee/sites/default/files/2021-04/ICR2017_proceedings_0.pdf](https://haldus.taltech.ee/sites/default/files/2021-04/ICR2017_proceedings_0.pdf).
 
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
 ## <a name="TeachingExperience"></a> Teaching Experience
@@ -366,7 +373,7 @@ During Semester 2 of 2020 I supervised a summer research scholarship holder who 
 
 **2019 - 2020, Summer Space Program Supervisor (volunteer), University of Adelaide.**
 
-
+**Details to be added pending approval**
 
 ### <a name="TeachingSkills"></a>Teaching Skills
 - Lab demonstration
@@ -390,6 +397,7 @@ During Semester 2 of 2020 I supervised a summer research scholarship holder who 
 - Zoom
 - Microsoft Teams
 
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
 ## <a name="AcademicService"></a> Academic Service
@@ -406,12 +414,14 @@ ___
 
 To see my disclosed peer review record please visit me on [Publons.](https://publons.com/researcher/3744919/richard-matthews/) 
 
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
 ## <a name="ExpertMemberships"></a> Expert Memberships
 - 2021 - current. INTERPOL Digital Forensic Experts Group.
 - 2020 - current. UK Forensic Capability Network 3D Experts Group
 
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
 ## <a name="ExpertWitness"></a> Expert Witness
@@ -421,6 +431,7 @@ As a prominent forensic scientist, Dr Matthews is sometimes called to act as an 
 	- Acted on behalf of the defence regarding matters of digital evidence pertaining to the application Snapchat. 
 	- Outcome, Held: The prosecution has not proved beyond reasonable doubt that the acts occurred. The accused is not guilty of all four counts.
 
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
 ## <a name="ContinuedTraining"></a>Continued Training
@@ -428,6 +439,7 @@ ___
 - Maritime Cyber Operations and Policy. Tallinn Maritime Academy. 2018.
 - Open Source Intelligence and Policy. Tallinn University of Technology. 2017
 
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
 ## <a name="MemberBodies"></a>Member Bodies
@@ -437,9 +449,11 @@ Dr Matthews has made a commitment to the profession as a member of the following
 - Australian Institute of Company Directors.
 - Institute of Electrical and Electronic Engineers.
 
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 ___
 
 ## <a name="References"></a>References
 A list of references are available upon request. 
 
+<p align="right"> <a href="#Contents">Back to Contents</a> </p>
 
