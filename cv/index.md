@@ -17,7 +17,7 @@ _BE(Hons) PhD MIEAust MAICD_
 </address>
 
 ___
-## Contents
+## <a name="Contents"></a>Contents
 
 - [Education](#Education)
 - [Research Employment](#ResearchEmployment)
@@ -30,7 +30,7 @@ ___
 	- [Activity](#Activity)
 	- [Journals](#Journals)
 	- [Technical and Policy Reports](#Technical)
-	- [Popular Scources](#Popular)	
+	- [Popular Scources](#PopularSources)	
 - [Patents and Open Source Deployments](#Patents)
 - [Funding](#Funding)
 	- [Grants](#Grants)
@@ -84,6 +84,8 @@ Electives:
 - Coding and Cryptography
 - Telecomunications Systems
 
+
+<p align="right"> <a href="#Contents">Back to Contents</a> [Back to Contents](#Contents) </p>
 ___
 
 ## <a name="ResearchEmployment"></a> Research Employment
