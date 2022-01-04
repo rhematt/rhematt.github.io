@@ -70,4 +70,38 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 <p>Data obtained from Google Scholar.</p>
 
+
+<h1>Package Downloads</h1>
+
+<div id="citationsgraph" style="width:100%; height:400px;"></div>
+<script> 
+document.addEventListener('DOMContentLoaded', function() {
+  		const chart = Highcharts.chart('citationsgraph', {
+		chart: {
+   			   type: 'bar'
+	    	},
+		legend:{
+			enabled: false,
+		},
+  		title: {
+            		text: ''
+        		},
+			xAxis: {
+ 	 			categories: ["SnapScraper"]
+			},
+		yAxis: {
+			title: {
+                			text: ''
+            		}
+		},
+			series: [{
+			name: '',
+  				data: [ 8336 ]
+			}]
+  		});
+});
+</script>
+
+
+
 <a href="/cv"> Back </a>
