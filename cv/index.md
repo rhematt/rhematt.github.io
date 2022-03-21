@@ -257,6 +257,7 @@ ___
 ## <a name="ConferenceProceedings"></a> Conference Proceedings and Abstracts
 - Matthews, R. H., & Sorell, M. 2021. Forensic Applications of 3D Sampling. In Interpol Digital Forensic Experts Group 2021. Online 2021. Available: by request.
 - Matthews, R. H., & Sorell, M. 2021. Forensic Applications of 3D Scanning. In FCN Science Fest 2021. Online 2021. Available: [https://www.fcn.police.uk/publications/session-8-dr-richard-matthews](https://www.fcn.police.uk/publications/session-8-dr-richard-matthews).
+See Also: [https://www.fcn.police.uk/sites/default/files/2021-09/Session%208%20Dr%20Richard%20Matthews%20PDF.pdf](https://www.fcn.police.uk/sites/default/files/2021-09/Session%208%20Dr%20Richard%20Matthews%20PDF.pdf).
 - Matthews, R. H., Falkner, N. & Sorell, M. 2021. Determining Image Sensor Temperature Using Dark Current. In DFRWS APAC 2021. Online 2021. Available: [https://youtu.be/4B9wB3njbcc](https://youtu.be/4B9wB3njbcc).
 - Heading, B., Crossing, I., Hilliard, J., Page, L., Sorell, M. & Matthews, R. 2020, Techniques for GPS Spoofing Detection on Android Devices. In ICR2020, Tallinn. Available: [https://www.yumpu.com/en/document/read/65133378/proceedings-of-the-6th-interdisciplinary-cyber-research-conference-icr2020](https://www.yumpu.com/en/document/read/65133378/proceedings-of-the-6th-interdisciplinary-cyber-research-conference-icr2020).
 - Matthews, R. H. 2020. OSINT #SnapChatStupidity. In CSRB. Adelaide. Available: by request.
