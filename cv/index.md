@@ -62,7 +62,7 @@ University of Adelaide\
 - [Dr Matthew Sorell](https://researchers.adelaide.edu.au/profile/matthew.sorell)        (Primary)
 - [Associate Professor Nickolas Falkner](https://researchers.adelaide.edu.au/profile/nickolas.falkner) (Co-Supervisor)
 
-**Topic:** [Towards a unified thoery of sensor pattern noise: An analysis of dark current, lens effects and temperature bias in CMOS image sensors.](/files/thesis.pdf")
+**Topic:** [Towards a unified thoery of sensor pattern noise: An analysis of dark current, lens effects and temperature bias in CMOS image sensors.](/files/thesis.pdf)
 
 	
 ### Masters of Business Administration
