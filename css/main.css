@@ -1,17 +1,6 @@
 body {margin: 60px auto;width: 70%;}
 
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
+/* default */
 a {
     text-decoration: none;
     color: #999;
@@ -32,10 +21,64 @@ p {
     color: #333;
 }
 
+table, th, td {
+   border: 0px solid black;
+}
+
+/* E-Mail */
+.obfuscate { unicode-bidi: bidi-override; direction: rtl; }
+
+/*nav settings*/
+
+nav ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    display: block;
+    width: 60px;
+}
+
+.nav-left {
+    float: left;
+}
+
+.nav-left ul li {
+    float: left;
+}
+
+.nav-right ul li {
+    float: right;
+}
+
+/* Footer */
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
+
+footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
+footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+/* posts */
 
 ul.posts { 
     margin: 20px auto 40px; 
@@ -46,22 +89,14 @@ ul.posts li {
     list-style: none;
 }
 
+/* individual page customisation */
+/* Main */
+
 img.avatar {
   border-radius: 50%;
 }
 
-
-/* Tables */
-
-table, th, td {
-   border: 0px solid black;
-}
-
-
-/* E-Mail */
-.obfuscate { unicode-bidi: bidi-override; direction: rtl; }
-
-/* Package Logos */
+/* Packages */
 
 div.packages {
     float: left;
