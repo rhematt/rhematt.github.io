@@ -25,10 +25,9 @@ nav {
 
 nav a {
 	float: left;
-    display: block;
-    width: 60px;
-    padding: 14px 16px;
-    text-align: center
+	display: block;
+	padding: 14px 16px;
+	text-align: center
 }
 
 nav a:hover {
