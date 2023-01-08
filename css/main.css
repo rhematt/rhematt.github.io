@@ -13,6 +13,10 @@ p {font-size: 1.0em; line-height: 1.2em; color: #333;}
 
 table, th, td {border: 1px solid LightGray; border-collapse: collapse; width: 80%; text-align: left;}
 
+table colgroup col {
+    width: auto !important;
+}
+
 /* Masthead */
 footer {border-top: 1px solid #d5d5d5; font-size: .8em;}
 footer ul { font-family:'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold;}
