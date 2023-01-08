@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Packages
+permalink:/packages/
 ---
 
   <div class = "packages">
