@@ -39,7 +39,7 @@ You will be in an apartment with four individual bedrooms and shared common area
 No meals are provided at the accommodation but there is a kitchen for your use.
 You are very close to the Adelaide Central Market and one of the main restaurant areas in the city. It is a comfortable 30 minute walk to the University of Adelaide campus.
 
-[![Directions](../img/Village_to_UofA.png)](https://goo.gl/maps/XHyvssJjKE8ckcRV9)
+[<img src="../img/Village_to_UofA.png" alt="Directions to CSRBC from Accomodation" width="300"/>](https://goo.gl/maps/XHyvssJjKE8ckcRV9)
 *Clicking this image will take you to Google Maps.*
   
 Power: Australia uses 230V / 50Hz, so European appliances are compatible with an appropriate power adaptor. The power socket is unique to Australia. Adaptors can be purchased before you leave or when you get here.
@@ -62,7 +62,7 @@ You should also follow the Slip Slop Slap Seek and Slide guidelines, because sun
 Adelaide generally has relatively low rates of crime, but you should keep valuables secure in your room. There is a nightclub area – Hindley Street – where the usual personal security precautions should be taken.
 
 ## Contacts
-- Dr Matthew Sorell, matthew.sorell@adelaide.edu.au or mobile <span style="background-color: black">REDACTED</span>
+- Dr Matthew Sorell, matthew.sorell@adelaide.edu.au or mobile  +61 (0)410 432 762
 - Dr Richard Matthews, richard.matthews@adelaide.edu.au or mobile +61 (0)414 275 570 
 - Emergency: Police/Fire/Ambulance call 000 or (mobile) 112
 - On Campus Security: 8313 5990
@@ -80,9 +80,9 @@ The program is currently being finalised and is subject to more detail and some 
 
 ## Week 1
 ### Monday 16 January – University of Adelaide
-|<img width=100/>Time|<img width=600/>Event|<img width=200/>Comments|<img width=300/>Location|
+|<img width=10/>Time|<img width=60/>Event|<img width=20/>Comments|<img width=30/>Location|
 |---|---|---|---|
-|08:30| Welcome breakfast reception <span style="background-color: black">REDACTED</span>|||
+|08:30| Welcome breakfast reception |||
 |09:30| Official Opening of the Cyber Security Research Bootcamp 2023|||
 |10:00| Coffee|||
 |10:15| Introduction and outline of the Cyber Security Research Bootcamp|||
@@ -96,7 +96,7 @@ The program is currently being finalised and is subject to more detail and some 
 |Evening:| Fish and chips||Glenelg Beach|
 
 ### Tuesday 17 January – University of Adelaide
-|<img width=100/>Time|<img width=600/>Event|<img width=200/>Comments|<img width=300/>Location|
+|<img width=10/>Time|<img width=60/>Event|<img width=20/>Comments|<img width=30/>Location|
 |---|---|---|---|
 |09:00| Introduction to Kali Linux|||
 |10:00| Coffee|||
@@ -111,7 +111,7 @@ The program is currently being finalised and is subject to more detail and some 
 |Evening:| Own arrangements|||
 
 ### Wednesday 18 January – University of Adelaide
-|<img width=100/>Time|<img width=600/>Event|<img width=200/>Comments|<img width=300/>Location|
+|<img width=10/>Time|<img width=60/>Event|<img width=20/>Comments|<img width=30/>Location|
 |---|---|---|---|
 |09:00| Introduction to LaTeX|||
 |10:00| Coffee|||
@@ -127,7 +127,7 @@ The program is currently being finalised and is subject to more detail and some 
 
 
 ### Thursday 19 January – University of Adelaide
-|<img width=100/>Time|<img width=600/>Event|<img width=200/>Comments|<img width=300/>Location|
+|<img width=10/>Time|<img width=60/>Event|<img width=20/>Comments|<img width=30/>Location|
 |---|---|---|---|
 |09:00|Vulnerabilities in Intel Processors |Presented by [Associate Professor Yuval Yarom](https://cs.adelaide.edu.au/~yval/)||
 |10:00| Coffee|||
@@ -144,7 +144,7 @@ The program is currently being finalised and is subject to more detail and some 
 
 
 ### Friday 20 January – University of Adelaide and Lot 14 (TBC)
-|<img width=100/>Time|<img width=600/>Event|<img width=200/>Comments|<img width=300/>Location|
+|<img width=10/>Time|<img width=60/>Event|<img width=20/>Comments|<img width=30/>Location|
 |---|---|---|---|
 |09:00| Literature Survey Presentations|||
 |10:00| Coffee|||
@@ -159,7 +159,7 @@ The program is currently being finalised and is subject to more detail and some 
 
 
 ### Saturday 21 January and Sunday 22 January
-|<img width=100/>Time|<img width=600/>Event|<img width=200/>Comments|<img width=300/>Location|
+|<img width=10/>Time|<img width=60/>Event|<img width=20/>Comments|<img width=30/>Location|
 |---|---|---|---|
 ||Tours of Adelaide Hills and Barossa Valley are proposed. Details to follow|||
 
