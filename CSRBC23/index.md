@@ -54,11 +54,11 @@ Adelaide has a hot Mediterranean climate in summer (January) with high temperatu
 
 Tap water is safe to drink. You are strongly advised to carry a bottle of water with you and drink water regularly.
 You should also follow the Slip Slop Slap Seek and Slide guidelines, because sunburn and sunstroke are significant health risks in our summer, especially at the beach:
-• Slip on a shirt: wear a light long-sleeve shirt to protect neck and arms
-• Slop on sunscreen: use SPF 50+ sunscreen to protect exposed skin
-• Slap on a hat to protect your face and neck
-• Seek out shade
-• Slide on sunglasses
+- **Slip** on a shirt: wear a light long-sleeve shirt to protect neck and arms,
+- **Slop** on sunscreen: use SPF 50+ sunscreen to protect exposed skin,
+- **Slap** on a hat to protect your face and neck,
+- **Seek** out shade,
+- **Slide** on sunglasses.
 
 Adelaide generally has relatively low rates of crime, but you should keep valuables secure in your room. There is a nightclub area – Hindley Street – where the usual personal security precautions should be taken.
 
