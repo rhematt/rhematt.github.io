@@ -9,7 +9,6 @@ h1 {
 a { text-decoration: none; color: #999;}
 a:hover { text-decoration: underline;}
 
-
 p {font-size: 1.0em; line-height: 1.2em; color: #333;}
 
 table, th, td {border: 0px solid black;}
@@ -41,6 +40,10 @@ nav ul li {
 nav-right ul li {
     float: right;
 }
+
+/* Custom container */
+.container > hr { margin: 30px 0; }
+.container > hr.footer {margin-bottom: 15px; }
 
 /* E-Mail */
 .obfuscate { unicode-bidi: bidi-override; direction: rtl; }
