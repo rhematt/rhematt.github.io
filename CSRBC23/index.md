@@ -135,7 +135,7 @@ The program is currently being finalised and is subject to more detail and some 
 |10:15| Developing a research proposal|||
 |11:00| Apple Watch Forensics CTF |Presented by Luke Jennings||
 |12:30| Lunch (provided)
-|13:30| Richard Matthews: Conducting a Literature Survey |Presented by [Dr Richard Matthews](https://adelaidecybercrime.org/people)||
+|13:30| Conducting a Literature Survey |Presented by [Dr Richard Matthews](https://adelaidecybercrime.org/people)||
 |14:30| Work on Literature Survey – with Supervisors |||
 |15:30| Coffee|||
 |15:45| Work on Literature Survey – continues|||
