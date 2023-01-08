@@ -4,10 +4,6 @@ title: CSRBC23
 permalink: /CSRBC23/
 ---
 
-PAGE UNDER CONSTRUCTION
-SUNDAY 8 JANUARY 2023
-
-
 # Cyber Security Research Bootcamp 2023
 Welcome to the Cyber Security Research Bootcamp 2023 hosted by the University of Adelaide.
 
@@ -20,8 +16,7 @@ Depending on your experience in research, whether starting out at Honours or Mas
 2. Conduct a literature review and critically assess publications
 3. Present research - from early stage to final thesis draft - to a receptive peer audience
 4. Deliver, receive and work with constructive feedback
-5. Work with other researchers in cyber security to form an international peer
-community
+5. Work with other researchers in cyber security to form an international peer community
 6. Develop international friendships which can lead to new and exciting opportunities.
 
 Social activities include 14-15 January to welcome early international arrivals, 21-22 January wine tasting in the Barossa Valley, and an Australia Day barbecue at the Estonian Consulate. Local participants are encouraged and very welcome to participate in all social events.
@@ -45,7 +40,7 @@ You will be in an apartment with four individual bedrooms and shared common area
 No meals are provided at the accommodation but there is a kitchen for your use.
 You are very close to the Adelaide Central Market and one of the main restaurant areas in the city. It is a comfortable 30 minute walk to the University of Adelaide campus.
 
-MAP TO BE INSERTED
+<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d7188.345256423318!2d138.59230520068425!3d-34.92614926011226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m5!1s0x6ab0cf239e36b877%3A0x92ec67dec41816e3!2sThe%20University%20of%20Adelaide%20Village%2C%20210%20Grote%20St%2C%20Adelaide%20SA%205000!3m2!1d-34.9286993!2d138.5911078!4m3!3m2!1d-34.918361!2d138.6058385!5e0!3m2!1sen!2sau!4v1673156921033!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   
 Power: Australia uses 230V / 50Hz, so European appliances are compatible with an appropriate power adaptor. The power socket is unique to Australia. Adaptors can be purchased before you leave or when you get here.
   
@@ -67,7 +62,7 @@ You should also follow the Slip Slop Slap Seek and Slide guidelines, because sun
 Adelaide generally has relatively low rates of crime, but you should keep valuables secure in your room. There is a nightclub area – Hindley Street – where the usual personal security precautions should be taken.
 
 ## Contacts
-- Dr Matthew Sorell, matthew.sorell@adelaide.edu.au or mobile <span style="background-color: #FFFF00">REDACTED</span>
+- Dr Matthew Sorell, matthew.sorell@adelaide.edu.au or mobile <span style="background-color: black">REDACTED</span>
 - Dr Richard Matthews, richard.matthews@adelaide.edu.au or mobile +61 (0)414 275 570 
 - Emergency: Police/Fire/Ambulance call 000 or (mobile) 112
 - On Campus Security: 8313 5990
@@ -85,10 +80,9 @@ The program is currently being finalised and is subject to more detail and some 
 
 ## Week 1
 ### Monday 16 January – University of Adelaide
-<div class="timetable" markdown="1">
 |Time|Event|Comments|Location|
 |---|---|---|---|
-|08:30| Welcome breakfast reception <span style="background-color: #FFFF00">REDACTED</span>|||
+|08:30| Welcome breakfast reception <span style="background-color: black">REDACTED</span>|||
 |09:30| Official Opening of the Cyber Security Research Bootcamp 2023|||
 |10:00| Coffee|||
 |10:15| Introduction and outline of the Cyber Security Research Bootcamp|||
@@ -100,10 +94,8 @@ The program is currently being finalised and is subject to more detail and some 
 |17:00| Close|||
 |||||
 |Evening:| Fish and chips||Glenelg Beach|
- </div>
 
 ### Tuesday 17 January – University of Adelaide
-<div class="timetable" markdown="1">
 |Time|Event|Comments|Location|
 |---|---|---|---|
 |09:00| Introduction to Kali Linux|||
@@ -117,10 +109,8 @@ The program is currently being finalised and is subject to more detail and some 
 |17:00| Close|||
 |||||
 |Evening:| Own arrangements|||
-</div>
 
 ### Wednesday 18 January – University of Adelaide
-<div class="timetable" markdown="1">
 |Time|Event|Comments|Location|
 |---|---|---|---|
 |09:00| Introduction to LaTeX|||
@@ -134,10 +124,9 @@ The program is currently being finalised and is subject to more detail and some 
 |17:00| Close|||
 |||||
 |Evening:| Own arrangements|||
- </div>
+
 
 ### Thursday 19 January – University of Adelaide
-<div class="timetable" markdown="1">
 |Time|Event|Comments|Location|
 |---|---|---|---|
 |09:00|Vulnerabilities in Intel Processors |Presented by [Associate Professor Yuval Yarom](https://cs.adelaide.edu.au/~yval/)||
@@ -152,10 +141,9 @@ The program is currently being finalised and is subject to more detail and some 
 |17:00| Close|||
 |||||
 |Evening| Group Dinner|| (venue tbd)|
- </div>
+
 
 ### Friday 20 January – University of Adelaide and Lot 14 (TBC)
-<div class="timetable" markdown="1">
 |Time|Event|Comments|Location|
 |---|---|---|---|
 |09:00| Literature Survey Presentations|||
@@ -168,35 +156,32 @@ The program is currently being finalised and is subject to more detail and some 
 |17:00| Industry networking reception| hosted by [Australian Cyber Collaboration Centre](https://www.cybercollaboration.org.au)||
 |||||
 |Evening|Eesti Maja (Estonia House)|[Eesti Maja](https://adelaide.eesti.org.au) (Estonia House) bar is open from 18:30| 200 Jeffcott Street, North Adelaide|
-</div>
+
 
 ### Saturday 21 January and Sunday 22 January
-<div class="timetable" markdown="1">
 |Time|Event|Comments|Location|
 |---|---|---|---|
 ||Tours of Adelaide Hills and Barossa Valley are proposed. Details to follow|||
-</div>
+
 
 ## Week 2
 **Timings for the the second week of the program are subject to confirmation of the avalaibility of guest speakers.**
 
 ### Monday 23 January - University of Adelaide 
-<div class="timetable" markdown="1">
 |Time|Event|Comments|Location|
 |---|---|---|---|
 ||Students continue work on research exposé with supervisors |||
 ||Guest presenters to be confirmed|||
 ||Lunch and coffee provided|||
-</div>
+
 
 ### Tuesday 24 January – University of Adelaide
-<div class="timetable" markdown="1">
 |Time|Event|Comments|Location|
 |---|---|---|---|
 ||Students continue work on research exposé with supervisors |||
 ||Guest presenters to be confirmed|||
 ||Lunch and coffee provided|||
-</div>
+
 
 ### Wednesday 25 January – University of Adelaide
 |Time|Event|Comments|Location|
@@ -206,12 +191,11 @@ The program is currently being finalised and is subject to more detail and some 
 ||Lunch and coffee provided|||
 |16:30|Close of Cyber Security Research Bootcamp||| 
 |Evening| Informal Group Dinner||TBA|
-</div>
+
 
 ### Thursday 26 January – Consulate of Estonia in South Australia
-<div class="timetable" markdown="1">
 |Time|Event|Comments|Location|
 |---|---|---|---|
 ||Undisclosed Social Event|||
-</div>
+
   
