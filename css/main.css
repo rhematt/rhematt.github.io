@@ -64,7 +64,11 @@ table, th, td {
 /* Package Logos */
 
 div.packages {
- float: left;
-    margin: 0 15px 0 0;
+    float: left;
     clear: both;
+}
+
+img.packages {
+    float: left;
+    margin: 0 15px 0 0;
 }
