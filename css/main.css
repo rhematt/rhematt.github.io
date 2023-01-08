@@ -50,5 +50,13 @@ img.avatar {
   border-radius: 50%;
 }
 
+
+/* Tables */
+
+table, th, td {
+   border: 0px solid black;
+}
+
+
 /* E-Mail */
 .obfuscate { unicode-bidi: bidi-override; direction: rtl; }
