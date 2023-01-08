@@ -81,7 +81,7 @@ The program is currently being finalised and is subject to more detail and some 
 
 ## Week 1
 ### Monday 16 January – University of Adelaide
-|<img width=100/>Time|<img width=614/>Event|<img width=410/>Comments|<img width=410/>Location|
+|<img width=100/>Time|<img width=400/>Event|<img width=200/>Comments|<img width=200/>Location|
 |---|---|---|---|
 |08:30| Welcome breakfast reception |||
 |09:30| Official Opening of the Cyber Security Research Bootcamp 2023|||
@@ -97,7 +97,7 @@ The program is currently being finalised and is subject to more detail and some 
 |Evening:| Fish and chips||Glenelg Beach|
 
 ### Tuesday 17 January – University of Adelaide
-|<img width=100/>Time|<img width=614/>Event|<img width=410/>Comments|<img width=410/>Location|
+|<img width=100/>Time|<img width=400/>Event|<img width=200/>Comments|<img width=200/>Location|
 |---|---|---|---|
 |09:00| Introduction to Kali Linux|||
 |10:00| Coffee|||
@@ -112,7 +112,7 @@ The program is currently being finalised and is subject to more detail and some 
 |Evening:| Own arrangements|||
 
 ### Wednesday 18 January – University of Adelaide
-|<img width=100/>Time|<img width=614/>Event|<img width=410/>Comments|<img width=410/>Location|
+|<img width=100/>Time|<img width=400/>Event|<img width=200/>Comments|<img width=200/>Location|
 |---|---|---|---|
 |09:00| Introduction to LaTeX|||
 |10:00| Coffee|||
@@ -128,7 +128,7 @@ The program is currently being finalised and is subject to more detail and some 
 
 
 ### Thursday 19 January – University of Adelaide
-|<img width=100/>Time|<img width=614/>Event|<img width=410/>Comments|<img width=410/>Location|
+|<img width=100/>Time|<img width=400/>Event|<img width=200/>Comments|<img width=200/>Location|
 |---|---|---|---|
 |09:00|Vulnerabilities in Intel Processors |Presented by [Associate Professor Yuval Yarom](https://cs.adelaide.edu.au/~yval/)||
 |10:00| Coffee|||
@@ -145,7 +145,7 @@ The program is currently being finalised and is subject to more detail and some 
 
 
 ### Friday 20 January – University of Adelaide and Lot 14 (TBC)
-|<img width=100/>Time|<img width=614/>Event|<img width=410/>Comments|<img width=410/>Location|
+|<img width=100/>Time|<img width=400/>Event|<img width=200/>Comments|<img width=200/>Location|
 |---|---|---|---|
 |09:00| Literature Survey Presentations|||
 |10:00| Coffee|||
@@ -160,7 +160,7 @@ The program is currently being finalised and is subject to more detail and some 
 
 
 ### Saturday 21 January and Sunday 22 January
-|<img width=100/>Time|<img width=614/>Event|<img width=410/>Comments|<img width=410/>Location|
+|<img width=100/>Time|<img width=400/>Event|<img width=200/>Comments|<img width=200/>Location|
 |---|---|---|---|
 ||Tours of Adelaide Hills and Barossa Valley are proposed. Details to follow|||
 
@@ -169,7 +169,7 @@ The program is currently being finalised and is subject to more detail and some 
 **Timings for the the second week of the program are subject to confirmation of the avalaibility of guest speakers.**
 
 ### Monday 23 January - University of Adelaide 
-|<img width=100/>Time|<img width=614/>Event|<img width=410/>Comments|<img width=410/>Location|
+|<img width=100/>Time|<img width=400/>Event|<img width=200/>Comments|<img width=200/>Location|
 |---|---|---|---|
 ||Students continue work on research exposé with supervisors |||
 ||Guest presenters to be confirmed|||
@@ -177,7 +177,7 @@ The program is currently being finalised and is subject to more detail and some 
 
 
 ### Tuesday 24 January – University of Adelaide
-|<img width=100/>Time|<img width=614/>Event|<img width=410/>Comments|<img width=410/>Location|
+|<img width=100/>Time|<img width=400/>Event|<img width=200/>Comments|<img width=200/>Location|
 |---|---|---|---|
 ||Students continue work on research exposé with supervisors |||
 ||Guest presenters to be confirmed|||
@@ -185,7 +185,7 @@ The program is currently being finalised and is subject to more detail and some 
 
 
 ### Wednesday 25 January – University of Adelaide
-|<img width=100/>Time|<img width=614/>Event|<img width=410/>Comments|<img width=410/>Location|
+|<img width=100/>Time|<img width=400/>Event|<img width=200/>Comments|<img width=200/>Location|
 |---|---|---|---|
 ||Presentation of research exposés|||
 ||Guest presenters to be confirmed|||
@@ -195,7 +195,7 @@ The program is currently being finalised and is subject to more detail and some 
 
 
 ### Thursday 26 January – Consulate of Estonia in South Australia
-|<img width=100/>Time|<img width=614/>Event|<img width=410/>Comments|<img width=410/>Location|
+|<img width=100/>Time|<img width=400/>Event|<img width=200/>Comments|<img width=200/>Location|
 |---|---|---|---|
 ||Undisclosed Social Event|||
 
