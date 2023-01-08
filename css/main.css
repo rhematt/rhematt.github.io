@@ -13,19 +13,6 @@ p {font-size: 1.0em; line-height: 1.2em; color: #333;}
 
 table, th, td {border: 1px solid LightGray; border-collapse: collapse; width: 80%; text-align: left;}
 
-.timetable table th:nth-of-type(1) {
-    width: 10%;
-}
-.timetable table th:nth-of-type(2) {
-    width: 60%;
-}
-.timetable table th:nth-of-type(3) {
-    width: 15%;
-}
-.timetable table th:nth-of-type(4) {
-    width: 15%;
-}
-
 
 
 /* Masthead */
