@@ -34,8 +34,7 @@ research proposal, finalising a thesis or getting feedback on a paper for public
 University student smart casual, except for two formal occasions where business attire would be more appropriate.
 
 ## For International Visitors
-Accommodation is booked for you at The Village, 210 Grote Street, Adelaide.
-[https://adelaidestudenthousing.com.au/properties/the-university-of-adelaide-village/](https://adelaidestudenthousing.com.au/properties/the-university-of-adelaide-village/)
+Accommodation is booked for you at [The Village](https://adelaidestudenthousing.com.au/properties/the-university-of-adelaide-village/), 210 Grote Street, Adelaide.
 You will be in an apartment with four individual bedrooms and shared common area/kitchen. Laundry facilities are available. Towels and bedding are provided. Toiletries are not provided.
 No meals are provided at the accommodation but there is a kitchen for your use.
 You are very close to the Adelaide Central Market and one of the main restaurant areas in the city. It is a comfortable 30 minute walk to the University of Adelaide campus.
