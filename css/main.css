@@ -136,3 +136,8 @@ img.packages {
     float: left;
     margin: 0 15px 0 0;
 }
+
+/*CSRBC23*/
+.timetable table {
+	width: 80%;
+}
