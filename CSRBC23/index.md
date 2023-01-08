@@ -78,6 +78,7 @@ To facilitate a trusted environment between participants, all presentations duri
 
 # Draft Program
 The program is currently being finalised and is subject to more detail and some changes.
+<div class ="timetable" markdown="1">
 
 ## Week 1
 ### Monday 16 January – University of Adelaide
@@ -200,3 +201,4 @@ The program is currently being finalised and is subject to more detail and some 
 ||Undisclosed Social Event|||
 
   
+</div>
