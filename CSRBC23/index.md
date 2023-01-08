@@ -82,7 +82,7 @@ The program is currently being finalised and is subject to more detail and some 
 
 ## Week 1
 ### Monday 16 January – University of Adelaide
-|Time|Event|Comments|Location|
+|<img width=200/>Time|<img width=500/>Event|<img width=250/>Comments|<img width=250/>Location|
 |---|---|---|---|
 |08:30| Welcome breakfast reception <span style="background-color: black">REDACTED</span>|||
 |09:30| Official Opening of the Cyber Security Research Bootcamp 2023|||
