@@ -43,16 +43,9 @@ nav ul li {
 }
 
 nav a {
+    floay: left;
     display: block;
     width: 60px;
-}
-
-.nav-left {
-    float: left;
-}
-
-.nav-left ul li {
-    float: left;
 }
 
 .nav-right ul li {
