@@ -4,21 +4,30 @@
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 			<script src="http://code.highcharts.com/highcharts.js"></script>
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		</head>
 		<body>
-			<nav>	
-				<ul>
-					<li><a class="active" href="/">Home</a></li>
-					<li><a href="/about">Academic Bio</a></li>
-					<li><a href="/cv">CV</a></li>
-					<li><a href="/blog">Blog</a></li>
-					<li><a href="/teaching">Teaching</a></li>
-					<li><a href="/research">Research</a></li>
-					<li><a href="/packages">Packages</a></li>
-					<li><a href="/CSRBC23" class="right">CSRBC23</a></li>
-				</ul>
+			<nav>
+				<a href="/">Home</a>
+				<div class="dropdown">
+    					About Me <i class="fa fa-caret-down"> </i>
+    					<div class="dropdown-content">
+     						 <a href="/about">Academic Bio</a>
+      						<a href="/cv">CV</a>
+    					</div>
+				</div> 
+				<div class="dropdown">Work<i class="fa fa-caret-down"></i>
+    					<div class="dropdown-content">
+     						<a href="/teaching">Teaching</a>
+      						<a href="/research">Research</a>
+      						<a href="/packages">Packages</a>
+    					</div>
+				</div> 
+				<a href="/blog">Blog</a>
+				
+				<a href="/CSRBC23" class="right">CSRBC23</a>
 			</nav>
 			<div class="container">
 			
