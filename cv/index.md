@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CV of Dr Richard Matthews
-permalink:/cv/
+permalink: /cv/
 ---
   
 To download this CV, simply print to PDF using your browser.
