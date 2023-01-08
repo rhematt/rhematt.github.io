@@ -1,5 +1,7 @@
 ---
+layout: default
 title: CSRBC23
+permalink: /CSRBC23/
 ---
 
 PAGE UNDER CONSTRUCTION
