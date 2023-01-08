@@ -11,7 +11,7 @@ a:hover { text-decoration: underline;}
 
 p {font-size: 1.0em; line-height: 1.2em; color: #333;}
 
-table, th, td {border: 1px solid LightGray; width: 80%; text-align: left;}
+table, th, td {border: 1px solid LightGray; border-collapse: collapse; width: 80%; text-align: left;}
 
 /* Masthead */
 footer {border-top: 1px solid #d5d5d5; font-size: .8em;}
