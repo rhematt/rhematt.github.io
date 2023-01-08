@@ -40,8 +40,8 @@ You will be in an apartment with four individual bedrooms and shared common area
 No meals are provided at the accommodation but there is a kitchen for your use.
 You are very close to the Adelaide Central Market and one of the main restaurant areas in the city. It is a comfortable 30 minute walk to the University of Adelaide campus.
 
-[![Directions](https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d7188.345256423318!2d138.59230520068425!3d-34.92614926011226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m5!1s0x6ab0cf239e36b877%3A0x92ec67dec41816e3!2sThe%20University%20of%20Adelaide%20Village%2C%20210%20Grote%20St%2C%20Adelaide%20SA%205000!3m2!1d-34.9286993!2d138.5911078!4m3!3m2!1d-34.918361!2d138.6058385!5e0!3m2!1sen!2sau!4v1673156921033!5m2!1sen!2sau)](https://goo.gl/maps/XHyvssJjKE8ckcRV9)
-
+[![Directions](../img/Village_to_UofA.png)](https://goo.gl/maps/XHyvssJjKE8ckcRV9)
+*Clicking this image will take you to Google Maps.*
   
 Power: Australia uses 230V / 50Hz, so European appliances are compatible with an appropriate power adaptor. The power socket is unique to Australia. Adaptors can be purchased before you leave or when you get here.
   
