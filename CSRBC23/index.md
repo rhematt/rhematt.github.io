@@ -79,7 +79,8 @@ To facilitate a trusted environment between participants, all presentations duri
 # Draft Program
 The program is currently being finalised and is subject to more detail and some changes.
 
-[Click here](https://calendar.google.com/calendar/ical/49ec9a04c54b5088c1197313be6251a0e98dad2b313016b74a75f71b64a20857%40group.calendar.google.com/public/basic.ics) to connect this program to your device in iCal format (Public Google Calender).
+## Syncable Calendar 
+[Click here](https://calendar.google.com/calendar/ical/61d438ef2506ada99adddfa913e7c3879424a99aa9099c2f9fcde0e89f8330f6%40group.calendar.google.com/public/basic.ics) to connect this program to your device in iCal format (Public Google Calender).
 
 ## Week 1
 ### Monday 16 January – University of Adelaide
