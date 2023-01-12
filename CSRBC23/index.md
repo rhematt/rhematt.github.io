@@ -80,7 +80,9 @@ To facilitate a trusted environment between participants, all presentations duri
 The program is currently being finalised and is subject to more detail and some changes.
 
 ## Syncable Calendar 
-[Click here](https://calendar.google.com/calendar/ical/61d438ef2506ada99adddfa913e7c3879424a99aa9099c2f9fcde0e89f8330f6%40group.calendar.google.com/public/basic.ics) to connect this program to your device in iCal format (Public Google Calender).
+To connect this program, please subscribe to this calander using the following .ical link: https://calendar.google.com/calendar/ical/61d438ef2506ada99adddfa913e7c3879424a99aa9099c2f9fcde0e89f8330f6%40group.calendar.google.com/public/basic.ics
+
+
 
 ## Week 1
 ### Monday 16 January – University of Adelaide
