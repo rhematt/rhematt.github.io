@@ -88,15 +88,15 @@ To connect this program, please subscribe to this calander using the following .
 ### Monday 16 January – University of Adelaide
 |<img width=100/>Time|<img width=400/>Event|<img width=200/>Comments|<img width=200/>Location|
 |---|---|---|---|
-|08:30| Welcome breakfast reception |||
-|09:30| Official Opening of the Cyber Security Research Bootcamp 2023|||
-|10:00| Coffee|||
-|10:15| Introduction and outline of the Cyber Security Research Bootcamp|||
-|11:00| Pitch Presentations|Early Career Researchers||
-|12:30| Lunch (provided)|||
-|13:30| Pitch Presentations|PhD, Masters and Honours students||
-|15:30| Coffee|||
-|15:45| How to write a research proposal|||
+|08:30| Welcome breakfast reception ||IW7.15-7.17 Ingkarni Wardli, University of Adelaide, North Terrrace Adelaide 5005|
+|09:30| Official Opening of the Cyber Security Research Bootcamp 2023||IW7.15 Ingkarni Wardli, University of Adelaide, North Terrrace Adelaide 5005|
+|10:00| Coffee||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
+|10:15| Introduction and outline of the Cyber Security Research Bootcamp||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
+|11:00| Pitch Presentations|Early Career Researchers|EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
+|12:30| Lunch (provided)||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
+|13:30| Pitch Presentations|PhD, Masters and Honours students|EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
+|15:30| Coffee||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
+|15:45| How to write a research proposal||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |17:00| Close|||
 |||||
 |Evening:| Fish and chips||Glenelg Beach|
