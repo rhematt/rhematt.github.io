@@ -96,7 +96,7 @@ To connect this program, please subscribe to this calander using the following .
 |12:30| Lunch (provided)|||
 |13:30| Pitch Presentations|PhD, Masters and Honours students||
 |15:30| Coffee|||
-|15:45| How to write a research exposé|||
+|15:45| How to write a research proposal|||
 |17:00| Close|||
 |||||
 |Evening:| Fish and chips||Glenelg Beach|
