@@ -8,7 +8,8 @@ permalink: /CSRBC23/
 Welcome to the Cyber Security Research Bootcamp 2023 hosted by the University of Adelaide.
 
 ## Quick Links
-[Program](#Program)
+- [Program](#Program)
+- [Research Proposal](ResearchProposal.md)
 
 ## Outline
 The Cyber Security Research Bootcamp runs from Monday 16 January to Wednesday 25 January 2023 at the University of Adelaide, mostly in the Engineering Maths Building, room EM205.
@@ -99,7 +100,7 @@ To connect this program, please subscribe to this calander using the following .
 |12:30| Lunch (provided)||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |13:30| [Pitch Presentations](PitchPresentations.md)||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |15:30| Coffee||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
-|15:45| How to write a research proposal||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
+|15:45| How to write a [research proposal](ResearchProposal.md)||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |17:00| Close|||
 |||||
 |Evening:| Fish and chips||Glenelg Beach|
@@ -112,9 +113,9 @@ To connect this program, please subscribe to this calander using the following .
 |10:15| Getting started with your research topic|||
 |11:00| Cyber is a human problem|||
 |12:30| Lunch (provided)|||
-|13:30| Research Proposal Preparation – with Supervisors|||
+|13:30| [research proposal](ResearchProposal.md) Preparation – with Supervisors|||
 |15:30| Coffee|||
-|15:45| Research Proposal Preparation – continues|||
+|15:45| R[research proposal](ResearchProposal.md) Preparation – continues|||
 |17:00| Close|||
 |||||
 |Evening:| Own arrangements|||
@@ -125,11 +126,11 @@ To connect this program, please subscribe to this calander using the following .
 |09:00| Introduction to LaTeX|||
 |10:00| Coffee|||
 |10:15| Guest presentation|||
-|11:00| Research Proposal Preparation – with Supervisors| ||
+|11:00| [research proposal](ResearchProposal.md) Preparation – with Supervisors| ||
 |12:30| Lunch (provided)|||
-|13:30| Research Proposal Presentations|||
+|13:30| [research proposal](ResearchProposal.md) Presentations|||
 |15:30| Coffee|||
-|15:45| Research Proposal Presentations – continues |||
+|15:45| [research proposal](ResearchProposal.md) Presentations – continues |||
 |17:00| Close|||
 |||||
 |Evening:| Own arrangements|||
