@@ -66,8 +66,8 @@ You should also follow the Slip Slop Slap Seek and Slide guidelines, because sun
 Adelaide generally has relatively low rates of crime, but you should keep valuables secure in your room. There is a nightclub area – Hindley Street – where the usual personal security precautions should be taken.
 
 ## Contacts
-- Dr Matthew Sorell, matthew.sorell@adelaide.edu.au or mobile  +61 (0)410 432 762
-- Dr Richard Matthews, richard.matthews@adelaide.edu.au or mobile +61 (0)414 275 570 
+- Dr Matthew Sorell, <span class="obscufate"> matthew.sorell@adelaide.edu.au or mobile  +61 (0)410 432 762 </span>
+- Dr Richard Matthews, <span class="obscufate">richard.matthews@adelaide.edu.au or mobile +61 (0)414 275 570 </span>
 - Emergency: Police/Fire/Ambulance call 000 or (mobile) 112
 - On Campus Security: 8313 5990
 - University Health Practice: https://universityhealthpractice.com.au, 7095 0273
