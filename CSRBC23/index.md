@@ -123,7 +123,7 @@ To connect this program, please subscribe to this calander using the following .
 ### Wednesday 18 January – University of Adelaide
 |<img width=100/>Time|<img width=400/>Event|<img width=200/>Comments|<img width=200/>Location|
 |---|---|---|---|
-|09:00| Introduction to LaTeX||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
+|09:00| Introduction to LaTeX|Luke Jennings|EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |10:00| Coffee||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |10:15| Guest presentation |[Dr Nigel Wilson](https://www.australischambers.com/profile)|EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |11:00| [Research proposal](ResearchProposal.md) Preparation – with Supervisors| |EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
@@ -142,7 +142,7 @@ To connect this program, please subscribe to this calander using the following .
 |09:00|Vulnerabilities in Intel Processors |[Associate Professor Yuval Yarom](https://cs.adelaide.edu.au/~yval/)||
 |10:00| Coffee|||
 |10:15| Developing a research proposal|||
-|11:00| Apple Watch Forensics CTF |Presented by Luke Jennings||
+|11:00| Apple Watch Forensics CTF |Luke Jennings||
 |12:30| Lunch (provided)
 |13:30| Conducting a Literature Survey |[Dr Cate Jerram](https://researchers.adelaide.edu.au/profile/cate.jerram)||
 |14:30| Work on Literature Survey – with Supervisors |||
