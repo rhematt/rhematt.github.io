@@ -41,7 +41,8 @@ In this section (200-500 words) you will break your proposal down into the follo
 Outline the theoretical frameworks and methods you expect to use as part of your research (up to 200 words). This section may include a discussion of the sources to be consulted. This is not restricted to technical methods and can include a discussion of quantitative or qualitative methods to be used. Provide reference to any materials that you will require. 
 
 <h2> 5. References cited </h2>
-Please provide a list of scholarly references cited in the proposal. For the purposes of the bootcamp, please consult the [IEEE Reference Manual](https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf) which is a Chicago style Manual of referencing.
+Please provide a list of scholarly references cited in the proposal. For the purposes of the bootcamp, please consult the
+IEEE Reference Manual (https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf) which is a Chicago style Manual of referencing.
 
 <h1> Presentation </h1>
 
