@@ -50,4 +50,4 @@ You will present your research proposal as a 10-minute presentation on Wednesday
 
 <h1> Review </h1>
 
-There will be opportunities for peer review by a researcher. More details will be provided on Tuesday.
+There will be opportunities for peer review by a researcher. More details will be provided on Tuesday. 
