@@ -12,4 +12,6 @@ You are asked to prepare a pitch presentation of strictly under 10 minutes and n
 - Any previous research experience
 - Your current research project or, if applicable, your research interest
 - What you hope to develop during the bootcamp (this might be developing your research proposal, finalising a thesis or getting feedback on a paper for publication)
+  
+  Upon the completion of your presetation please email to <span class="obfuscate"> richard.matthews@adelaide.edu.au </span> with the subject "Pitch Presentation".
 </div>
