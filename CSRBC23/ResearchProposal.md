@@ -5,7 +5,7 @@ permalink: /CSRBC23/ResearchProposal
 ---
 <h1> Research Proposal </h1>
 
-During the bootcamp you have the opportunity to work collaborative on a reseach project. This may be a current research project, interest or something completely different. One of the benefits of the program is working with other international participants on common research themes. To this end you are encouraged to work together and draw parallel projects with other participants.
+During the bootcamp you have the opportunity to work collaboratively on a research project. This may be a current research project, interest or something completely different. One of the benefits of the program is working with other international participants on common research themes. To this end you are encouraged to work together and draw parallel projects with other participants.
 
 To help you conceptualise ideas you have already presented your current research expertise and research interests. Now it is time to combine those interests and formalise some projects together.
 
