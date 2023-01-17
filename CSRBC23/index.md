@@ -100,7 +100,7 @@ To connect this program, please subscribe to this calander using the following .
 |12:30| Lunch (provided)||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |13:30| [Pitch Presentations](PitchPresentations.md)||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |15:30| Coffee||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
-|15:45| How to write a [research proposal](ResearchProposal.md)||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
+|15:45| [Pitch Presentations](PitchPresentations.md)||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |17:00| Close|||
 |||||
 |Evening:| Fish and chips||Glenelg Beach|
@@ -108,12 +108,11 @@ To connect this program, please subscribe to this calander using the following .
 ### Tuesday 17 January – University of Adelaide
 |<img width=100/>Time|<img width=400/>Event|<img width=200/>Comments|<img width=200/>Location|
 |---|---|---|---|
-|09:00| An Introduction Low Code Environments for Tool Rapid Deployment|  [Dr Richard Matthews](https://adelaidecybercrime.org/people)|EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
+|09:00| [Pitch Presentations](PitchPresentations.md)||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |10:00| Coffee||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
-|10:15| Getting started with your research topic||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
-|11:00| Cyber is a human problem|[Dr Cate Jerram](https://researchers.adelaide.edu.au/profile/cate.jerram)|EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
+|10:15| [Pitch Presentations](PitchPresentations.md)||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |12:30| Lunch (provided)|||
-|13:30| [Research proposal](ResearchProposal.md) Preparation – with Supervisors||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
+|13:30| Introduction to LaTeX|[Dr Richard Matthews](https://researchers.adelaide.edu.au/profile/richard.matthews)|EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |15:30| Coffee|||
 |15:45| [Research proposal](ResearchProposal.md) Preparation – continues||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |17:00| Close|||
@@ -123,7 +122,7 @@ To connect this program, please subscribe to this calander using the following .
 ### Wednesday 18 January – University of Adelaide
 |<img width=100/>Time|<img width=400/>Event|<img width=200/>Comments|<img width=200/>Location|
 |---|---|---|---|
-|09:00| Introduction to LaTeX|Luke Jennings|EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
+|09:00| Cyber is a human Problem |[Dr Cate Jerram](https://researchers.adelaide.edu.au/profile/cate.jerram)||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |10:00| Coffee||EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |10:15| Guest presentation |[Dr Nigel Wilson](https://www.australischambers.com/profile)|EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
 |11:00| [Research proposal](ResearchProposal.md) Preparation – with Supervisors| |EM2.05 Engineering and Math Sciences, University of Adelaide, North Terrrace Adelaide 5005|
