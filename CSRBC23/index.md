@@ -144,7 +144,7 @@ To connect this program, please subscribe to this calander using the following .
 |10:15| Developing a research proposal|||
 |11:00| Apple Watch Forensics CTF |Luke Jennings||
 |12:30| Lunch (provided)
-|13:30| Conducting a Literature Survey |[Dr Cate Jerram](https://researchers.adelaide.edu.au/profile/cate.jerram)||
+|13:30| Conducting a Literature Survey |[Ms Paula Everett](https://libguides.adelaide.edu.au/prf.php?account_id=192191) Liason Librarian, Law - [Barr Smith Library](https://library.adelaide.edu.au)|
 |14:30| Work on Literature Survey – with Supervisors |||
 |15:30| Coffee|||
 |15:45| Work on Literature Survey – continues|||
