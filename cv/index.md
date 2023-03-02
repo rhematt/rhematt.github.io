@@ -18,7 +18,7 @@ _BE(Hons) PhD MIEAust MAICD_
 
 ___
 <div style="page-break-after: always;"></div>
-
+<div class="no-print">
 ## <a name="Contents"></a>Contents
 
 - [Education](#Education)
@@ -53,7 +53,7 @@ ___
 <div style="page-break-after: always;"></div>
 ___
 <div style="page-break-after: always;"></div>
-
+</div>
 ## <a name="Education"></a> Education
 
 ### Doctor of Philosophy
