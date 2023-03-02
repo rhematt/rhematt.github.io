@@ -135,17 +135,17 @@ div.packages {
 }
 
 img.packages {
-    float: left;
-    margin: 0 15px 0 0;
+  float: left;
+  margin: 0 15px 0 0;
 }
 
-media print {
-      .no-print {
-        display: none;
-      }
-    	* {
+@media print {
+  .no-print {
+    display: none;
+  }
+  * {
     font-family: Arial, sans-serif;
     font-size: 11pt;
-		line-height: 1.5;
-  	}
+    line-height: 1.5;
+  }
 }
