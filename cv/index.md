@@ -98,6 +98,7 @@ Electives:
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
 ___
+<div style="page-break-before: always;"></div>
 
 ## <a name="ResearchEmployment"></a> Research Employment
 
@@ -147,7 +148,7 @@ Publications generated:
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
 ___
-
+<div class="no-print">
 ## <a name="TechnicalSkills"></a> Technical Skills
 
 ### <a name="LabSkills"></a>Lab Skills
@@ -166,7 +167,7 @@ ___
 - Javascript
 - Java
 - HTML
-
+</div>
 <div class="no-print">
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
@@ -549,13 +550,14 @@ Dr Matthews has made a commitment to the profession as a member of the following
 
 <div class="no-print">
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
-</div>
+
 ___
 
 ## <a name="References"></a>References
 
 A list of references are available upon request.
 
-<div class="no-print">
+
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
+
 </div>
