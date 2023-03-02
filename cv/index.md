@@ -6,6 +6,7 @@ permalink: /cv/
 <div class="no-print">
 To download this CV, simply print to PDF using your browser.
 </div>
+
 # Dr Richard Matthews
 
 _BE(Hons) PhD MIEAust MAICD_
