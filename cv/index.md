@@ -3,17 +3,6 @@ layout: default
 title: CV of Dr Richard Matthews
 permalink: /cv/
 ---
-  <style>
-    @media print {
-      .no-print {
-        display: none;
-      }
-      body {
-        font-family: Arial, sans-serif;
-        font-size: 11pt;
-      }
-    }
-  </style>
   
 To download this CV, simply print to PDF using your browser.
 
