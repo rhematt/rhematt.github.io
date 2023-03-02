@@ -18,6 +18,7 @@ _BE(Hons) PhD MIEAust MAICD_
 
 ___
 <div style="page-break-after: always;"></div>
+
 ## <a name="Contents"></a>Contents
 
 - [Education](#Education)
