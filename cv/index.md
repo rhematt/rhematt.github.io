@@ -20,7 +20,8 @@ _BE(Hons) PhD MIEAust MAICD_
 ___
 
 <div class="no-print">
-## <a name="Contents"></a>Contents
+
+ ## <a name="Contents"></a>Contents
 
 - [Education](#Education)
 - [Research Employment](#ResearchEmployment)
@@ -55,6 +56,7 @@ ___
 ___
 
 </div>
+
 ## <a name="Education"></a> Education
 
 ### Doctor of Philosophy
@@ -96,7 +98,6 @@ Electives:
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
 ___
-
 
 ## <a name="ResearchEmployment"></a> Research Employment
 
@@ -147,7 +148,6 @@ Publications generated:
 </div>
 ___
 
-
 ## <a name="TechnicalSkills"></a> Technical Skills
 
 ### <a name="LabSkills"></a>Lab Skills
@@ -172,7 +172,6 @@ ___
 </div>
 ___
 
-
 ## <a name="AwardsPrizes"></a> Awards and Prizes
 
 - 2020 Netflix Security Researcher Hall of Fame Inductee.
@@ -190,9 +189,12 @@ ___
 <div class="no-print">
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
+
 ___
+
 <div class="no-print">
-## <a name="ResearchMotivation"></a> Research Motivation
+
+ ## <a name="ResearchMotivation"></a> Research Motivation
 
 My research interests are primarily focused in the discipline of the Forensic Sciences. My current focus is towards forensic validation generally, digital and media forensics specifically and the nature of science philosophically. I have strong interests in all types of media including visual and audio and apply this to current and emerging issues within cyber security, intelligence and forensic science.
 
@@ -201,12 +203,13 @@ During my MBA at the Unviersity of Adelaide I was introduced to the concept of e
 My take on this work is unique due to the integration of systems thinking. I ensure my tools are built with the forensic process in mind ensuring that not only is abhorent media eliminated from our networks, but evidence of the crime is preserved leading to successful prosecution. However, breaking a single link is not enough. To completely eradicate the problem of online abuse and human trafficking measures need to be taken to disrupt the system at all possible intervention points. On one hand, my work focuses on the detection, moderation, classification and storage of online abuse material. On another, it studies the methods of analysis, categorisation, linkage and provenance of online abuse and surviellance material. Through the integration of systems thinking these tools create leverge to disrupt at the critical point of dissemination and creation. Such disruption leads to a greater ability in locating those who are victims to these crimes.
 
 I acknowldege that my own work is not enough to solve the issues recognised by the systems level analysis of the problem. Recognising the limitations technology has, through international and interdisciplinary collaborations the human, psychological and criminological elements of these challenges become clear leading to victimcentric reforms, educational programs and cultural changes to eliminate the socioeconomic factors leading to environments which cater to online abuse.
+
 </div>
+
 <div class="no-print">
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
 ___
-
 
 ## <a name="Publications"></a> Publications
 
@@ -267,6 +270,7 @@ Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most rea
 <div class="no-print">
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
+
 ___
 
 
@@ -283,8 +287,10 @@ ___
 </div>
 
 ___
+
 <div class="no-print">
-## <a name="Funding"></a> Funding
+
+ ## <a name="Funding"></a> Funding
 
 ### <a name="Grants"></a>Grants
 
@@ -299,9 +305,11 @@ ___
 
 - Matthews, R. 2020. CreatorID leaked from public content posted to SnapMaps. Online 2020. hackerone. Avalaible: [https://hackerone.com/reports/867521](https://hackerone.com/reports/867521). USD 1,000.
 </div>
+
 <div class="no-print">
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
+
 ___
 
 ## <a name="ConferenceProceedings"></a> Conference Proceedings and Abstracts
@@ -330,10 +338,12 @@ See Also: [https://www.fcn.police.uk/sites/default/files/2021-09/Session%208%20D
 <div class="no-print">
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
+
 ___
 
 <div class="no-print">
-## <a name="TeachingExperience"></a> Teaching Experience
+
+ ## <a name="TeachingExperience"></a> Teaching Experience
 
 ### <a name="AcademicAppointments"></a>Academic Appointments
 
@@ -452,10 +462,10 @@ During Semester 2 of 2020 I supervised a summer research scholarship holder who 
 - Syllubus design
 - Zoom
 - Microsoft Teams
+</div>
 
 <div class="no-print">
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
-</div>
 </div>
 ___
 
@@ -473,16 +483,19 @@ ___
 - Member of Academic Board. 2016 - 2017. University of Adelaide.
 
 To see my disclosed peer review record please visit me on [Publons.](https://publons.com/researcher/3744919/richard-matthews/)
+
 <div class="no-print">
 <p align="right"> <a href="#Contents">Back to Contents</a> </p>
- </div>
+</div>
 ___
 
 ## <a name="ExpertMemberships"></a> Expert Memberships
 - 2021 - current. INTERPOL Digital Forensic Experts Group.
 - 2020 - current. UK Forensic Capability Network 3D Experts Group
 
+<div class="no-print">
 <p align="right"> <a href="#Contents">Back to Contents</a> </p>
+</div>
 ___
 
 ## <a name="ExpertWitness"></a> Expert Witness
