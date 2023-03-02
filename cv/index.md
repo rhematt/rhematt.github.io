@@ -1,9 +1,9 @@
-<div class="no-print">  
 ---
 layout: default
 title: CV of Dr Richard Matthews
 permalink: /cv/
 ---
+<div class="no-print">
 To download this CV, simply print to PDF using your browser.
 </div>
 # Dr Richard Matthews
