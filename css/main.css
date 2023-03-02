@@ -139,3 +139,13 @@ img.packages {
     margin: 0 15px 0 0;
 }
 
+
+    @media print {
+      .no-print {
+        display: none;
+      }
+      body {
+        font-family: Arial, sans-serif;
+        font-size: 11pt;
+      }
+    }
