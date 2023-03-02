@@ -18,7 +18,7 @@ _BE(Hons) PhD MIEAust MAICD_
 </address>
 
 ___
-<div style="page-break-after: always;"></div>
+
 <div class="no-print">
 ## <a name="Contents"></a>Contents
 
@@ -51,9 +51,9 @@ ___
 - [Member Bodies](#MemberBodies)
 - [References](#References)
 
-<div style="page-break-after: always;"></div>
+
 ___
-<div style="page-break-after: always;"></div>
+
 </div>
 ## <a name="Education"></a> Education
 
@@ -96,7 +96,7 @@ Electives:
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
 ___
-<div style="page-break-after: always;"></div>
+
 
 ## <a name="ResearchEmployment"></a> Research Employment
 
@@ -146,7 +146,7 @@ Publications generated:
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
 ___
-<div style="page-break-after: always;"></div>
+
 
 ## <a name="TechnicalSkills"></a> Technical Skills
 
@@ -171,7 +171,7 @@ ___
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
 ___
-<div style="page-break-after: always;"></div>
+
 
 ## <a name="AwardsPrizes"></a> Awards and Prizes
 
@@ -206,7 +206,7 @@ I acknowldege that my own work is not enough to solve the issues recognised by t
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
 ___
-<div style="page-break-after: always;"></div>
+
 
 ## <a name="Publications"></a> Publications
 
@@ -268,7 +268,7 @@ Since 2015, Dr Matthews is one of the University of Adelaide’s top 10 most rea
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
 ___
-<div style="page-break-after: always;"></div>
+
 
 ## <a name="Patents"></a> Patents and Open Source Deployments
 
@@ -278,9 +278,11 @@ ___
   - This project led to a honours project for 3 students in 2021 at the University of Adelaide to expand upon the functionality for automatically moderating the content uploaded to social media networks using convolutional networks.
   - A decision was made to release this innovation under an MIT licence rather than pursue a patent due to the application space for the law enforcement and intelligence community at large.
 
+<div class="no-print">
 <p align="right"> <a href="#Contents">Back to Contents</a> </p>
+</div>
+
 ___
-<div style="page-break-after: always;"></div>
 <div class="no-print">
 ## <a name="Funding"></a> Funding
 
@@ -329,7 +331,7 @@ See Also: [https://www.fcn.police.uk/sites/default/files/2021-09/Session%208%20D
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
 ___
-<div style="page-break-after: always;"></div>
+
 <div class="no-print">
 ## <a name="TeachingExperience"></a> Teaching Experience
 
@@ -454,9 +456,9 @@ During Semester 2 of 2020 I supervised a summer research scholarship holder who 
 <div class="no-print">
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
 </div>
-___
-<div style="page-break-after: always;"></div>
 </div>
+___
+
 ## <a name="AcademicService"></a> Academic Service
 
 - Member Advisory Board. 2022 - current. Forensic Science International: Digital Investigation. Elsevier. (To be announced).
@@ -471,10 +473,11 @@ ___
 - Member of Academic Board. 2016 - 2017. University of Adelaide.
 
 To see my disclosed peer review record please visit me on [Publons.](https://publons.com/researcher/3744919/richard-matthews/)
-
+<div class="no-print">
 <p align="right"> <a href="#Contents">Back to Contents</a> </p>
+ </div>
 ___
-<div style="page-break-after: always;"></div>
+
 ## <a name="ExpertMemberships"></a> Expert Memberships
 - 2021 - current. INTERPOL Digital Forensic Experts Group.
 - 2020 - current. UK Forensic Capability Network 3D Experts Group
