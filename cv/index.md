@@ -71,10 +71,10 @@ University of Adelaide\
 
 **Topic:** [Towards a unified thoery of sensor pattern noise: An analysis of dark current, lens effects and temperature bias in CMOS image sensors.](/files/thesis.pdf)
 
-### Masters of Business Administration
+### Graduate Diploma in Business Administration
 
 University of Adelaide\
-2020 - 2023 est.
+2020 - 2023
 
 Electives:
 
