@@ -10,13 +10,13 @@ To download this CV, simply print to PDF using your browser.
 # Dr Richard Matthews
 
 _PhD GDipBA BE(Hons) MIEAust MAICD_
-
+<div class="no-print">
 <address>
  <p>Adelaide, Australia.</p>
  <p><span class="obfuscate">moc.liamg@swehttamehr</span></p>
  <p><span class="obfuscate">075 572 414 16+</span></p>
 </address>
-
+</div>
 ___
 
 <div class="no-print">
