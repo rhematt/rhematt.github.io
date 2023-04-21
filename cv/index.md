@@ -9,7 +9,7 @@ To download this CV, simply print to PDF using your browser.
 
 # Dr Richard Matthews
 
-_BE(Hons) PhD MIEAust MAICD_
+_PhD GDipBA BE(Hons) MIEAust MAICD_
 
 <address>
  <p>Adelaide, Australia.</p>
@@ -102,10 +102,22 @@ ___
 
 ## <a name="ResearchEmployment"></a> Research Employment
 
+### Posdoctoral Ressearcher Fellow ###
+
+University of Adelaide\
+2023 - Current
+
+Working with Associate Professor Russell Brewer, I was responsible for the development of a novel system which assited in victim identification for CSAM investigations. This research seeks to improve current investigative practices via the development of a novel automated software infrastructure that leverages the voice and facial attributes of subjects to match victims and offenders across CSAM videos. 
+
+This research is funded by the Department of Home Affairs through the Australian Institute of Criminology and has industry partnerships with Oracle and South Australian law enforcement.
+
+Publications generated:
+
+
 ### Researcher in Digital Forensics (Casual)
 
 University of Adelaide\
-2020 - current
+2020 - 2022
 
 Working with Dr Matthew Sorell, I explored the forensic applications of 3D imaging methods. During this time I devloped a novel framework to test the accuracy, precision and preformance of commercial off the shelf technologies involved in 3D imaging. This pipeline visualisation was presented to the Forensic Capability Networks 3D Experts Group, Research Festival and the INTERPOL Digital Forensic Experts Group.
 
@@ -175,6 +187,7 @@ ___
 
 ## <a name="AwardsPrizes"></a> Awards and Prizes
 
+- 2023 XVideos Security Researcher Thanks.
 - 2020 Netflix Security Researcher Hall of Fame Inductee.
   - Awarded to those who discover security related issues with the Netflix platform and engage in responsible and ethical disclosure.
 - 2020 Snapchat Security Researcher Thanks.
@@ -348,7 +361,7 @@ ___
 
 ### <a name="AcademicAppointments"></a>Academic Appointments
 
-**2021 - current, Lecturer (Casual), University of Adelaide.**
+**2021 - 2022, Lecturer (Casual), University of Adelaide.**
 
 Working under Dr Matthew Sorell, I was responsible for the course co-ordination and teaching of 60 students completing Design and Innovation. This course looks to teach students further professional practice skills including writing, presentation and consulting skills needed for job ready graduates. Assessment includes the use of two essays, a semester long group project and an innovative peer assessment which enabled the full participation of all students in group work. This caused the assessment of previous years to change from weighted HD and Ds to Ds and Cs reflecting a better practice in line with school expectations. This course was revised to be taught in a blended mode this year due to COVID 19. I was responsible for teaching the online lectures and workshops while the teaching load was shared with a fellow member of the teaching staff who taught an additional workshop person.
 
@@ -417,11 +430,11 @@ Dr Matthews has been involved in the development of courses for small and large 
 
 ### <a name="ResearchSupervision"></a> Research supervision
 
-**2020 - current, masters supervisor (volunteer), Tallin University of Technology.**
+**2020 - 2022, masters supervisor (volunteer), Tallin University of Technology.**
 
 I have assisted in the supervision and peer review of masters students at the Tallin University of Technology as an external co-supervisor since 2020. These students undertake a traditional thesis and viva. I have been involved in the review and marking of viva and thesis.
 
-**2018 - current, honours supervisor (volunteer), University of Adelaide.**
+**2018 - 2022, honours supervisor (volunteer), University of Adelaide.**
 
 I have supervised 12 honours students since 2017 as part of a supervison group with Dr Matthew Sorell.
 
@@ -472,14 +485,15 @@ ___
 
 ## <a name="AcademicService"></a> Academic Service
 
-- Member Advisory Board. 2022 - current. Forensic Science International: Digital Investigation. Elsevier. (To be announced).
-- Technology Chair. 2021 - current. DFRWS-APAC22.
+- Member Advisory Board. 2022 - current. Forensic Science International: Digital Investigation. Elsevier. [https://www.journals.elsevier.com/forensic-science-international-digital-investigation/editorial-board/richard-matthews-phd](https://www.journals.elsevier.com/forensic-science-international-digital-investigation/editorial-board/richard-matthews-phd).
+- Organising Committee. 2023 - current. DFRWS-APAC23.
+- Technology Chair. 2021 - 2022. DFRWS-APAC22.
 - Peer Reviewer. 2021 - current. Australian Institute of Criminology.
 - Peer Reviewer. 2020 - current. Forensic Science International: Digital Investigation. Elsevier.
 - Peer Reviewer. 2020 - current. IEEE Access.
 - Technology Chair. 2019 - 2021. DFRWS-APAC21.
 - TPC Co-Chair. 2019 - 2021. DFRWS-APAC21.
-- Member of Governing Council. 2017 -2 020. University of Adelaide.
+- Member of Governing Council. 2017 -2020. University of Adelaide.
 - Peer Reviewer. 2019 - 2020 Digital Investigation. Elsevier.
 - Member of Academic Board. 2016 - 2017. University of Adelaide.
 
@@ -492,7 +506,8 @@ ___
 
 ## <a name="ExpertMemberships"></a> Expert Memberships
 - 2021 - current. INTERPOL Digital Forensic Experts Group.
-- 2020 - current. UK Forensic Capability Network 3D Experts Group
+- 2022 - current. UK Forensic Capability Network Visual Technologies Experts Group (Formerly 3D Experts).
+- 2020 - 2022. UK Forensic Capability Network 3D Experts Group.
 
 <div class="no-print">
 <p align="right"> <a href="#Contents">Back to Contents</a> </p>
@@ -501,27 +516,27 @@ ___
 
 ## <a name="ExpertWitness"></a> Expert Witness
 
-As a prominent forensic scientist, Dr Matthews is sometimes called to act as an expert witness in matters of digital forensics. He has given evidence and assisted in the following cases:
+As a prominent forensic scientist, Dr Matthews is sometimes called to act as an expert witness in matters of digital forensics. 
 
-- R v Catalano [2020] SADC 61 (22 May 2020).
-  - Acted on behalf of the defence regarding matters of digital evidence pertaining to the application Snapchat.
-  - Outcome, Held: The prosecution has not proved beyond reasonable doubt that the acts occurred. The accused is not guilty of all four counts.
+He has presented evidence or assisted in the following cases:
+- R v CATALANO [2020] SADC 61 (22 May 2020).  
+- R v CAILES [2023] SADC 1765 (7 Mar 2023)<sup>*</sup>.
 
-- Civil Matter: deVisser QLD (2022)
-  - Provided expert opinon on matters pertiaing to the forensic extraction of records and establishing the provenance of records from the social media application Facebook and Facebook Messenger.
-  - Matter not pursued
+He has generated reports for the following matters:
+- Private Client, Civil Matter, Queensland Magistrates Court (2022).
+- Australian Broadcasting Corporation (2022).
+- Mawson Lakes Football Club v Adelaide Footy League, Tribunal (2020).
+- Royal Society for the Prevention of Cruelty towards Animals, (2017).
 
-- Private Client, not discosed (2022)
-  - Forensic Validation of digital photos of known origin.
+He has provided advice in the following matters:
+- Private Client, Queensland Motor Accident Insurance Commission (2023).
+- Private Client, not disclosed (2022).
+- Private Client, not disclosed (2020).
+- Private Client, not disclosed (2017).
+- News Limited, (2018).
+- News Limited, (2017).
 
-- Private Client, not disclosed (2022)
-  - Provided expert opinion on matters pertaining to the provenance of digital logs and the locations of files on a computer.
-
-- Client Name Withheld, Date not disclosed.
-  - Advice pertianing to the manufacture and provenance of 3D Printed Firearms.
-
-- Client Name Withheld, Date not disclosed.
-  - Advice pertianing to the provenance of digital media of the social media site Facebook.
+* Every effort has been made to confirm the accuracy of the citation; however, it is acknowledged that errors may be present as a result of unreported judgments.
 
 <div class="no-print">
   <p align="right"> <a href="#Contents">Back to Contents</a> </p>
