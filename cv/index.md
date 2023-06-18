@@ -518,23 +518,27 @@ ___
 
 As a prominent forensic scientist, Dr Matthews is sometimes called to act as an expert witness in matters of digital forensics. 
 
-He has presented evidence or assisted in the following cases:
-- R v CATALANO [2020] SADC 61 (22 May 2020).  
-- R v CAILES [2023] SADC 1765 (7 Mar 2023)<sup>*</sup>.
+Dr Matthews has acted as an expert witness in the following matters:<sup>*</sup>
+- R v CAILES [2023] SADC 35 (14 Apr 2023).
+- R v CATALANO [2020] SADC 61 (22 May 2020).
 
-He has generated reports for the following matters:
+Dr Matthews has provided reports for the following matters:
+- Ey v Fairmont Homes, Commissioner for Consumer Affairs Tribunal (2023)
+- R v W (pseudonym), Queensland Magistrates Court (2023)
+- R v H (pseudonym), Queensland Magistrates Court (2023)
 - Private Client, Civil Matter, Queensland Magistrates Court (2022).
 - Australian Broadcasting Corporation (2022).
 - Mawson Lakes Football Club v Adelaide Footy League, Tribunal (2020).
 - Royal Society for the Prevention of Cruelty towards Animals, (2017).
 
-He has provided advice in the following matters:
+Dr Matthews has provided advice in the following matters:
+- Review into the Inquest of Michael Cross, Queensland (2023)
 - Private Client, Queensland Motor Accident Insurance Commission (2023).
 - Private Client, not disclosed (2022).
 - Private Client, not disclosed (2020).
 - Private Client, not disclosed (2017).
 - News Limited, (2018).
-- News Limited, (2017).
+- News Limited, (2017)
 
 * Every effort has been made to confirm the accuracy of the citation; however, it is acknowledged that errors may be present as a result of unreported judgments.
 
@@ -544,7 +548,6 @@ He has provided advice in the following matters:
 ___
 
 ## <a name="ContinuedTraining"></a>Continued Training
-
 - Fundamentals of University Governance. Australian Institute of Company Directors. 2019.
 - Maritime Cyber Operations and Policy. Tallinn Maritime Academy. 2018.
 - Open Source Intelligence and Policy. Tallinn University of Technology. 2017
