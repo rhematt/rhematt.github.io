@@ -1,0 +1,47 @@
+[  
+  {  
+    "degree": "Doctor of Philosophy",  
+    "institution": "University of Adelaide",  
+    "location": "Adelaide, Australia",  
+    "start_year": "2017",  
+    "end_year": "2019",  
+    "supervisors": [  
+      {  
+        "name": "Dr Matthew Sorell",  
+        "role": "Primary",  
+        "link": "https://researchers.adelaide.edu.au/profile/matthew.sorell"  
+      },  
+      {  
+        "name": "Associate Professor Nickolas Falkner",  
+        "role": "Co-Supervisor",  
+        "link": "https://researchers.adelaide.edu.au/profile/nickolas.falkner"  
+      }  
+    ],  
+    "thesis_title": "Towards a unified theory of sensor pattern noise: An analysis of dark current, lens effects and temperature bias in CMOS image sensors.",  
+    "thesis_link": "/files/thesis.pdf"  
+  },  
+  {  
+    "degree": "Graduate Diploma in Business Administration",  
+    "institution": "University of Adelaide",  
+    "location": "Adelaide, Australia",  
+    "start_year": "2020",  
+    "end_year": "2023",  
+    "electives": [  
+      "Systems Thinking"  
+    ]  
+  },  
+  {  
+    "degree": "Bachelor of Engineering with Honours (Electrical and Electronic)",  
+    "institution": "University of Adelaide",  
+    "location": "Adelaide, Australia",  
+    "start_year": "2008",  
+    "end_year": "2015",  
+    "honours_thesis": "Generic Systems Engineering Training System",  
+    "electives": [  
+      "Business Management Systems",  
+      "Systems Engineering",  
+      "Coding and Cryptography",  
+      "Telecommunications Systems"  
+    ]  
+  }  
+]  

@@ -1,0 +1,75 @@
+# _data/cv.yml  
+  
+personal_info:  
+  name: Dr Richard Matthews  
+  title: Forensic Scientist and Engineer  
+  email: 'moc.liamg@swehttamehr' # obfuscated  
+  phone: 'Your Phone Number'  
+  address: 'Adelaide, South Australia'  
+  summary: >  
+    A brief summary or objective statement that highlights your expertise and experience.  
+  
+sections:  
+  - title: Expertise  
+    items:  
+      - Media Forensics  
+      - Image Validation  
+      - Digital Image Sensor Identification  
+      # Add more expertise areas  
+  
+  - title: Education  
+    items:  
+      - degree: PhD in Image Forensics  
+        institution: University of Adelaide  
+        year: 2019  
+      - degree: Bachelor of Engineering (Electrical and Electronic)  
+        institution: University of Adelaide  
+        year: 2016  
+      # Add more education entries  
+  
+  - title: Experience  
+    items:  
+      - title: Research Fellow  
+        company: Adelaide Cybercrime Laboratory, University of Adelaide  
+        location: Adelaide, Australia  
+        years: '2020 - Present'  
+        responsibilities:  
+          - Developing tools for forensic intelligence workflows  
+          - Literature review into forensic science validation  
+          - Developing best practices for forensic evidence seizure  
+      # Add more experience entries  
+  
+  - title: Certifications  
+    items:  
+      - certificate: Cybersecurity Certificate  
+        issuer: Taltech, Estonia  
+        year: 2020  
+      # Add more certifications  
+  
+  - title: Publications  
+    items:  
+      - title: 'Forensic Acceptance and Readiness Level (FAR) Framework'  
+        publication: 'Proceedings of DFRWS APAC 2022'  
+        year: 2022  
+        link: 'link-to-paper'  
+      # Add more publications  
+  
+  - title: Memberships  
+    items:  
+      - Forensic Capability Network's Visual Technologies Experts Group  
+      - INTERPOL Innovation Centre's Digital Forensic Experts Group  
+      # Add more memberships  
+  
+  - title: Awards  
+    items:  
+      - Netflix Security Researcher Hall of Fame, 2020  
+      - Bug bounty from Snap for intelligence exploit  
+      # Add more awards  
+  
+  - title: Skills  
+    items:  
+      - Programming Languages: Python, C++, ...  
+      - Tools: Jekyll, Git, ...  
+      # Add more skills  
+  
+# Add any other sections you need  
