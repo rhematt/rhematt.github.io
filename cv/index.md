@@ -142,47 +142,47 @@ title: Curriculum Vitae of Dr Richard Matthews
   
 ---  
   
-<!-- Publications -->  
-<section id="publications">  
-  <h2>Publications</h2>  
-  <p>Last updated: {{ site.data.publications.activity.last_updated }}</p>  
-  <p>To see my publication activity including citations as a graph please <a href="{{ site.data.publications.activity.activity_link }}">click here</a>.</p>  
-  
-  <h3>Journals</h3>  
-  <ul>  
-    {% for journal in site.data.publications.journals %}  
-      <li>  
-        {{ journal.authors | join: ', ' }}. {{ journal.year }}. "<em>{{ journal.title }}</em>". <strong>{{ journal.journal }}</strong>.  
-        {% if journal.volume %} Vol. {{ journal.volume }},{% endif %}  
-        {% if journal.pages %} pp. {{ journal.pages }},{% endif %}  
-        {% if journal.month %} {{ journal.month }},{% endif %}  
-        DOI: <a href="{{ journal.link }}">{{ journal.doi }}</a>.  
-      </li>  
-    {% endfor %}  
-  </ul>  
-  
-  <h3>Technical and Policy Reports</h3>  
-  <ul>  
-    {% for report in site.data.publications.technical_reports %}  
-      <li>  
-        {{ report.authors | join: ', ' }}. {{ report.year }}. "<em>{{ report.title }}</em>". {{ report.publisher }}.  
-        {% if report.location %} {{ report.location }},{% endif %}  
-        {% if report.link %} Available: <a href="{{ report.link }}">{{ report.link }}</a>.{% endif %}  
-      </li>  
-    {% endfor %}  
-  </ul>  
-  
-  <h3>Popular Sources</h3>  
-  <ul>  
-    {% for source in site.data.publications.popular_sources %}  
-      <li>  
-        {{ source.author }}{% if source.co_author %} and {{ source.co_author }}{% endif %}. ({{ source.year }}). "{{ source.title }}". {{ source.publisher }}.  
-        {% if source.type %} ({{ source.type }}).{% endif %}  
-        {% if source.link %} Available: <a href="{{ source.link }}">{{ source.link }}</a>.{% endif %}  
-      </li>  
-    {% endfor %}  
-  </ul>  
-</section>  
+<!-- Publications -->    
+<section id="publications">    
+  <h2>Publications</h2>    
+  <p>Last updated: {{ site.data.activity.last_updated }}</p>    
+  <p>To see my publication activity including citations as a graph please <a href="{{ site.data.activity.activity_link }}">click here</a>.</p>    
+    
+  <h3>Journals</h3>    
+  <ul>    
+    {% for journal in site.data.journals %}    
+      <li>    
+        {{ journal.authors | join: ', ' }}. {{ journal.year }}. "<em>{{ journal.title }}</em>". <strong>{{ journal.journal }}</strong>.    
+        {% if journal.volume %} Vol. {{ journal.volume }},{% endif %}    
+        {% if journal.pages %} pp. {{ journal.pages }},{% endif %}    
+        {% if journal.month %} {{ journal.month }},{% endif %}    
+        DOI: <a href="{{ journal.link }}">{{ journal.doi }}</a>.    
+      </li>    
+    {% endfor %}    
+  </ul>    
+    
+  <h3>Technical and Policy Reports</h3>    
+  <ul>    
+    {% for report in site.data.technical_reports %}    
+      <li>    
+        {{ report.authors | join: ', ' }}. {{ report.year }}. "<em>{{ report.title }}</em>". {{ report.publisher }}.    
+        {% if report.location %} {{ report.location }},{% endif %}    
+        {% if report.link %} Available: <a href="{{ report.link }}">{{ report.link }}</a>.{% endif %}    
+      </li>    
+    {% endfor %}    
+  </ul>    
+    
+  <h3>Popular Sources</h3>    
+  <ul>    
+    {% for source in site.data.popular_sources %}    
+      <li>    
+        {{ source.author }}{% if source.co_author %} and {{ source.co_author }}{% endif %}. ({{ source.year }}). "{{ source.title }}". {{ source.publisher }}.    
+        {% if source.type %} ({{ source.type }}){% endif %}.    
+        {% if source.link %} Available: <a href="{{ source.link }}">{{ source.link }}</a>.{% endif %}    
+      </li>    
+    {% endfor %}    
+  </ul>    
+</section>     
   
 ---  
   
