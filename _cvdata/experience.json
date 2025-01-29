@@ -1,0 +1,51 @@
+[  
+  {  
+    "position": "Postdoctoral Research Fellow",  
+    "employer": "University of Adelaide",  
+    "location": "Adelaide, Australia",  
+    "start_year": "2023",  
+    "end_year": "2023",  
+    "description": "Working with Associate Professor Russell Brewer, I was responsible for the development of a novel system which assisted in victim identification for CSAM investigations. This research seeks to improve current investigative practices via the development of a novel automated software infrastructure that leverages the voice and facial attributes of subjects to match victims and offenders across CSAM videos. This research is funded by the Department of Home Affairs through the Australian Institute of Criminology and has industry partnerships with Oracle and South Australian law enforcement.",  
+    "publications_generated": []  
+  },  
+  {  
+    "position": "Researcher in Digital Forensics (Casual)",  
+    "employer": "University of Adelaide",  
+    "location": "Adelaide, Australia",  
+    "start_year": "2020",  
+    "end_year": "2022",  
+    "description": "Working with Dr Matthew Sorell, I explored the forensic applications of 3D imaging methods. During this time, I developed a novel framework to test the accuracy, precision, and performance of commercial off-the-shelf technologies involved in 3D imaging. This pipeline visualization was presented to the Forensic Capability Network's 3D Experts Group, Research Festival, and the INTERPOL Digital Forensic Experts Group.\n\nI also explored the impacts of Snapchat as a source of open-source intelligence. Through this research, a fatal error in the Snapchat platform was discovered which resulted in a significant security issue. This issue could lead to the identification of individual users and the subsequent ability to track them via their postings onto the Snapchat platform. It was responsibly and ethically disclosed to Snap Inc. and awarded a bug bounty as well as researcher thanks.",  
+    "publications_generated": [  
+      "Matthews, R. H., & Sorell, M. 2021. Forensic Applications of 3D Sampling. INTERPOL Digital Forensic Experts Group 2021.",  
+      "Matthews, R. H., & Sorell, M. 2021. Forensic Applications of 3D Scanning. FCN Science Fest 2021. Available: https://www.fcn.police.uk/publications/session-8-dr-richard-matthews",  
+      "Matthews, R. H., Lovell, K., & Sorell, M. 2021. Ghost Protocol – Snapchat as a method of surveillance. Forensic Science International - Digital Investigation. 36 (April 2021), DOI: 10.1016/j.fsidi.2021.301112",  
+      "Snap Scraper. 31 May 2020. https://rhematt.github.io/Snap-Scraper/",  
+      "Matthews, R. 2020. CreatorID leaked from public content posted to SnapMaps. HackerOne. Available: https://hackerone.com/reports/867521. USD 1,000.",  
+      "Matthews, R. H. 2020. OSINT #SnapChatStupidity. CSRB. Adelaide. Available by request.",  
+      "Matthews, R. H. 2020. OSINT #AustralianBurning. CSRB. Adelaide. Available by request."  
+    ]  
+  },  
+  {  
+    "position": "Postdoctoral Research Fellow in Cyber Intelligence",  
+    "employer": "RHEM Labs",  
+    "location": "Adelaide, Australia",  
+    "start_year": "2020",  
+    "end_year": "2021",  
+    "description": "Working as a subcontractor for the NATO Cooperative Cyber Defence Centre of Excellence, this research position would normally have been undertaken as a postdoctoral research position based at the center. However, due to travel restrictions imposed by the global COVID-19 pandemic, the research was undertaken as a subcontractor in my home nation. Through this collaboration, I developed a framework to assess the relevant technological risk posed by generative adversarial networks to an emerging intelligence field known as cyber intelligence. In this work, we assisted in defining what cyber intelligence is, investigated different applications of generative adversarial networks within the cyber intelligence domain, and determined the framework to assess them. The work was published in the CCDCOE's internal library.",  
+    "publications_generated": [  
+      "Biondi, F., Buonocore, G., & Matthews, R. 2021. Generative Adversarial Networks from a Cyber Intelligence perspective. Library of The NATO Cooperative Cyber Defence Centre of Excellence. Available: https://ccdcoe.org/library/publications/generative-adversarial-networks-from-a-cyber-intelligence-perspective/"  
+    ]  
+  },  
+  {  
+    "position": "Postdoctoral Researcher in Cybersecurity",  
+    "employer": "University of Adelaide",  
+    "location": "Adelaide, Australia",  
+    "start_year": "2019",  
+    "end_year": "2020",  
+    "description": "Reporting to Dr Matthew Sorell and Dr Braden Philips, I was responsible for conducting an independent study on the cybersecurity of small form satellites as used in a military context. This position was supported by a grant from the Defence Science and Technology Group. Further details available upon request.",  
+    "publications_generated": [  
+      "Matthews, R. H., Phillips, B., & Sorell, M. 2019. How security ready is the Australian Space Industry? The challenges of digital security in space. ASRC19. Adelaide 2019. Available: http://www.nssa.com.au/19asrc/resources/19ASRC_Program_Abstracts.pdf.",  
+      "Matthews, R., Phillips, B., and Sorell, M. 2019. Space Cyber: Understanding Cyber Vulnerabilities of Small Form Factor Satellites. The University of Adelaide. Adelaide 2019."  
+    ]  
+  }  
+]  

@@ -1,0 +1,445 @@
+
+### File: 404.html
+```html
+<!-- 404.html -->
+---
+layout: default
+title: 404 Error | Sorry, this page does not exist.
+--- 
+
+<div class="error">
+        	<h1>Whoah, that's a 404 Error</h1>
+        	<p class="lead">Hey, sorry, but the page you're trying to access doesn't exist. Try <a href="/" title="Dr Richard Matthews homepage">going back to the homepage</a>, or use the navigation menu above to find what you're looking for.</p>
+</div>
+
+```
+
+### File: _layouts/default.html
+```html
+<!-- _layouts/default.html -->
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="canonical" href="https://www.rhemlabs.com.au/" />
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+			<script src="http://code.highcharts.com/highcharts.js"></script>
+			
+		</head>
+		<body>
+			<div class="no-print">
+			 
+			<nav>
+				<a href="/">Home</a>
+				<div class="dropdown">
+    					About Me <i class="fa fa-caret-down"> </i>
+    					<div class="dropdown-content">
+     						 <a href="/richard">Academic Bio</a>
+      						<a href="/cv">CV</a>
+    					</div>
+				</div> 
+				<div class="dropdown">Work<i class="fa fa-caret-down"></i>
+    					<div class="dropdown-content">
+     						<a href="/teaching">Teaching</a>
+      						<a href="/research">Research</a>
+      						<a href="/packages">Packages</a>
+    					</div>
+				</div> 
+				<a href="/blog">Blog</a>
+				
+				<a href="/CSRBC23" class="right">CSRBC23</a>
+			</nav>
+			</div>
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+		<div class="no-print">
+	    		<ul>
+              			<li><a href="/site">About this Site</a><li>
+				<li><a href="/contact">Contact</a><li>
+				
+	      			<!-- RSS -->
+				<li><a href="https://www.rhemlabs.com.au/blog/atom.xml">RSS</a></li>
+				
+				</ul>
+			</div> 
+			</footer>
+		</body>
+	</html>
+
+```
+
+### File: _layouts/posts.html
+```html
+<!-- _layouts/posts.html -->
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<p class="meta">{{ page.date | date_to_string }}</p>
+
+<div class="post">
+  {{ content }}
+</div>
+
+```
+
+### File: academicFreedom/index.html
+```html
+<!-- academicFreedom/index.html -->
+This comment is protected under academic freedom; both as legislated and as defined under my respective institutions polices. 
+
+My comments are made from my areas of academic expertises based on my studies of Systems, Administration, Psychology, Leadership, Management and Governance. This knowledge is quantified in my academic qualifications, published activity and experience. a https://rhematt.github.io/ The comments reflect my opinions and not those of my employers.
+
+```
+
+### File: biography/index.html
+```html
+<!-- biography/index.html -->
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://rhematt.github.io/about/</title>
+<meta http-equiv="refresh" content="0; URL=https://rhematt.github.io/about/">
+<link rel="canonical" href="https://rhematt.github.io/about/">
+
+```
+
+### File: blog/index.html
+```html
+<!-- blog/index.html -->
+---
+layout: default
+title: Blog
+---
+	<h1>{{ page.title }}</h1>
+	<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
+
+```
+
+### File: contact/index.html
+```html
+<!-- contact/index.html -->
+---
+layout: default
+title: Contact
+---
+
+<div class="contact">
+
+<h1>{{ page.title }}</h1>
+
+	<p class="lead"> You can get in touch with or find me at:</p>
+	
+	<ul class="list-unstyled">
+	<li><a href="https://researchers.adelaide.edu.au/profile/richard.matthews">@UofA</a></li>
+	<li><a href="http://github.com/rhematt">@GitHub</a></li>
+  <li><a href="https://twitter.com/rhematt">@Twitter</a></li>
+  <li><a href="https://www.linkedin.com/in/rhematthews/">@LinkedIn</a></li>
+  <li><a href="https://scholar.google.com.au/citations?user=g08yuqwAAAAJ&hl">@GoogleScholar</a></li> 
+  <li><a href="https://publons.com/researcher/3744919/richard-matthews/">@Publons</a></li>
+  <li><a href="https://ccdcoe.org/library/publications/?authors=richard-matthews">@NATO CCDCOE</a></li>
+	</ul>
+
+You can also send me an e-mail @ <span class="obfuscate">moc.liamg@swehttamehr</span>, but there's no guarantee I'll see it amongst the junk ;)
+	
+
+</div>
+
+```
+
+### File: cv/activity.html
+```html
+<!-- cv/activity.html -->
+---
+layout: default
+title: Publication Activity for Dr Richard Matthews
+---
+
+<h1>Key Metrics</h1>
+
+<p>PhD Awarded: 2019 (3 years active)</p>
+<p>Citations: 30</p>
+<p>H-index:   3</p>
+<p>M-index:   1.0</p>
+
+
+<h1>Publication Activity</h1>
+
+<h2>-A quick Look-</h2>
+<p>Total<sup>*</sup> output: 52</p>
+<p>Per Year Mean: 4 </p>
+<p>Per Year Mode: 1 </p>
+<p>Per Year Median: 4 </p>
+
+<sup>*</sup>total includes all sources as per CV.
+
+Last Updated August 30 2022
+
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<div id="publicationsgraph" style="width:100%; height:400px;"></div>
+<script> 
+document.addEventListener('DOMContentLoaded', function() {
+  		const chart = Highcharts.chart('publicationsgraph', {
+		chart: {
+   			   type: 'column'
+	    	},
+		legend:{
+			enabled: false,
+		},
+  		title: {
+            		text: ''
+        		},
+			xAxis: {
+ 	 			categories: ["2017", "2018", "2019", "2020", "2021", "2022"]
+			},
+		yAxis: {
+			title: {
+                			text: ''
+            		}
+		},
+			series: [{
+			name: '',
+  				data: [ 5, 7, 9, 1, 3, 1]
+			}]
+  		});
+});
+</script>
+<h1>Citation Metrics</h1>
+
+<h2>-A quick Look-</h2>
+
+
+<p>Citations:</p>
+<p>Per Year Mean:10</p>
+<p>Per Year Mode: 6</p>
+<p>Per Year Median: 7 </p>
+
+
+
+<div id="citationsgraph" style="width:100%; height:400px;"></div>
+<script> 
+document.addEventListener('DOMContentLoaded', function() {
+  		const chart = Highcharts.chart('citationsgraph', {
+		chart: {
+   			   type: 'column'
+	    	},
+		legend:{
+			enabled: false,
+		},
+  		title: {
+            		text: ''
+        		},
+			xAxis: {
+ 	 			categories: ["2017", "2018", "2019", "2020", "2021", "2022"]
+			},
+		yAxis: {
+			title: {
+                			text: ''
+            		}
+		},
+			series: [{
+			name: '',
+  				data: [ 0, 0, 8, 10, 6, 6]
+			}]
+  		});
+});
+</script>
+<p>Data obtained from Google Scholar.</p>
+
+
+<h1>Package Downloads</h1>
+
+<div id="packagesgraph" style="width:100%; height:400px;"></div>
+<script> 
+document.addEventListener('DOMContentLoaded', function() {
+  		const chart = Highcharts.chart('packagesgraph', {
+		chart: {
+   			   type: 'bar'
+	    	},
+		legend:{
+			enabled: false,
+		},
+  		title: {
+            		text: ''
+        		},
+			xAxis: {
+ 	 			categories: ["SnapScraper"]
+			},
+		yAxis: {
+			title: {
+                			text: ''
+            		}
+		},
+			series: [{
+			name: '',
+  				data: [ 8528 ]
+			}]
+  		});
+});
+</script>
+
+
+
+<a href="/cv"> Back </a>
+
+```
+
+### File: index.html
+```html
+<!-- index.html -->
+---
+layout: default
+title: Dr Richard Matthews
+---
+<div class="blurb">
+	
+	<img  class="img-circle avatar" alt="Richard Matthews" src="img/Profile.JPG">
+	
+	<div itemscope itemtype="http://data-vocabulary.org/Person" class="col-sm-8">
+	<p class="lead"> 
+	<p>
+		My name's <span itemprop="name">Dr Richard Matthews</span> and I'm proud to call myself a forensic scientist with specific expertise in digital forensic methodologies to inform investigations ranging from image, video and audio validation, right through to digital reconstructions for reverse engineering and preparing timelines. I conduct and prove cybercrime and digital forensic research and investigations for organisations globally.
+	</p>
+		
+	<p>
+		In short, I'm a <span itemprop="title">father</span>, <span itemprop="title">engineer</span>, and <span itemprop="title"> scientist</span>, living in <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address"><span itemprop="region">South Australia</span></span> where I am currently employed as a Research Fellow at the Adelaide Cybercrime Laboratory attached to the Department of Sociology, Criminology and Gender Studies at <span itemprop="affiliation">the <a href="http://www.adelaide.edu,au">University of Adelaide's</a></span> Faculty of Arts, Business, Law and Economics.
+	</p>
+		
+	<p>I'm available for contract as a <span itemprop="title">forensic consultant</span> delivering <span itemprop="title">expert opinion</span> as an expert witness across multiple jurisdictions. My specialised knowledge encompass a broad range of digital areas, aligned to the Dasreef requirements of my specialised training, study and experience. These include:
+		<ul>
+			<li> Media Forensics;
+			<li> Image Validation;
+			<li> Digital Image Sensor Identification;
+			<li> Social Media Analysis;
+			<li> Timeline reconstructions;
+			<li> Open Source Investigations;
+			<li> Image and Video Provenance;
+			<li> 3D Imaging Technologies;
+			<li> 3D Printing and Advanced Manufacturing;
+			<li> Biometric identifiers;
+			<li> Wearables;
+			<li> Sensor Pattern Noise;
+			<li> Chain of custody validation;
+			<li> iPhone media validation;
+			<li> Analysis of cached data for interent history;
+			<li> Metadata investigations;
+			<li> Scientific Validation of forensic methods;
+			<li> Debunked forensic methodologies;
+			<li> Challenges to unscientific forensic practices;
+			<li> Forensic Validation and reliability;
+			<li> Systems Thinking;
+			<li> Artificial Intelligence;
+			<li> Machine Learning;
+			<li> Generative Technologies;
+			<li> Data hiding and discovery;
+			<li> Forensic Standards;
+			<li> Multimedia Analysis;
+			<li> Vehicles;
+			<li> Industrial Control Systems;
+			<li> Supervisory Control and Data Acqusition (SCADA);
+		</ul>
+	</p>	
+	<p>
+		Currently my research focus is split between:
+		<ul>
+			<li> developing tools for forensic intelligence workflows which leverage emerging biometric identifiers and social network analysis best practices.
+			<li> a literature review into the systems needed to establish a robust, trustworthy, standardised, verifiable and validated forensic laboratory in the Australian context.
+			<li> the development of best practices and standardised workflows for the identification and seizure of evidence at a crime scene; specifically when encountering advanced manufacturing workflows used to manufacture illicit or prohibited items.
+		</ul>
+	</p>
+	<p>
+	To assist the broader forensic community, I have a commitment to transperancy with my work. The list below is the current status of my over due research items from previous projects:
+		<ul>
+			<li> The <b>Forensic Acceptance and Readiness Level (FAR) framework </b> was presented at the 2022 DFRWS APAC Conference hosted in Adelaide South Australia at the University of Adelaide. With some last minute changes to the program, the presentation became the summary keynote of the conference. While the framework remains unpublished in the formal proceedings, this was due to my own ommission as I did not provide the written paper to the conference organisers. The writeup of the framework is currently in draft form and is being finalised with an intention to submit shortly. Competing priorities have prevented the formal publication of the work at this stage. It is hoped this will be resolved before the end of 2023.
+			<li>  The <b> Systemic Literature Review into the State of Forensic Science Validation</b> conducted during 2021 and 2022 generally has been postponned. While there is much need for a systematic review in this space, the current state of affairs with forensic science globally means I have made the decisions to await the outcome of the changes currently being implemented in the United Kingdom with their Forensic Regulator. My postion on this topic remains the same and in light of the recent DNA lab issues in Queensland reinforces the need for quality assurance, regulation and standardisation (more stick and less carrot). Our forensic systems are vunerable and are in need of modernisation. Indeed, Australia seems to be several decades behind the rest of the world with too much reliance on the scientific knowedlge of experts and the Judiciary who acts as the gatekeeper to evidence admissibility. I draw my conclusion from the thoughts of The Honourable Mark Weinberg AO KC in his paper "Juries, judges, and junk science — expert evidence on trial"  presented to the Australian Academy of Science and Australian Academy of Law Joint Symposium, Sydney on 19 August 2020. While the argiment was made that the judiciary should be given more powers to reject invalid forensic science and act as the gatekeeper, my position is one where the system needs to be robust such that it does not rely on a single point of failure. Two sides of the same coin. It is still my intention to peform the wider system study in this area to demonstrate this argument. While part of this work was presented at the DFRWS APAC conference in 2022, competing priorities with a current grant means I lack the time to finalise the view point. As above, I hope to have this resolved within the next few months. 
+		</ul>
+	</p>
+
+<p>
+	As always, feel free to contact me to collaborate.
+</p>
+
+<p>
+	Dr Richard Matthews<br>
+	PhD GDipBA BE(Hons) MIEAust
+</p>
+<p>
+	Last Updated Saturday 6 May 2023 12.51 pm ACST
+</p>
+		
+	</div>
+</div>
+<!-- </div> -->
+
+
+
+
+
+
+```
+
+### File: richard/index.html
+```html
+<!-- richard/index.html -->
+---
+layout: default
+title: About Me
+---
+
+<div class = "about">
+<h1>Biography</h1>
+<p> Dr Richard Matthews is an expert in digital forensics. He holds a PhD in image forensics and a Bachelor of Engineering (Electrical and Electronic) from the University of Adelaide, Australia. Dr Matthews also holds several certificates in cybersecurity from Taltech, Estonia. He is a member of the Forensic Capability Network's (FCN) Visual Technologies Experts Group based in the United Kingdom. He has served as a member of the INTERPOL Innovation Centre's Digital Forensic Experts Group. His research interests lie at the intersection of digital forensic science (DFS) (as opposed to digital forensic incident response DFIR), systems engineering and intelligence. While his work is highly technical, he enjoys teaching soft skills as part of a suite of professional practice subjects to engineering students. He emphasises the importance of integrating emotional intelligence, psychology and adaptive leadership styles to build strong, resilient leaders. </p> 
+	
+<p>Across his 20-year working history, he has experienced a diverse range of sectors, including military, governance, manufacturing and academia, across private and public firms. His adaptive leadership style accentuates both participative and transformational attributes. Drawing upon his experience and skills, Dr Matthews brings diverse, dissenting views together on problems that often have no well-defined solutions. This multidisciplinary approach fosters innovative ideas among his research students. Such freedom often challenges the traditional paradigms of siloed workflows within the academy.</p> 
+
+<p>In private practice, Dr Matthews is the Managing Director of RHEM Labs, a digital forensic consultancy. Since 2020, RHEM Labs has provided expert opinions across numerous jurisdictions, including America, Europe and Australia. Dr Matthews' expertise is often in high demand. He provides independent expert witness testimony on all matters related to his research areas, including digital evidence on the exploitation of children and families, social media sites, media provenance and digital storage. He has developed innovative tools to assist in the authentication of social media transcripts and the extraction of media files.</p>
+
+<p>Dr Matthews is an award-winning public speaker. In his TEDx, "How safe is the Internet?" Dr Matthews sets a bleak look at our use of technology and how businesses must consider what they post online. He integrates his research interests in the previously disjointed interdisciplinary fields of electronic engineering, computer and forensic science to convey the message about internet safety from the perspective of risk.</p>
+<div class="no-print">
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_JUiP5qZHbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+	</div>
+<p>In 2020, he was inducted into the Netflix Security Researcher Hall of fame. He received a bug bounty from the technology company Snap for his intelligence exploit enabling the extraction and preservation of digital media from Snapchat's Snap Map. He is a member of the Organising Committee for DFRWS APAC. He is now working on projects to address the prevalence of pseudo-science with media forensics and pattern-matching disciplines. He currently serves on the Advisory Board for Forensic Science International: Digital Investigation as an Editor and remains an active peer reviewer for IEEE Access, the Australian Institute of Criminology and the Australian Journal of Forensic Sciences. Dr Matthews has held professional memberships with the Australian Institute of Company Directors, the Institute of Electrical & Electronics Engineers, the Australian & New Zealand Forensic Science Society & the Institute of Engineers Australia.</p>
+	<div class="no-print">
+<p>In his spare time, he enjoys playing simulatuion games, being a father to his <span title=" why do you want to know?" >&lt;<u>undisclosed number of children</u>&gt;</span>, <span title="Stop putting personal information online.">&lt;<u>within his family structure</u>&gt;</span> and <span title="This is how we reverse engineer your passwords">&lt;<u>enjoys a good reference to pets</u>&gt;</span>.</p>
+	</div>
+</div>
+
+```
+
+### File: site/index.html
+```html
+<!-- site/index.html -->
+---
+layout: default
+title: About This Site
+description: Credits and information about the website rhematt.github.io, the personal website for Dr Richard Matthews, a Father, Engineer, Forensic Scientist and Academic working in Adelaide, Australia.
+---
+
+  <div class="about this site">
+    
+    <p>rhematt.github.io is:</p>
+    
+      <ul class="list-unstyled">
+        <li>Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>. </li>
+        <li>Powered by <a href="http://jekyllrb.com/" title="Jekyll">Jekyll</a></li>
+        <li>Hosted on <a href="http://github.com/rhematt/rhematt.github.io" title="This site hosted on GitHub">GitHub</a> thanks to <a href="http://pages.github.com/" title="GitHub Pages">GitHub Pages</a></li>
+        <li>Adapted and remixed from <a href = "https://github.com/jmcglone/jmcglone.github.io">jmcglone's github repository</a> for his website <a href ="jmcglone.com">jmcglone.com</a>, the personal website for Jonathan McGlone, a Librarian, Front-End Developer, Digital Publisher, Project Manager, Music Enthusiast, and Web Noodler living and working in Michigan.</li>
+        <li>Based on web design principles liberated in the ANZAC spirit from <a href="https://www.idontslack.com/cybersecurity/training/cookies/fancy/awesome/design/policy/2021/08/07/Whymywebpagesucks.html">Kieren Niĉolas-Lovell</a>.
+        <li>A work in progress...</li>        
+      </ul> 
+  
+  </div>
+
+```

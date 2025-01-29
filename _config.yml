@@ -1,2 +1,3 @@
 permalink: /blog/:year/:month/:day/:title
 markdown: GFM
+data_dir: '_cvdata'  

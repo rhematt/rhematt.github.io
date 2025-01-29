@@ -1,0 +1,63 @@
+{  
+  "grants": [  
+    {  
+      "investigator": "Matthews, R.",  
+      "year": "2020",  
+      "title": "Applications of GAN from Cyber Intelligence Perspective",  
+      "funder": "NATO CCDCoE",  
+      "amount": "EUR 1,500"  
+    },  
+    {  
+      "investigators": [  
+        "Matthews, R.",  
+        "Phillips, B.",  
+        "Sorell, M."  
+      ],  
+      "year": "2019",  
+      "title": "Space Cyber Security",  
+      "funder": "Defence Science Technology Group",  
+      "amount": "AUD 48,000 (component funding)"  
+    },  
+    {  
+      "investigators": [  
+        "Matthews, R.",  
+        "Sorell, M."  
+      ],  
+      "year": "2018",  
+      "title": "3D Scanning and Forensic Digital Reconstruction Methods",  
+      "funder": "National Institute of Forensic Science Australian and New Zealand Policing Advisory Association",  
+      "amount": "AUD 15,000"  
+    },  
+    {  
+      "investigator": "Matthews, R.",  
+      "year": "",  
+      "title": "Walter Dorothy Duncan Trust",  
+      "funder": "Walter Dorothy Duncan Trust",  
+      "amount": "AUD 1,000"  
+    },  
+    {  
+      "investigator": "Matthews, R.",  
+      "year": "",  
+      "title": "Travel to collaborate with NATO CCDCoE, ENFSI-EKEI and industry partners in Tallinn, Estonia",  
+      "funder": "Simon Rockcliff Grant",  
+      "amount": "AUD 4,000"  
+    },  
+    {  
+      "investigator": "Matthews, R.",  
+      "year": "2015-2019",  
+      "title": "Australian Postgraduate Award",  
+      "funder": "Australian Government",  
+      "amount": "AUD 98,485"  
+    }  
+  ],  
+  "bug_bounties": [  
+    {  
+      "reporter": "Matthews, R.",  
+      "year": "2020",  
+      "title": "CreatorID leaked from public content posted to SnapMaps",  
+      "platform": "HackerOne",  
+      "amount": "USD 1,000",  
+      "link": "https://hackerone.com/reports/867521"  
+    }  
+  ]  
+}  

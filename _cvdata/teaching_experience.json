@@ -1,0 +1,122 @@
+{  
+  "academic_appointments": [  
+    {  
+      "position": "Lecturer (Casual)",  
+      "institution": "University of Adelaide",  
+      "start_year": "2021",  
+      "end_year": "2022",  
+      "description": "Working under Dr Matthew Sorell, I was responsible for the course coordination and teaching of 60 students completing Design and Innovation. This course looks to teach students further professional practice skills including writing, presentation, and consulting skills needed for job-ready graduates. Assessment includes the use of two essays, a semester-long group project, and an innovative peer assessment which enabled the full participation of all students in group work. This caused the assessment of previous years to change from weighted HD and Ds to Ds and Cs reflecting better practice in line with school expectations. This course was revised to be taught in a blended mode this year due to COVID-19. I was responsible for teaching the online lectures and workshops while the teaching load was shared with a fellow member of the teaching staff who taught an additional workshop in person."  
+    },  
+    {  
+      "position": "Lecturer (Fixed Term)",  
+      "institution": "University of Adelaide",  
+      "start_year": "2020",  
+      "end_year": "2021",  
+      "description": "During the first semester of 2020, I was given a fixed-term position. Working with Dr Bree Bennett, Dr David Harvey, and Dr Brian Ng, I was responsible for the design and teaching of a new first-year course covering the introduction of engineering drawing, CAD, and technical design to Engineering Technologists as part of the course Engineering Technology and Digital Design. Students in this class were required to complete a variety of assessments including the design of 3D models, engineering drawings, and online quizzes. This course was designed to be taught primarily online due to COVID-19."  
+    },  
+    {  
+      "position": "Lecturer (Casual)",  
+      "institution": "University of Adelaide",  
+      "start_year": "2020",  
+      "end_year": "2021",  
+      "description": "During the Australian summer of 2020, I worked with Professor Nickolas Falkner; the course Introduction to Programming for Information Technology Specialists was completely redesigned to utilize Jupyter notebooks for assessment. The language taught was also completely changed to Python with all material redesigned with slides recreated and material earmarked for new recordings.\n\nWorking under Dr Matthew Sorell in semester 2 of 2020, I was given the responsibility as the course coordinator, teaching 80 students completing Design and Innovation."  
+    },  
+    {  
+      "position": "Tutor (Casual)",  
+      "institution": "University of Adelaide",  
+      "start_year": "2019",  
+      "end_year": "2020",  
+      "description": "Reporting to Dr Braden Philips, I was responsible for running and coordinating the ECMS learning service for the combined first-year subject Digital Systems and Analog Electronics. This service was a drop-in style peer-assisted study session run twice each week and assisted on average five students each session with any tutorial, practical, and homework problems throughout the semester."  
+    },  
+    {  
+      "position": "Lecturer (Casual)",  
+      "institution": "University of Adelaide",  
+      "start_year": "2018",  
+      "end_year": "2019",  
+      "description": "In Trimester 3 of 2018, I ran the course teaching 3D Print Prototyping to Entrepreneurship students. This subject was taught in intensive mode and was by my design, having written it in the preceding summer. The course covers the essential operation of a 3D printer along with other 3D technologies such as laser cutters, computer numeric controlled machines, and the basics of formulating a small business to match a product to be successfully manufactured using such a tool."  
+    },  
+    {  
+      "position": "Practical Demonstrator (Casual)",  
+      "institution": "University of Adelaide",  
+      "start_year": "2016",  
+      "end_year": "2019",  
+      "description": "Reporting to Dr Hong Gunn Chew, I was responsible for the primary supervision and management of up to 90 students for first-year electrical and electronic engineering practical sessions. I ran the demonstrations and guided the students through their assignments. I was assisted by another junior demonstrator and would manage their participation and lead them in what would need to be done on any one day to maintain the class best."  
+    },  
+    {  
+      "position": "Tutor (Casual)",  
+      "institution": "University of Adelaide",  
+      "start_year": "2015",  
+      "end_year": "2016",  
+      "description": "Reporting to Dr Matthew Sorell, I conducted tutorials for the first-year electrical and electronic engineering subject EEIB. In addition to the tutorials, I also supervised mid-semester quizzes, did marking, and also supervised a replacement exam."  
+    }  
+  ],  
+  "course_development": [  
+    {  
+      "course_name": "Design and Innovation",  
+      "description": "Core course for 60 to 120 students introducing engineering processes of planning, design, and innovation, including ethical, social, and environmental responsibilities of professional engineers to undergraduates in the electrical and electronic bachelor suite of programs."  
+    },  
+    {  
+      "course_name": "Engineering Technology and Digital Design",  
+      "description": "Core course for 12 to 25 first-year students providing an introduction to the role of an engineering technologist. Includes development of technical and professional attributes, interpersonal communication, and professional skills."  
+    },  
+    {  
+      "course_name": "3D Print Prototyping",  
+      "description": "Course for 15 to 30 undergraduate and postgraduate students introducing additive manufacturing technologies and prototyping options. Covers 3D modeling, moral, ethical, and legal arguments in 3D printing, and future advances in the field."  
+    },  
+    {  
+      "course_name": "Introduction to Programming for IT Professionals",  
+      "description": "Course designed for students with no prior programming experience, enrolled in the Bachelor of Information Technology. Introduces fundamental concepts of procedural programming with a focus on approaches relevant for IT."  
+    }  
+  ],  
+  "research_supervision": [  
+    {  
+      "role": "Masters Supervisor (Volunteer)",  
+      "institution": "Tallinn University of Technology",  
+      "start_year": "2020",  
+      "end_year": "2022",  
+      "description": "Assisted in supervision and peer review of masters students as an external co-supervisor. Involved in review and marking of viva and thesis."  
+    },  
+    {  
+      "role": "Honours Supervisor (Volunteer)",  
+      "institution": "University of Adelaide",  
+      "start_year": "2018",  
+      "end_year": "2022",  
+      "description": "Supervised 12 honours students since 2017 as part of a supervision group with Dr Matthew Sorell."  
+    },  
+    {  
+      "role": "Summer Research Scholarship Supervisor (Volunteer)",  
+      "institution": "University of Adelaide",  
+      "year": "2020",  
+      "description": "Supervised a summer research scholarship holder who completed a program of inquiry into the automatic categorization and moderation of short-form videos."  
+    },  
+    {  
+      "role": "Summer Space Program Supervisor (Volunteer)",  
+      "institution": "University of Adelaide",  
+      "start_year": "2019",  
+      "end_year": "2020",  
+      "description": "Details to be added pending approval."  
+    }  
+  ],  
+  "teaching_skills": [  
+    "Lab demonstration",  
+    "Tutorial demonstration",  
+    "Lecturing",  
+    "Small group teaching",  
+    "Large group teaching",  
+    "Online learning",  
+    "Exam supervision",  
+    "Essay marking",  
+    "Exam marking",  
+    "Automated quiz design",  
+    "Blackboard",  
+    "Canvas",  
+    "Moodle",  
+    "Rubric design",  
+    "Oral presentation marking",  
+    "Whole semester assignments",  
+    "Group project supervision",  
+    "Syllabus design",  
+    "Zoom",  
+    "Microsoft Teams"  
+  ]  
+}  
