@@ -7,15 +7,15 @@ title: Curriculum Vitae of Dr Richard Matthews
   
 <!-- Personal Information -->  
 <div class="cv-personal-info">  
-  <h2>{{ site.cvdata.personal_information.full_name }}</h2>  
-  <h3>{{ site.cvdata.personal_information.professional_titles | join: ', ' }}</h3>  
-  <p>Location: {{ site.cvdata.personal_information.location }}</p>  
-  <p>Email: <span class="obfuscate">{{ site.cvdata.personal_information.email }}</span></p>  
-  <p>Phone: <span class="obfuscate">{{ site.cvdata.personal_information.phone }}</span></p>  
+  <h2>{{ site.data.personal_information.full_name }}</h2>  
+  <h3>{{ site.data.personal_information.professional_titles | join: ', ' }}</h3>  
+  <p>Location: {{ site.data.personal_information.location }}</p>  
+  <p>Email: <span class="obfuscate">{{ site.data.personal_information.email }}</span></p>  
+  <p>Phone: <span class="obfuscate">{{ site.data.personal_information.phone }}</span></p>  
 </div>  
   
 <!-- Professional Summary -->  
-<p>{{ site.cvdata.personal_information.professional_summary }}</p>  
+<p>{{ site.data.personal_information.professional_summary }}</p>  
   
 ---  
   
@@ -47,7 +47,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <!-- Education -->  
 <section id="education">  
   <h2>Education</h2>  
-  {% for education in site.cvdata.education %}  
+  {% for education in site.data.education %}  
     <h3>{{ education.degree }}</h3>  
     <p>{{ education.institution }}<br>  
     {{ education.location }}<br>  
@@ -79,7 +79,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <!-- Research Employment -->  
 <section id="research-employment">  
   <h2>Research Employment</h2>  
-  {% for position in site.cvdata.experience %}  
+  {% for position in site.data.experience %}  
     <h3>{{ position.position }}</h3>  
     <p>{{ position.employer }}<br>  
     {{ position.location }}<br>  
@@ -103,13 +103,13 @@ title: Curriculum Vitae of Dr Richard Matthews
   <h2>Technical Skills</h2>  
   <h3>Lab Skills</h3>  
   <ul>  
-    {% for skill in site.cvdata.technical_skills.lab_skills %}  
+    {% for skill in site.data.technical_skills.lab_skills %}  
       <li>{{ skill }}</li>  
     {% endfor %}  
   </ul>  
   <h3>Computer Languages and Software Tools</h3>  
   <ul>  
-    {% for tool in site.cvdata.technical_skills.computer_languages_and_tools %}  
+    {% for tool in site.data.technical_skills.computer_languages_and_tools %}  
       <li>{{ tool }}</li>  
     {% endfor %}  
   </ul>  
@@ -121,7 +121,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <section id="awards-and-prizes">  
   <h2>Awards and Prizes</h2>  
   <ul>  
-    {% for award in site.cvdata.awards_prizes %}  
+    {% for award in site.data.awards_prizes %}  
       <li>  
         {{ award.year }}: {{ award.award }}  
         {% if award.description %}  
@@ -137,7 +137,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <!-- Research Motivation -->  
 <section id="research-motivation">  
   <h2>Research Motivation</h2>  
-  <p>{{ site.cvdata.research_motivation.motivation | markdownify }}</p>  
+  <p>{{ site.data.research_motivation.motivation | markdownify }}</p>  
 </section>  
   
 ---  
@@ -145,12 +145,12 @@ title: Curriculum Vitae of Dr Richard Matthews
 <!-- Publications -->  
 <section id="publications">  
   <h2>Publications</h2>  
-  <p>Last updated: {{ site.cvdata.publications.activity.last_updated }}</p>  
-  <p>To see my publication activity including citations as a graph please <a href="{{ site.cvdata.publications.activity.activity_link }}">click here</a>.</p>  
+  <p>Last updated: {{ site.data.publications.activity.last_updated }}</p>  
+  <p>To see my publication activity including citations as a graph please <a href="{{ site.data.publications.activity.activity_link }}">click here</a>.</p>  
   
   <h3>Journals</h3>  
   <ul>  
-    {% for journal in site.cvdata.publications.journals %}  
+    {% for journal in site.data.publications.journals %}  
       <li>  
         {{ journal.authors | join: ', ' }}. {{ journal.year }}. "<em>{{ journal.title }}</em>". <strong>{{ journal.journal }}</strong>.  
         {% if journal.volume %} Vol. {{ journal.volume }},{% endif %}  
@@ -163,7 +163,7 @@ title: Curriculum Vitae of Dr Richard Matthews
   
   <h3>Technical and Policy Reports</h3>  
   <ul>  
-    {% for report in site.cvdata.publications.technical_reports %}  
+    {% for report in site.data.publications.technical_reports %}  
       <li>  
         {{ report.authors | join: ', ' }}. {{ report.year }}. "<em>{{ report.title }}</em>". {{ report.publisher }}.  
         {% if report.location %} {{ report.location }},{% endif %}  
@@ -174,7 +174,7 @@ title: Curriculum Vitae of Dr Richard Matthews
   
   <h3>Popular Sources</h3>  
   <ul>  
-    {% for source in site.cvdata.publications.popular_sources %}  
+    {% for source in site.data.publications.popular_sources %}  
       <li>  
         {{ source.author }}{% if source.co_author %} and {{ source.co_author }}{% endif %}. ({{ source.year }}). "{{ source.title }}". {{ source.publisher }}.  
         {% if source.type %} ({{ source.type }}).{% endif %}  
@@ -189,7 +189,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <!-- Patents and Open Source Deployments -->  
 <section id="patents-and-projects">  
   <h2>Patents and Open Source Deployments</h2>  
-  {% for project in site.cvdata.patents_projects %}  
+  {% for project in site.data.patents_projects %}  
     <h3>{{ project.title }}</h3>  
     <p>Date: {{ project.date }}</p>  
     <p>Link: <a href="{{ project.link }}">{{ project.link }}</a></p>  
@@ -205,7 +205,7 @@ title: Curriculum Vitae of Dr Richard Matthews
   
   <h3>Grants</h3>  
   <ul>  
-    {% for grant in site.cvdata.funding.grants %}  
+    {% for grant in site.data.funding.grants %}  
       <li>  
         {{ grant.investigator | default: grant.investigators | join: ', ' }}. {{ grant.year }}. "{{ grant.title }}". {{ grant.funder }}. {{ grant.amount }}.  
       </li>  
@@ -214,7 +214,7 @@ title: Curriculum Vitae of Dr Richard Matthews
   
   <h3>Bug Bounties</h3>  
   <ul>  
-    {% for bounty in site.cvdata.funding.bug_bounties %}  
+    {% for bounty in site.data.funding.bug_bounties %}  
       <li>  
         {{ bounty.reporter }}. {{ bounty.year }}. "{{ bounty.title }}". Platform: {{ bounty.platform }}. Amount: {{ bounty.amount }}.  
         {% if bounty.link %} Available: <a href="{{ bounty.link }}">{{ bounty.link }}</a>.{% endif %}  
@@ -229,7 +229,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <section id="conference-proceedings">  
   <h2>Conference Proceedings and Abstracts</h2>  
   <ul>  
-    {% for proceeding in site.cvdata.conference_proceedings %}  
+    {% for proceeding in site.data.conference_proceedings %}  
       <li>  
         {{ proceeding.authors | join: ', ' }}. {{ proceeding.year }}. "<em>{{ proceeding.title }}</em>". In {{ proceeding.conference }}. {{ proceeding.location }}.  
         {% if proceeding.link %} Available: <a href="{{ proceeding.link }}">{{ proceeding.link }}</a>.{% endif %}  
@@ -245,7 +245,7 @@ title: Curriculum Vitae of Dr Richard Matthews
   <h2>Teaching Experience</h2>  
   
   <h3>Academic Appointments</h3>  
-  {% for appointment in site.cvdata.teaching_experience.academic_appointments %}  
+  {% for appointment in site.data.teaching_experience.academic_appointments %}  
     <h4>{{ appointment.position }}</h4>  
     <p>{{ appointment.institution }}<br>  
     {{ appointment.start_year }} - {{ appointment.end_year }}</p>  
@@ -253,13 +253,13 @@ title: Curriculum Vitae of Dr Richard Matthews
   {% endfor %}  
   
   <h3>Course Development</h3>  
-  {% for course in site.cvdata.teaching_experience.course_development %}  
+  {% for course in site.data.teaching_experience.course_development %}  
     <h4>{{ course.course_name }}</h4>  
     <p>{{ course.description | markdownify }}</p>  
   {% endfor %}  
   
   <h3>Research Supervision</h3>  
-  {% for supervision in site.cvdata.teaching_experience.research_supervision %}  
+  {% for supervision in site.data.teaching_experience.research_supervision %}  
     <h4>{{ supervision.role }}</h4>  
     <p>{{ supervision.institution }}<br>  
     {% if supervision.start_year %}{{ supervision.start_year }}{% if supervision.end_year %} - {{ supervision.end_year }}{% endif %}{% endif %}</p>  
@@ -268,7 +268,7 @@ title: Curriculum Vitae of Dr Richard Matthews
   
   <h3>Teaching Skills</h3>  
   <ul>  
-    {% for skill in site.cvdata.teaching_experience.teaching_skills %}  
+    {% for skill in site.data.teaching_experience.teaching_skills %}  
       <li>{{ skill }}</li>  
     {% endfor %}  
   </ul>  
@@ -280,7 +280,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <section id="academic-service">  
   <h2>Academic Service</h2>  
   <ul>  
-    {% for service in site.cvdata.academic_service %}  
+    {% for service in site.data.academic_service %}  
       <li>  
         {{ service.role }}  
         {% if service.event %} for {{ service.event }}{% endif %}  
@@ -298,7 +298,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <section id="expert-memberships">  
   <h2>Expert Memberships</h2>  
   <ul>  
-    {% for membership in site.cvdata.expert_memberships %}  
+    {% for membership in site.data.expert_memberships %}  
       <li>  
         {{ membership.organization }}  
         {% if membership.start_year %} ({{ membership.start_year }} - {{ membership.end_year }}){% endif %}  
@@ -317,7 +317,7 @@ title: Curriculum Vitae of Dr Richard Matthews
   
   <h3>Expert Witness Cases</h3>  
   <ul>  
-    {% for case in site.cvdata.expert_witness.expert_witness_cases %}  
+    {% for case in site.data.expert_witness.expert_witness_cases %}  
       <li>  
         {{ case.case }} - {{ case.role }}  
       </li>  
@@ -326,7 +326,7 @@ title: Curriculum Vitae of Dr Richard Matthews
   
   <h3>Reports Provided</h3>  
   <ul>  
-    {% for report in site.cvdata.expert_witness.reports_provided %}  
+    {% for report in site.data.expert_witness.reports_provided %}  
       <li>  
         {{ report.case }}  
         {% if report.court %} - {{ report.court }}{% endif %}  
@@ -337,7 +337,7 @@ title: Curriculum Vitae of Dr Richard Matthews
   
   <h3>Advice Provided</h3>  
   <ul>  
-    {% for advice in site.cvdata.expert_witness.advice_provided %}  
+    {% for advice in site.data.expert_witness.advice_provided %}  
       <li>  
         {{ advice.case }}  
         {% if advice.agency %} - {{ advice.agency }}{% endif %}  
@@ -347,7 +347,7 @@ title: Curriculum Vitae of Dr Richard Matthews
     {% endfor %}  
   </ul>  
   
-  <p>{{ site.cvdata.expert_witness.note }}</p>  
+  <p>{{ site.data.expert_witness.note }}</p>  
 </section>  
   
 ---  
@@ -356,7 +356,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <section id="continued-training">  
   <h2>Continued Training</h2>  
   <ul>  
-    {% for training in site.cvdata.continued_training %}  
+    {% for training in site.data.continued_training %}  
       <li>  
         {{ training.course }}. {{ training.provider }}. {{ training.year }}.  
       </li>  
@@ -371,7 +371,7 @@ title: Curriculum Vitae of Dr Richard Matthews
   <h2>Member Bodies</h2>  
   <p>Dr Matthews has made a commitment to the profession as a member of the following bodies:</p>  
   <ul>  
-    {% for body in site.cvdata.member_bodies %}  
+    {% for body in site.data.member_bodies %}  
       <li>  
         {{ body.organization }}  
         {% if body.status %} ({{ body.status }}){% endif %}  
@@ -385,7 +385,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <!-- References -->  
 <section id="references">  
   <h2>References</h2>  
-  <p>{{ site.cvdata.references.note }}</p>  
+  <p>{{ site.data.references.note }}</p>  
 </section>  
   
 ---  
