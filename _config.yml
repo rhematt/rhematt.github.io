@@ -1,3 +1,7 @@
-permalink: /blog/:year/:month/:day/:title
-markdown: GFM
+permalink: /blog/:year/:month/:day/:title  
+markdown: kramdown  
 data_dir: '_cvdata'  
+  
+kramdown:  
+  input: GFM  
+  enable_coderay: false  
