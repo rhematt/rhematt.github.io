@@ -68,7 +68,130 @@ nav {
   overflow: hidden;  
 }  
   
-/* Rest of your CSS */  
+nav a {  
+  float: left;  
+  display: inline-block;  
+  padding: 20px 10px;  
+  text-align: center;  
+  text-decoration: none;  
+  font-family: 'Arial', sans-serif;  
+  font-weight: bold;  
+  margin-right: 20px;  
+  font-size: 17px;  
+}  
+  
+nav a.active {  
+  background-color: black;  
+  color: white;  
+}  
+  
+nav ul {  
+  font-family: 'Arial', sans-serif;  
+  padding: 0px;  
+  list-style: none;  
+  font-weight: bold;  
+  display: inline;  
+  margin-right: 20px;  
+}  
+  
+nav li {  
+  display: inline;  
+  margin-right: 20px;  
+}  
+  
+nav a.right {  
+  float: right;  
+}  
+  
+/* Dropdown */  
+.dropdown {  
+  float: left;  
+  overflow: hidden;  
+  display: inline-block;  
+  padding: 20px 10px;  
+  text-align: center;  
+  text-decoration: none;  
+  color: #999;  
+  font-family: 'Arial', sans-serif;  
+  font-weight: bold;  
+  margin: 0px;  
+  font-size: 17px;  
+  border: none;  
+  outline: none;  
+}  
+  
+nav a:hover, .dropdown:hover {  
+  background-color: #ddd;  
+  color: black;  
+}  
+  
+/* Dropdown Content */  
+.dropdown-content {  
+  display: none;  
+  position: absolute;  
+  background-color: #f9f9f9;  
+  min-width: 160px;  
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);  
+  z-index: 1;  
+}  
+  
+.dropdown-content a {  
+  float: none;  
+  color: black;  
+  padding: 12px 16px;  
+  text-decoration: none;  
+  display: block;  
+  text-align: left;  
+}  
+  
+.dropdown-content a:hover {  
+  background-color: #ddd;  
+}  
+  
+.dropdown:hover .dropdown-content {  
+  display: block;  
+}  
+  
+/* Custom container */  
+.container > hr {  
+  margin: 30px 0;  
+}  
+  
+.container > hr.footer {  
+  margin-bottom: 15px;  
+}  
+  
+/* Email Obfuscation */  
+.obfuscate {  
+  unicode-bidi: bidi-override;  
+  direction: rtl;  
+}  
+  
+/* Individual Page Customization */  
+ul.posts {  
+  margin: 20px auto 40px;  
+  font-size: 1.5em;  
+}  
+  
+/* Avatar Styling */  
+img.avatar {  
+  border-radius: 50%;  
+}  
+  
+/* Packages */  
+div.packages {  
+  float: left;  
+  clear: both;  
+}  
+  
+img.packages {  
+  float: left;  
+  margin: 0 15px 0 0;  
+}  
+  
+/* ============================ */  
+/* PRINT-SPECIFIC STYLES BELOW */  
+/* ============================ */  
   
 /* Ensure legal A4 formatting */  
 @page {  
@@ -76,7 +199,6 @@ nav {
     margin: 20mm;  
 }  
   
-/* PRINT-SPECIFIC STYLES BELOW */  
 @media print {  
   /* Force Arial for court requirements */  
   * {  
