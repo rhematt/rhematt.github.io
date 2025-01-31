@@ -192,18 +192,12 @@ img.packages {
 /* ============================ */  
 /* PRINT-SPECIFIC STYLES BELOW */  
 /* ============================ */  
-  
-/* Ensure legal A4 formatting */  
-@page {  
-    size: A4;  
-    margin: 20mm;  
-}  
+
   
 @media print {  
   /* Force Arial for court requirements */  
   * {  
-      font-family: Arial, sans-serif !important;  
-      font-size: 11pt;  
+      font-size: 10pt;  
       line-height: 1.2;  
       color: black !important;  
       background: none !important;  
