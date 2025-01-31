@@ -1,7 +1,13 @@
 [  
   {  
+    "year": "2025",  
+    "award": "Google Security Researcher Thanks"  ,
+    "description": "Awarded to those who discover security-related issues with the Google platform and engage in responsible and ethical disclosure."  
+  },  
+  {  
     "year": "2023",  
-    "award": "XVideos Security Researcher Thanks"  
+    "award": "XVideos Security Researcher Thanks" ,
+    "description": "Awarded to those who discover security-related issues with the Xvideos platform and engage in responsible and ethical disclosure."   
   },  
   {  
     "year": "2020",  

@@ -1,6 +1,25 @@
 [  
-  {  
-    "position": "Postdoctoral Research Fellow",  
+  {
+    "position": "Founder & CEO",
+    "employer": "RHEM Labs Pty Ltd",
+    "location": "Adelaide, Australia",
+    "start_year": "2023",
+    "end_year": "Present",
+    "description": "As the Founder and CEO of RHEM Labs, I lead the development of AI-driven forensic and legal automation solutions, integrating Generative AI, digital forensics, and cloud platforms (Google Cloud & Microsoft Azure) to enhance accessibility and forensic investigations. With a PhD in Digital Forensics and expertise in Responsible AI, my work focuses on advancing AI-powered forensic analysis, streamlining digital disclosure, evidence processing, and expert reporting.\n\nI lead the design and deployment of LoganAI, an AI-powered forensic and legal automation platform that leverages LLMs (Large Language Models), secure cloud computing, and digital forensic methodologies to support expert witnesses, forensic analysts, and legal professionals. These solutions enable automated case analysis, forensic triage, and AI-assisted document generation while ensuring compliance with legal evidentiary standards.\n\nKey contributions include:\n- Development of AI-assisted forensic automation techniques to enhance eDiscovery, case assessment, and evidence processing.\n- Deployment of secure forensic AI systems on Microsoft Azure and Google Cloud to ensure compliance, scalability, and data security.\n- Integration of AI models for forensic analysis and document synthesis to support expert witness preparation.\n- Advocacy for Responsible AI in forensic and legal applications, ensuring AI-assisted methods align with ethical and legal frameworks.\n\nThrough RHEM Labs, I continue to advance AI and cloud computing applications in forensic science, collaborating with legal professionals, forensic experts, and industry stakeholders to drive innovation in expert testimony preparation and digital investigations.",
+    "publications_generated": []
+  },
+  {
+    "position": "Sole Trader",
+    "employer": "RHEM Labs",
+    "location": "Adelaide, Australia",
+    "start_year": "2017",
+    "end_year": "2023",
+    "description": "RHEM Labs commenced operations as a sole trader business handling forensic operations and teaching services tertiary level courses in Dr Matthews areas of expertise. In 2023, as part of joining the competitive Microsoft for Startups Accelerator program the sole trader business was closed and the forensic services were amalgamated as a division of RHEM Labs Pty Ltd.",
+    "publications_generated": []
+  },
+  
+    
+{    "position": "Postdoctoral Research Fellow",  
     "employer": "University of Adelaide",  
     "location": "Adelaide, Australia",  
     "start_year": "2023",  

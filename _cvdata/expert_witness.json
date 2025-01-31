@@ -11,10 +11,20 @@
   ],  
   "reports_provided": [  
     {  
+      "case": "Client Name Withheld",  
+      "court": "FCCFCOA",  
+      "year": "2024"
+    }, 
+    {  
       "case": "Ey v Fairmont Homes",  
       "court": "Commissioner for Consumer Affairs Tribunal",  
       "year": "2023"  
     },  
+    {  
+      "case": "R v A (pseudonym)",  
+      "court": "South Australian Magistrates Court",  
+      "year": "2023"  
+    }, 
     {  
       "case": "R v W (pseudonym)",  
       "court": "Queensland Magistrates Court",  
@@ -26,13 +36,18 @@
       "year": "2023"  
     },  
     {  
+      "case": "Private Client",  
+      "agency": "Queensland Motor Accident Insurance Commission",  
+      "year": "2023"  
+    },  
+    {  
       "case": "Private Client, Civil Matter",  
       "court": "Queensland Magistrates Court",  
       "year": "2022"  
     },  
     {  
       "case": "Australian Broadcasting Corporation",  
-      "year": "2022"  
+      "year": "2021"  
     },  
     {  
       "case": "Mawson Lakes Football Club v Adelaide Footy League",  
@@ -40,25 +55,36 @@
       "year": "2020"  
     },  
     {  
-      "case": "Royal Society for the Prevention of Cruelty towards Animals",  
+      "case": "Royal Society for the Prevention of Cruelty towards Animals, Byethorne Duck",  
       "year": "2017"  
     }  
   ],  
-  "advice_provided": [  
+  "advice_provided": [ 
+ 
     {  
-      "case": "Review into the Inquest of Michael Cross",  
+      "case": "Attempted Murder Investigation ",  
       "location": "Queensland",  
       "year": "2023"  
     },  
     {  
-      "case": "Private Client",  
-      "agency": "Queensland Motor Accident Insurance Commission",  
+      "case": "Review into the Inquest of Michael Cross ",  
+      "location": "Queensland",  
       "year": "2023"  
     },  
     {  
+      "case": "Civil Unrest",  
+      "location": "Washington DC",  
+      "year": "2021"  
+    }, 
+    {  
       "case": "Private Client",  
       "year": "2022"  
-    },  
+    }, 
+    {  
+      "case": "Civil Unrest",  
+      "location": "Washington DC",  
+      "year": "2021"  
+    },   
     {  
       "case": "Private Client",  
       "year": "2020"  

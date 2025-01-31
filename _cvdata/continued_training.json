@@ -1,5 +1,56 @@
 [  
   {  
+    "course": "Azure Fundamentals: 6 Part Course",  
+    "provider": "Microsoft Virtual Training",  
+    "year": "2025"  
+  },  
+  {  
+    "course": "Microsoft Summer AI Bootcamp: Gold Badge Attendee",  
+    "provider": "Microsoft",  
+    "year": "2025"  
+  }, 
+
+  {  
+    "course": "Google for Startups Accelerator ",  
+    "provider": "Google",  
+    "year": "2025-current"  
+  },  
+  {  
+    "course": "Intorduction to Mixed Reality",  
+    "provider": "Microsoft",  
+    "year": "2024"  
+  },  
+  {  
+    "course": "Building Copilots for startups",  
+    "provider": "Microsoft",  
+    "year": "2023"  
+  },  
+  {  
+    "course": "Microsoft Azure Fundamentals: Describe Cloud Concepts",  
+    "provider": "Microsoft",  
+    "year": "2023"  
+  },  
+  {  
+    "course": "Microsoft for Startups Accelerator ",  
+    "provider": "Microsoft",  
+    "year": "2023-current"  
+  },  
+  {  
+    "course": "Apple Health Data",  
+    "provider": "DFRWS APAC",  
+    "year": "2022"  
+  },  
+  {  
+    "course": "Apple Health Data",  
+    "provider": "DFRWS APAC",  
+    "year": "2022"  
+  },  
+  {  
+    "course": "Fundamentals of University Governance",  
+    "provider": "Forensic Audio Clarification using iZotope RX 8. Online",  
+    "year": "2021"  
+  },  
+  {  
     "course": "Fundamentals of University Governance",  
     "provider": "Australian Institute of Company Directors",  
     "year": "2019"  
