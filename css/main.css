@@ -140,12 +140,65 @@ img.packages {
 }
 
 @media print {
-  .no-print {
+  /* Ensure all text is in Arial */
+  * {
+    font-family: Arial, sans-serif !important;
+    font-size: 11pt;
+    line-height: 1.2;
+    color: black !important;
+    background: none !important;
+  }
+
+  /* Hide unnecessary elements */
+  .no-print, nav, footer {
     display: none;
   }
-  * {
-    font-family: Arial, sans-serif;
+
+  /* Ensure headings do not break across pages */
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+
+  /* Ensure tables are formatted properly */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+    page-break-inside: auto;
+  }
+
+  tr {
+    page-break-inside: avoid;
+  }
+
+  td, th {
+    border: 1px solid black;
+    padding: 5px;
+  }
+
+  /* Remove hyperlink styling */
+  a {
+    text-decoration: none;
+    color: black !important;
+  }
+
+  a::after {
+    content: "";
+  }
+
+  /* Ensure legal A4 formatting */
+  @page {
+    size: A4;
+    margin: 20mm;
+    counter-increment: page;
+  }
+
+  /* Add page numbers */
+  body::after {
+    content: "Page " counter(page) " of " counter(pages);
+    position: fixed;
+    bottom: 10mm;
+    right: 10mm;
     font-size: 10pt;
-    line-height: 1.0;
   }
 }
