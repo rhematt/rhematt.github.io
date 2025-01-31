@@ -4,5 +4,5 @@
     "date": "31 May 2020",  
     "link": "https://rhematt.github.io/Snap-Scraper/",  
     "description": "SnapScraper is an open-source intelligence tool which enables users to download media uploaded to Snapchat’s Snap Map using a set of latitude and longitude coordinates.\n- Developed in Swift in 2020.\n- This project led to an honours project for 3 students in 2021 at the University of Adelaide to expand upon the functionality for automatically moderating the content uploaded to social media networks using convolutional networks.\n- A decision was made to release this innovation under an MIT license rather than pursue a patent due to the application space for the law enforcement and intelligence community at large."  
-  }  
+  }
 ]  

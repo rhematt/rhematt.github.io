@@ -3,19 +3,15 @@
   "degrees": [  
     "PhD",  
     "GDipBA",  
-    "BE(Hons)",  
-    "MIEAust",  
-    "MAICD"  
+    "BE(Hons)" 
   ],  
   "location": "Adelaide, Australia",  
   "email": "moc.liamg@swehttamehr",  
-  "phone": "+61 16 414 275 570",  
+  "phone": "+61 414 275 570",  
   "professional_titles": [  
     "PhD",  
     "GDipBA",  
-    "BE(Hons)",  
-    "MIEAust",  
-    "MAICD"  
+    "BE(Hons)" 
   ],  
-  "professional_summary": "Dr Richard Matthews is an expert in digital forensics with a focus on image validation and media forensics. He has extensive experience in developing tools for forensic intelligence workflows and has contributed to the field through his research and publications."  
+  "professional_summary": "Dr Richard Matthews is an expert in digital forensics with specialised knowledge derived from extensive training, study, and experience. He holds a PhD in digital forensics from the University of Adelaide, where he focused on sensor pattern noise in image sensors, and has developed innovative tools for forensic intelligence workflows, including systems that assist in CSAM investigations by matching individuals across videos using voice and facial attributes. His work encompasses research into 3D imaging applications in forensics, responsible disclosure of security vulnerabilities in digital platforms, and contributions through peer-reviewed publications and presentations to international expert groups. Dr Matthews serves as an expert witness, has taught and supervised students in digital forensics, and actively participates in professional bodies, demonstrating his specialised expertise in the field. He is currently the founder of RHEM Labs Pty Ltd where he continues to develop generative AI tools with the support of leading echnology companies Microsoft and Google and continues to serve the community by providing forensic investigation services as and when required."  
 }  

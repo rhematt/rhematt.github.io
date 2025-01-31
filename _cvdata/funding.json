@@ -2,6 +2,41 @@
   "grants": [  
     {  
       "investigator": "Matthews, R.",  
+      "year": "2025",  
+      "title": "Google for Startups: Enhanced Support Grant",  
+      "funder": "Google",  
+      "amount": "AUD 19,330.80"  
+    },  
+    {  
+      "investigator": "Matthews, R.",  
+      "year": "2025",  
+      "title": "Google for Startups: 2025 GFS Cloud Program Scale Y1",  
+      "funder": "Google",  
+      "amount": "AUD 120,817.50"  
+    },  
+    {  
+      "investigator": "Matthews, R.",  
+      "year": "2024",  
+      "title": "Google for Startups: 2024 GFS Cloud Program Scale Y1",  
+      "funder": "Google",  
+      "amount": "AUD 161,090"  
+    },  
+    {  
+      "investigator": "Matthews, R.",  
+      "year": "2024",  
+      "title": "Australia National AI Spriint: LoganAI Semi Final Grant",  
+      "funder": "Google",  
+      "amount": "AUD 37,715"  
+    },  
+    {  
+      "investigator": "Matthews, R.",  
+      "year": "2023",  
+      "title": "Microsoft for Startups Founders Hub",  
+      "funder": "Microsoft",  
+      "amount": "USD 150,000"  
+    },  
+    {  
+      "investigator": "Matthews, R.",  
       "year": "2020",  
       "title": "Applications of GAN from Cyber Intelligence Perspective",  
       "funder": "NATO CCDCoE",  
@@ -51,6 +86,30 @@
     }  
   ],  
   "bug_bounties": [  
+    {  
+      "reporter": "Matthews, R.",  
+      "year": "UNDISCLOSED",  
+      "title": "UNDISCLOSED",  
+      "platform": "Google",  
+      "amount": "UNDISCLOSED",  
+      "link": "UNDISCLOSED1"  
+    },  
+    {  
+      "reporter": "Matthews, R.",  
+      "year": "UNDISCLOSED",  
+      "title": "UNDISCLOSED",  
+      "platform": "BugCrowd",  
+      "amount": "UNDISCLOSED",  
+      "link": "UNDISCLOSED1"  
+    },  
+    {  
+      "reporter": "Matthews, R.",  
+      "year": "UNDISCLOSED",  
+      "title": "UNDISCLOSED",  
+      "platform": "HackerOne",  
+      "amount": "UNDISCLOSED",  
+      "link": "UNDISCLOSED1"  
+    },  
     {  
       "reporter": "Matthews, R.",  
       "year": "2020",  

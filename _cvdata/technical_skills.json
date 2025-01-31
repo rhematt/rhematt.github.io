@@ -1,17 +1,44 @@
-{  
-  "lab_skills": [  
-    "PCB Soldering",  
-    "3D Modelling",  
-    "3D Printing and Manufacturing",  
-    "High Performance Computing"  
-  ],  
-  "computer_languages_and_tools": [  
-    "Matlab",  
-    "Python 3.0",  
-    "Fusion360",  
-    "Markdown",  
-    "JavaScript",  
-    "Java",  
-    "HTML"  
-  ]  
-}  
+{
+  "lab_skills": [
+    "Digital Forensics & Incident Response",
+    "AI Model Development & LLM Fine-Tuning",
+    "Cloud Infrastructure Deployment (Azure & Google Cloud)",
+    "High-Performance Computing (HPC)",
+    "AI Ethics & Responsible AI Implementation",
+    "Cybersecurity & Threat Intelligence",
+    "OSINT (Open Source Intelligence)",
+    "Digital Image & Sensor Pattern Noise Analysis",
+    "Forensic Data Processing & Chain of Custody",
+    "Expert Witness Testimony & Report Writing",
+    "Generative AI & AI-assisted Legal Automation",
+    "DevOps & Infrastructure Automation",
+    "Embedded Systems & Edge AI",
+    "PCB Soldering",
+    "3D Modelling",
+    "3D Printing and Manufacturing",
+    "Systems Engineering & Architecture Design"
+  ],
+  "computer_languages_and_tools": [
+    "Python 3.0",
+    "Matlab",
+    "JavaScript",
+    "Java",
+    "C++",
+    "HTML",
+    "Markdown",
+    "Fusion360",
+    "Bash & Shell Scripting",
+    "PowerShell",
+    "Docker & Kubernetes",
+    "SQL & NoSQL Databases",
+    "React.js",
+    "Azure Functions & Serverless Computing",
+    "Google Cloud Platform (GCP)",
+    "Microsoft Azure",
+    "AI/ML Frameworks (TensorFlow, PyTorch, OpenAI API)",
+    "LaTeX",
+    "Git & Version Control",
+    "OpenCV & Image Processing",
+    "API Development & Integration"
+  ]
+}

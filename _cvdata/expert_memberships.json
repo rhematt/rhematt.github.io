@@ -1,18 +1,23 @@
 [  
   {  
+    "organization": "Editorial Board: Forensic Science International - Digital Investigation",  
+    "start_year": "2019",  
+    "end_year": ""  
+  },  
+  {  
     "organization": "INTERPOL Digital Forensic Experts Group",  
     "start_year": "2021",  
-    "end_year": "Current"  
+    "end_year": ""  
   },  
   {  
     "organization": "UK Forensic Capability Network Visual Technologies Experts Group",  
     "start_year": "2022",  
-    "end_year": "Current",  
+    "end_year": "",  
     "note": "Formerly 3D Experts Group"  
   },  
   {  
     "organization": "UK Forensic Capability Network 3D Experts Group",  
     "start_year": "2020",  
-    "end_year": "2022"  
+    "end_year": ""  
   }  
 ]  

@@ -10,8 +10,6 @@ title: Curriculum Vitae of Dr Richard Matthews
   <h2>{{ site.data.personal_information.full_name }}</h2>  
   <h3>{{ site.data.personal_information.professional_titles | join: ', ' }}</h3>  
   <p>Location: {{ site.data.personal_information.location }}</p>  
-  <p>Email: <span class="obfuscate">{{ site.data.personal_information.email }}</span></p>  
-  <p>Phone: <span class="obfuscate">{{ site.data.personal_information.phone }}</span></p>  
 </div>  
   
 <!-- Professional Summary -->  
