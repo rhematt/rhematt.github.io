@@ -1,7 +1,10 @@
 ---  
 layout: default  
-title: Curriculum Vitae of Dr Richard Matthews  
+title: "Curriculum Vitae of Dr Richard Matthews"  
 ---  
+  
+<!-- Begin: Resume Content -->  
+<div id="resume-content">  
   
 <h1>{{ page.title }}</h1>  
   
@@ -45,7 +48,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <!-- Education -->  
 <section id="education">  
   <h2>Education</h2>  
-  {% for education in site.data.education %}  
+  {% for education in site.data.education.education %}  
     <h3>{{ education.degree }}</h3>  
     <p>{{ education.institution }}<br>  
     {{ education.location }}<br>  
@@ -77,7 +80,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <!-- Research Employment -->  
 <section id="research-employment">  
   <h2>Research Employment</h2>  
-  {% for position in site.data.experience %}  
+  {% for position in site.data.experience.positions %}  
     <h3>{{ position.position }}</h3>  
     <p>{{ position.employer }}<br>  
     {{ position.location }}<br>  
@@ -119,7 +122,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <section id="awards-and-prizes">  
   <h2>Awards and Prizes</h2>  
   <ul>  
-    {% for award in site.data.awards_prizes %}  
+    {% for award in site.data.awards_prizes.awards %}  
       <li>  
         {{ award.year }}: {{ award.award }}  
         {% if award.description %}  
@@ -140,54 +143,54 @@ title: Curriculum Vitae of Dr Richard Matthews
   
 ---  
   
-<!-- Publications -->    
-<section id="publications">    
-  <h2>Publications</h2>    
-  <p>Last updated: {{ site.data.activity.last_updated }}</p>    
-  <p>To see my publication activity including citations as a graph please <a href="{{ site.data.activity.activity_link }}">click here</a>.</p>    
-    
-  <h3>Journals</h3>    
-  <ul>    
-    {% for journal in site.data.journals %}    
-      <li>    
-        {{ journal.authors | join: ', ' }}. {{ journal.year }}. "<em>{{ journal.title }}</em>". <strong>{{ journal.journal }}</strong>.    
-        {% if journal.volume %} Vol. {{ journal.volume }},{% endif %}    
-        {% if journal.pages %} pp. {{ journal.pages }},{% endif %}    
-        {% if journal.month %} {{ journal.month }},{% endif %}    
-        DOI: <a href="{{ journal.link }}">{{ journal.doi }}</a>.    
-      </li>    
-    {% endfor %}    
-  </ul>    
-    
-  <h3>Technical and Policy Reports</h3>    
-  <ul>    
-    {% for report in site.data.technical_reports %}    
-      <li>    
-        {{ report.authors | join: ', ' }}. {{ report.year }}. "<em>{{ report.title }}</em>". {{ report.publisher }}.    
-        {% if report.location %} {{ report.location }},{% endif %}    
-        {% if report.link %} Available: <a href="{{ report.link }}">{{ report.link }}</a>.{% endif %}    
-      </li>    
-    {% endfor %}    
-  </ul>    
-    
-  <h3>Popular Sources</h3>    
-  <ul>    
-    {% for source in site.data.popular_sources %}    
-      <li>    
-        {{ source.author }}{% if source.co_author %} and {{ source.co_author }}{% endif %}. ({{ source.year }}). "{{ source.title }}". {{ source.publisher }}.    
-        {% if source.type %} ({{ source.type }}){% endif %}.    
-        {% if source.link %} Available: <a href="{{ source.link }}">{{ source.link }}</a>.{% endif %}    
-      </li>    
-    {% endfor %}    
-  </ul>    
-</section>     
+<!-- Publications -->  
+<section id="publications">  
+  <h2>Publications</h2>  
+  <p>Last updated: {{ site.data.activity.last_updated }}</p>  
+  <p>To see my publication activity including citations as a graph please <a href="{{ site.data.activity.activity_link }}">click here</a>.</p>  
+  
+  <h3>Journals</h3>  
+  <ul>  
+    {% for journal in site.data.journals.journals %}  
+      <li>  
+        {{ journal.authors | join: ', ' }}. {{ journal.year }}. "<em>{{ journal.title }}</em>". <strong>{{ journal.journal }}</strong>.  
+        {% if journal.volume %} Vol. {{ journal.volume }},{% endif %}  
+        {% if journal.pages %} pp. {{ journal.pages }},{% endif %}  
+        {% if journal.month %} {{ journal.month }},{% endif %}  
+        DOI: <a href="{{ journal.link }}">{{ journal.doi }}</a>.  
+      </li>  
+    {% endfor %}  
+  </ul>  
+  
+  <h3>Technical and Policy Reports</h3>  
+  <ul>  
+    {% for report in site.data.technical_reports.reports %}  
+      <li>  
+        {{ report.authors | join: ', ' }}. {{ report.year }}. "<em>{{ report.title }}</em>". {{ report.publisher }}.  
+        {% if report.location %} {{ report.location }},{% endif %}  
+        {% if report.link %} Available: <a href="{{ report.link }}">{{ report.link }}</a>.{% endif %}  
+      </li>  
+    {% endfor %}  
+  </ul>  
+  
+  <h3>Popular Sources</h3>  
+  <ul>  
+    {% for source in site.data.popular_sources.sources %}  
+      <li>  
+        {{ source.author }}{% if source.co_author %} and {{ source.co_author }}{% endif %}. ({{ source.year }}). "{{ source.title }}". {{ source.publisher }}.  
+        {% if source.type %} ({{ source.type }}){% endif %}.  
+        {% if source.link %} Available: <a href="{{ source.link }}">{{ source.link }}</a>.{% endif %}  
+      </li>  
+    {% endfor %}  
+  </ul>  
+</section>  
   
 ---  
   
 <!-- Patents and Open Source Deployments -->  
 <section id="patents-and-projects">  
   <h2>Patents and Open Source Deployments</h2>  
-  {% for project in site.data.patents_projects %}  
+  {% for project in site.data.patents_projects.projects %}  
     <h3>{{ project.title }}</h3>  
     <p>Date: {{ project.date }}</p>  
     <p>Link: <a href="{{ project.link }}">{{ project.link }}</a></p>  
@@ -205,7 +208,12 @@ title: Curriculum Vitae of Dr Richard Matthews
   <ul>  
     {% for grant in site.data.funding.grants %}  
       <li>  
-        {{ grant.investigator | default: grant.investigators | join: ', ' }}. {{ grant.year }}. "{{ grant.title }}". {{ grant.funder }}. {{ grant.amount }}.  
+        {% if grant.investigator %}  
+          {{ grant.investigator }}  
+        {% else %}  
+          {{ grant.investigators | join: ', ' }}  
+        {% endif %}.  
+        {{ grant.year }}. "{{ grant.title }}". {{ grant.funder }}. {{ grant.amount }}.  
       </li>  
     {% endfor %}  
   </ul>  
@@ -227,7 +235,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <section id="conference-proceedings">  
   <h2>Conference Proceedings and Abstracts</h2>  
   <ul>  
-    {% for proceeding in site.data.conference_proceedings %}  
+    {% for proceeding in site.data.conference_proceedings.proceedings %}  
       <li>  
         {{ proceeding.authors | join: ', ' }}. {{ proceeding.year }}. "<em>{{ proceeding.title }}</em>". In {{ proceeding.conference }}. {{ proceeding.location }}.  
         {% if proceeding.link %} Available: <a href="{{ proceeding.link }}">{{ proceeding.link }}</a>.{% endif %}  
@@ -278,7 +286,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <section id="academic-service">  
   <h2>Academic Service</h2>  
   <ul>  
-    {% for service in site.data.academic_service %}  
+    {% for service in site.data.academic_service.services %}  
       <li>  
         {{ service.role }}  
         {% if service.event %} for {{ service.event }}{% endif %}  
@@ -296,7 +304,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <section id="expert-memberships">  
   <h2>Expert Memberships</h2>  
   <ul>  
-    {% for membership in site.data.expert_memberships %}  
+    {% for membership in site.data.expert_memberships.memberships %}  
       <li>  
         {{ membership.organization }}  
         {% if membership.start_year %} ({{ membership.start_year }} - {{ membership.end_year }}){% endif %}  
@@ -311,7 +319,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <!-- Expert Witness -->  
 <section id="expert-witness">  
   <h2>Expert Witness</h2>  
-  <p>As a prominent forensic scientist, Dr Matthews is sometimes called to act as an expert witness in matters of digital forensics.</p>  
+  <p>{{ site.data.expert_witness.intro | markdownify }}</p>  
   
   <h3>Expert Witness Cases</h3>  
   <ul>  
@@ -354,7 +362,7 @@ title: Curriculum Vitae of Dr Richard Matthews
 <section id="continued-training">  
   <h2>Continued Training</h2>  
   <ul>  
-    {% for training in site.data.continued_training %}  
+    {% for training in site.data.continued_training.trainings %}  
       <li>  
         {{ training.course }}. {{ training.provider }}. {{ training.year }}.  
       </li>  
@@ -369,7 +377,7 @@ title: Curriculum Vitae of Dr Richard Matthews
   <h2>Member Bodies</h2>  
   <p>Dr Matthews has made a commitment to the profession as a member of the following bodies:</p>  
   <ul>  
-    {% for body in site.data.member_bodies %}  
+    {% for body in site.data.member_bodies.bodies %}  
       <li>  
         {{ body.organization }}  
         {% if body.status %} ({{ body.status }}){% endif %}  
@@ -386,8 +394,39 @@ title: Curriculum Vitae of Dr Richard Matthews
   <p>{{ site.data.references.note }}</p>  
 </section>  
   
+</div> <!-- End of #resume-content div -->  
+  
 ---  
   
 <!-- Back to Top -->  
 <p><a href="#top">Back to Top</a></p>  
   
+<!-- Print and PDF Download Buttons -->  
+<div class="no-print">  
+  <button onclick="window.print()">Print CV</button>  
+  <button id="download-pdf">Download as PDF</button>  
+</div>  
+  
+<!-- Include html2pdf.js Library -->  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.3/html2pdf.bundle.min.js"></script>  
+  
+<!-- JavaScript for PDF Generation -->  
+<script>  
+document.getElementById('download-pdf').addEventListener('click', function () {  
+    const element = document.getElementById('resume-content');  
+    const opt = {  
+        margin:       [10, 10, 10, 10], // Margins: [top, left, bottom, right]  
+        filename:     'Richard_Matthews_CV.pdf',  
+        image:        { type: 'jpeg', quality: 0.98 },  
+        html2canvas:  { scale: 2 },  
+        jsPDF:        { unit: 'mm', format: 'a4', orientation: 'portrait' }  
+    };  
+  
+    // Apply custom styles if necessary  
+    element.classList.add('print-pdf');  
+  
+    html2pdf().set(opt).from(element).save().then(function () {  
+        element.classList.remove('print-pdf');  
+    });  
+});  
+</script>  
