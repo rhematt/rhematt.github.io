@@ -1,4 +1,24 @@
 [  
+{
+  "authors": ["Matthews, R."],
+  "year": "2026",
+  "title": "Blueprints to Firearms – A Practitioner’s Guide to Investigating Clandestine 3D-Printed Firearm Labs",
+  "journal": "Australian Journal of Forensic Sciences"
+}
+,
+{
+  "authors": ["Matthews, R."],
+  "year": "2026",
+  "title": "Challenges in Authenticating Synthetic Media: Forensic Insights from 6,000 DALL·E-Generated Images",
+  "journal": "Australian Journal of Forensic Sciences"
+}
+,
+{
+  "authors": ["Matthews, R."],
+  "year": "2026",
+  "title": "Bits, Bias, and Blackstone: When Machines Testify — Is the Digital Trace Admissible in Court?",
+  "journal": "Australian Journal of Forensic Sciences"
+},
   {  
     "title": "Determining Image Sensor Temperature Using Dark Current",  
     "authors": [  

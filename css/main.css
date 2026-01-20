@@ -208,10 +208,11 @@ img.packages {
       display: none !important;  
   }  
   
-  /* Ensure headings don't break at page edges */  
-  h1, h2, h3 {  
-      page-break-after: avoid;  
-  }  
+  /* Keep headings with the content that follows */
+  h1, h2, h3 {
+      break-after: avoid;
+      page-break-after: avoid;
+  }
   
   /* Ensure tables do not break across pages */  
   table {  
@@ -240,12 +241,112 @@ img.packages {
       content: "";  
   }  
   
-  /* Page numbers */  
-  body::after {  
-      content: "Page " counter(page);  
-      position: fixed;  
-      bottom: 10mm;  
-      right: 10mm;  
-      font-size: 10pt;  
-  }  
+  /* Pagination / page-break control */
+  section {
+      break-inside: auto;
+      page-break-inside: auto;
+  }
+
+  /* Avoid splitting lists and key blocks when possible */
+  ul, ol, table, blockquote {
+      break-inside: avoid;
+      page-break-inside: avoid;
+  }
+
+  /* Utility: wrap any chunk in .cv-avoid-break if it must stay together */
+  .cv-avoid-break {
+      break-inside: avoid;
+      page-break-inside: avoid;
+  }
+
+  /* Reduce awkward orphan/widow lines */
+  p {
+      orphans: 3;
+      widows: 3;
+  }
 }  
+
+/* CV action buttons */
+.cv-actions {
+  margin: 12px 0 18px 0;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.cv-btn {
+  appearance: none;
+  border: 1px solid #ccc;
+  background: #f7f7f7;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1.2;
+}
+
+.cv-btn:hover {
+  background: #efefef;
+}
+
+.cv-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Ensure these never show in print output */
+@media print {
+  .cv-actions { display: none !important; }
+  .no-print { display: none !important; }
+}
+
+/* CV table of contents (avoid inheriting site nav styling) */
+.cv-toc {
+  margin: 0 0 18px 0;
+}
+
+.cv-toc h2 {
+  margin: 0 0 10px 0;
+}
+
+/* Single-line TOC: inline items with separators */
+.cv-toc ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.cv-toc li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  white-space: nowrap;
+}
+
+.cv-toc li:not(:last-child)::after {
+  content: " — ";
+}
+
+/* Ensure TOC links do NOT inherit site nav floats/padding */
+.cv-toc a,
+.cv-toc a:visited {
+  float: none !important;
+  display: inline !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  font-weight: bold;
+  font-size: 1em;
+  color: #999;
+  text-decoration: none;
+}
+
+.cv-toc a:hover {
+  text-decoration: underline;
+}
+
+/* Print: use a simpler separator and keep it tidy */
+@media print {
+  .cv-toc li:not(:last-child)::after {
+    content: " | ";
+  }
+}

@@ -1,6 +1,10 @@
 {  
   "expert_witness_cases": [  
     {  
+      "case": "R v HARRISON [2025] QDC  (12 March 2025)",  
+      "role": "Expert Witness"  
+    },
+    {  
       "case": "R v CAILES [2023] SADC 35 (14 Apr 2023)",  
       "role": "Expert Witness"  
     },  
@@ -9,7 +13,17 @@
       "role": "Expert Witness"  
     }  
   ],  
-  "reports_provided": [  
+  "reports_provided": [ 
+       {  
+      "case": "R v Singh",  
+      "court": "QDC",  
+      "year": "2025"
+    },  
+       {  
+      "case": "Matter Listed for Retrial",  
+      "court": "QDC",  
+      "year": "2025"
+    }, 
     {  
       "case": "Client Name Withheld",  
       "court": "FCCFCOA",  

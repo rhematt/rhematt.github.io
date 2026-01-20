@@ -1,4 +1,30 @@
-[  
+[ 
+  {
+  "authors": ["Matthews, R."],
+  "year": "2023",
+  "title": "Submission",
+  "publisher": "Royal Commission into Defence and Veteran Suicide",
+  "location": "Australia",
+  "link": "Available by request"
+}
+,
+{
+  "authors": ["Matthews, R."],
+  "year": "2022",
+  "title": "Submission",
+  "publisher": "Royal Commission into Violence, Abuse, Neglect and Exploitation of People with Disability",
+  "location": "Australia",
+  "link": "Available by request"
+}
+,
+{
+  "authors": ["Matthews, R."],
+  "year": "2017",
+  "title": "Suicide by Veterans and Ex-Service personnel",
+  "publisher": "Senate Standing Committee on Foreign Affairs, Defence and Trade",
+  "location": "Australia",
+  "link": "Available by request"
+}, 
   {  
     "title": "Generative Adversarial Networks from a Cyber Intelligence perspective",  
     "authors": [  
